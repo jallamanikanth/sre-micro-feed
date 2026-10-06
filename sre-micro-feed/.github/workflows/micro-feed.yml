@@ -1,0 +1,40 @@
+name: SRE micro-feed
+
+on:
+  schedule:
+    # GitHub Actions uses UTC. These are 1:00 PM and 9:00 PM India time (IST = UTC+5:30).
+    - cron: "30 7,15 * * *"
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write # needed to save the updated web page and seen.json
+
+concurrency:
+  group: micro-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Read blogs and write summaries
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python feed.py
+
+      - name: Save the updated page
+        run: |
+          if [ -n "$(git status --porcelain docs seen.json)" ]; then
+            git config user.name "micro-feed-bot"
+            git config user.email "micro-feed-bot@users.noreply.github.com"
+            git add docs seen.json
+            git commit -m "Update micro-feed"
+            git push
+          fi
