@@ -1,5 +1,50 @@
 [
   {
+    "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
+    "summary": "Concept / Topic: Multi-day AZ evacuation drills using AWS ARC Zonal Shift.\nHow it works: ARC removes target AZ endpoints from DNS, blocks cross-zone routing, and cordons EKS nodes to test N-1 capacity.\nKey Takeaway / Skill learned: Extended drills uncover time-dependent failure modes like scaling gaps and stale connections missed by brief tests.\nCategory: Learning & Guides",
+    "ai": true,
+    "added": "2026-10-06T22:25:31+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/18/ARCHBLOG-1571-featured-image.png"
+  },
+  {
+    "title": "A model guide for the GPT-6 family",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "ai": false,
+    "added": "2026-10-06T22:25:31+00:00",
+    "image": ""
+  },
+  {
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "summary": "Concept / Topic: Falcon-Emirati, an LLM designed to understand dialect, culture, and nuance.\nHow it works: Not specified in the provided article text.\nKey Takeaway / Skill learned: Technical details are omitted from the source.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-06T22:25:31+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/MJHJMYW3O4CkLvXvn7DOp.png"
+  },
+  {
+    "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
+    "summary": "Learn how to architect a highly available Oracle Database environment on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP. This post covers EC2 bare metal instance selection, vSAN and FSx storage tiering, NSX networking, and...",
+    "ai": false,
+    "added": "2026-10-06T22:25:31+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/18/ARCHBLOG-1652-featured-image-1.png"
+  },
+  {
+    "title": "Tutorial: How Kubernetes Operators Work: Building a Controller From Scratch",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/tutorials/build-a-kubernetes-operator-from-scratch-a6eecb2c",
+    "summary": "Welcome wanderer! If you've landed on this tutorial, you've probably installed an operator or two, like cert-manager or Argo CD, or you're about to write your own and want to know how they work. An operator has two parts. A CustomResourceDefinition (CRD) adds...",
+    "ai": false,
+    "added": "2026-10-06T22:25:31+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/tutorials/build-a-kubernetes-operator-from-scratch-a6eecb2c/__static__/operator-overview.png?v=1790859760840"
+  },
+  {
     "title": "Scaling Kubernetes Workloads with Node Swap",
     "source": "Kubernetes Blog",
     "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",

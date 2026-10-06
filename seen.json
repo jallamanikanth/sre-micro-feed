@@ -13,5 +13,10 @@
   "https://thenewstack.io/cortex-xcor-ai-observability/",
   "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
   "https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/",
-  "https://about.gitlab.com/blog/transcend-india-announcements/"
+  "https://about.gitlab.com/blog/transcend-india-announcements/",
+  "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
+  "https://openai.com/index/practical-guide-building-gpt-6",
+  "https://huggingface.co/blog/tiiuae/falcon-emirati",
+  "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
+  "https://labs.iximiuz.com/tutorials/build-a-kubernetes-operator-from-scratch-a6eecb2c"
 ]
