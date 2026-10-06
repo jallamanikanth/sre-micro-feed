@@ -1,7 +1,4 @@
-# One feed URL per line. Lines starting with # are ignored.
-# A feed that is down or has moved is skipped automatically, so it is safe to experiment.
-# To add a source: search "<site name> RSS feed" and paste the URL on a new line.
-
+# --- Existing Feeds ---
 https://sreweekly.com/feed/
 https://blog.cloudflare.com/rss/
 https://github.blog/engineering/feed/
@@ -9,3 +6,16 @@ https://netflixtechblog.com/feed
 https://slack.engineering/feed/
 https://fly.io/blog/feed.xml
 https://danluu.com/atom.xml
+
+# --- New: Azure Updates & Tools ---
+https://azure.microsoft.com/en-us/updates/feed/
+https://azure.microsoft.com/en-us/blog/feed/
+
+# --- New: DevOps & Architecture ---
+https://cloud.google.com/blog/products/devops-sre/rss/
+https://about.gitlab.com/atom.xml
+https://www.hashicorp.com/blog/feed.xml
+
+# --- New: AI in Cloud / Cloud Native / SRE ---
+https://thenewstack.io/feed/
+https://kubernetes.io/feed.xml
