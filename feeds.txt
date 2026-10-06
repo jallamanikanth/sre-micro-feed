@@ -19,3 +19,47 @@ https://www.hashicorp.com/blog/feed.xml
 # --- New: AI in Cloud / Cloud Native / SRE ---
 https://thenewstack.io/feed/
 https://kubernetes.io/feed.xml
+https://azurecomcdn.azureedge.net/en-us/updates/feed/
+https://cloud.google.com/blog/rss
+
+
+# --- SRE & Incident Reports ---
+https://sreweekly.com/feed/
+https://blog.cloudflare.com/rss/
+https://netflixtechblog.com/feed
+https://engineering.fb.com/feed/
+https://blog.pragmaticengineer.com/rss/
+
+# --- AI & Machine Learning Engineering ---
+https://openai.com/blog/rss.xml
+https://research.google/blog/rss/
+https://engineering.atspotify.com/feed/
+https://huggingface.co/blog/feed.xml
+https://bair.berkeley.edu/blog/feed.xml
+
+# --- Cloud & Architecture ---
+https://aws.amazon.com/blogs/architecture/feed/
+https://azurecomcdn.azureedge.net/en-us/updates/feed/
+https://cloud.google.com/blog/rss
+https://www.datadoghq.com/blog/feed.xml
+
+# --- SRE & Incident Reports ---
+https://sreweekly.com/feed/
+https://blog.cloudflare.com/rss/
+https://netflixtechblog.com/feed
+
+# --- ELITE SRE & DEVOPS TRAINING / TUTORIALS ---
+# DevOpsCube (Kubernetes, CI/CD, MLOps, Certifications tutorials)
+https://devopscube.com/feed/
+# Ivan Velichko / iximiuz labs (Incredible Linux, Docker, & K8s deep dives)
+https://labs.iximiuz.com/feed.rss
+# Brendan Gregg (The absolute authority on Linux/SRE systems performance)
+https://www.brendangregg.com/blog/rss.xml
+# Julia Evans (Brilliant, easy-to-understand networking & DNS training)
+https://jvns.ca/atom.xml
+# ByteByteGo (Top-tier System Design & Architecture training)
+https://blog.bytebytego.com/feed
+
+# --- AI & Cloud Architecture ---
+https://azurecomcdn.azureedge.net/en-us/updates/feed/
+https://cloud.google.com/blog/rss
