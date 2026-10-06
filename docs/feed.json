@@ -1,5 +1,45 @@
 [
   {
+    "title": "SRE Weekly Issue #533",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-533/",
+    "summary": "Topic: SRE Weekly Issue 533 newsletter digest.\nKey idea: Articles cover incident detection, distributed database coordination failures, AI automation limits, and scaling CI Git infrastructure.\nTakeaway: SRE practices balance technical scaling, incident handling, and keeping critical reliability tasks in human hands.",
+    "ai": true,
+    "added": "2026-10-06T21:37:15+00:00"
+  },
+  {
+    "title": "SRE Weekly Issue #537",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-537/",
+    "summary": "View on sreweekly.com A message from our sponsor, WarpBuild: WarpBuild runs your GitHub Actions jobs on runners that are 2x faster at half the cost. Change one line in your workflow file and keep everything else. Get $50 in free credits to try it now Try...",
+    "ai": false,
+    "added": "2026-10-06T21:37:15+00:00"
+  },
+  {
+    "title": "8 major updates to Cloudflare Observability",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/one-observability-platform/",
+    "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+    "ai": false,
+    "added": "2026-10-06T21:37:15+00:00"
+  },
+  {
+    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/streamline/",
+    "summary": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
+    "ai": false,
+    "added": "2026-10-06T21:37:15+00:00"
+  },
+  {
+    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+    "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is the one your...",
+    "ai": false,
+    "added": "2026-10-06T21:37:15+00:00"
+  },
+  {
     "title": "SRE Weekly Issue #535",
     "source": "SRE WEEKLY",
     "link": "https://sreweekly.com/sre-weekly-issue-535/",
