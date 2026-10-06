@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "title": "SRE Weekly Issue #535",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-535/",
+    "summary": "View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding...",
+    "ai": false,
+    "added": "2026-10-06T21:24:45+00:00"
+  },
+  {
+    "title": "SRE Weekly Issue #534",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-534/",
+    "summary": "View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding...",
+    "ai": false,
+    "added": "2026-10-06T21:24:45+00:00"
+  },
+  {
+    "title": "The keys to the Internet change on October 11. Are you ready?",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+    "summary": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover.",
+    "ai": false,
+    "added": "2026-10-06T21:24:45+00:00"
+  },
+  {
+    "title": "Building Git infrastructure for agent-scale development",
+    "source": "The latest from GitHub's engineering team - The GitHub Blog",
+    "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
+    "ai": false,
+    "added": "2026-10-06T21:24:45+00:00"
+  },
+  {
+    "title": "Everything we launched during Birthday Week 2026",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+    "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here\u2019s a day-by-day roundup of everything we shipped.",
+    "ai": false,
+    "added": "2026-10-06T21:24:45+00:00"
+  }
+]
