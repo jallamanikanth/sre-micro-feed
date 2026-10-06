@@ -1,5 +1,45 @@
 [
   {
+    "title": "Scaling Kubernetes Workloads with Node Swap",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+    "summary": "Topic: Kubernetes node swap on NVMe SSDs.\nKey idea: Paging dormant container memory to fast disk increases pod density up to 3x without OOM kills.\nTakeaway: Swap buffers bursty memory spikes, provided active working sets remain in physical RAM.\nCategory: DevOps",
+    "ai": true,
+    "added": "2026-10-06T21:52:58+00:00"
+  },
+  {
+    "title": "XCOR launches to trace outages in minutes. It still pages engineers.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/cortex-xcor-ai-observability/",
+    "summary": "Topic: Launch of XCOR.\nKey idea: The tool traces outages in minutes while still paging engineers.\nTakeaway: Rapid outage tracing still relies on human engineers being alerted.\nCategory: DevOps",
+    "ai": true,
+    "added": "2026-10-06T21:52:58+00:00"
+  },
+  {
+    "title": "Spotlight on SIG Apps",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
+    "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch processing, AI workloads, and platform...",
+    "ai": false,
+    "added": "2026-10-06T21:52:58+00:00"
+  },
+  {
+    "title": "How to design GitLab for enterprise scale",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/",
+    "summary": "At enterprise scale, even small architecture choices can have outsized consequences. A deployment that works for a handful of teams can become a constraint once thousands of developers, repositories, and pipelines depend on it. That makes each decision made...",
+    "ai": false,
+    "added": "2026-10-06T21:52:58+00:00"
+  },
+  {
+    "title": "GitLab Transcend: Speed you can trust, all the way to production",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/transcend-india-announcements/",
+    "summary": "At Transcend, we made over a dozen announcements across all four layers of our architecture for agentic software engineering: agent orchestration, data and context, DevOps workflows, and governance and security. Watch the replay , or read on for what shipped...",
+    "ai": false,
+    "added": "2026-10-06T21:52:58+00:00"
+  },
+  {
     "title": "SRE Weekly Issue #533",
     "source": "SRE WEEKLY",
     "link": "https://sreweekly.com/sre-weekly-issue-533/",
