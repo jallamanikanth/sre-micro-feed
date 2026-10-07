@@ -1,5 +1,50 @@
 [
   {
+    "title": "Simplifying Terraform for IBM Z with intent-driven workflows",
+    "source": "HashiCorp Blog",
+    "link": "https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows",
+    "summary": "Learn how intent-driven workflows introduce a new interaction model for IBM Terraform for Z and LinuxONE, helping organizations modernize infrastructure operations through guided, repeatable agentic workflows.",
+    "ai": false,
+    "added": "2026-10-07T14:37:27+00:00",
+    "image": ""
+  },
+  {
+    "title": "Tutorial: How Kubernetes CRDs Work: Designing a Validated API From Scratch",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/tutorials/open-a-kubernetes-zoo-9ad54ae8",
+    "summary": "Welcome wanderer! If you've landed on this tutorial, you've probably seen CRDs come along with an operator you installed, or you're about to write your own and want to know what the API server actually does with one. By the end of this tutorial, you will have...",
+    "ai": false,
+    "added": "2026-10-07T14:37:27+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/tutorials/open-a-kubernetes-zoo-9ad54ae8/__static__/cover.png?v=1790836742121"
+  },
+  {
+    "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/",
+    "summary": "Learn how to build AI interfaces that automatically adapt to your agents' variable outputs, using the AG-UI protocol for dynamic UI generation, the Strands Agents SDK swarm pattern for explainable multi-agent collaboration, and Amazon Nova Act to integrate...",
+    "ai": false,
+    "added": "2026-10-07T14:37:27+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/28/ARCHBLOG-1366-featured-image.png"
+  },
+  {
+    "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
+    "summary": "Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance. The post Enhancing Microsoft Azure Virtual Machine lifecycle appeared first on Microsoft Azure Blog .",
+    "ai": false,
+    "added": "2026-10-07T14:37:27+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Azure-VM-Lifecycle-1b.jpg"
+  },
+  {
+    "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
+    "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default). With this feature, the PersistentVolumeClaim (PVC) protection controller adds an Unused condition to each PVC, telling you whether any running pod...",
+    "ai": false,
+    "added": "2026-10-07T14:37:27+00:00",
+    "image": ""
+  },
+  {
     "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
