@@ -1,5 +1,50 @@
 [
   {
+    "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/",
+    "summary": "Equinix, the world's digital infrastructure company, built a shared services architecture on Amazon EKS to eliminate the operational sprawl of its self-managed Kubernetes environment. Learn how a multi-account North Star architecture centralized governance...",
+    "ai": false,
+    "added": "2026-10-07T20:41:34+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/17/ARCHBLOG-1449-featured-image.png"
+  },
+  {
+    "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/",
+    "summary": "Datalex, a leader in airline ecommerce, partnered with AWS on a three-day Experience-Based Acceleration (EBA) workshop to prove modernization feasibility. Learn how they migrated a core reservation component from EJB/Java 8 to Spring Boot/Java 21, built a...",
+    "ai": false,
+    "added": "2026-10-07T20:41:34+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/29/ARCHBLOG-1483-featured-image.png"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "ai": false,
+    "added": "2026-10-07T20:41:34+00:00",
+    "image": ""
+  },
+  {
+    "title": "Advancing computer use with Ironclad",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "ai": false,
+    "added": "2026-10-07T20:41:34+00:00",
+    "image": ""
+  },
+  {
+    "title": "Challenge: Call an HTTP API with curl: Authenticating with Basic Auth and Bearer Tokens",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/linux-call-http-api-with-authentication",
+    "summary": "Concept / Topic: Authenticating HTTP API requests using curl with Basic Auth and Bearer tokens.\nHow it works: Pass credentials via -u flags, direct Authorization headers, Bearer tokens, or ~/.netrc files.\nKey Takeaway / Skill learned: Query secure APIs with curl while keeping credentials out of shell history.\nCategory: Learning & Guides",
+    "ai": true,
+    "added": "2026-10-07T20:41:34+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/images/cover-challenge-networking-rev2.webp"
+  },
+  {
     "title": "Simplifying Terraform for IBM Z with intent-driven workflows",
     "source": "HashiCorp Blog",
     "link": "https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows",
