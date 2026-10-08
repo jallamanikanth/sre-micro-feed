@@ -1,5 +1,50 @@
 [
   {
+    "title": "The Pulse: Firebase\u2019s global outage & poor response",
+    "source": "The Pragmatic Engineer",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",
+    "summary": "The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn\u2019t update the status page, but did offer a postmortem 4 days later.",
+    "ai": false,
+    "added": "2026-10-08T20:44:11+00:00",
+    "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2023/05/Big-Tech---startups---from-the-inside.png"
+  },
+  {
+    "title": "Most AI incident tools still leave a key decision to humans",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/ai-sre-agent-autonomy-phases/",
+    "summary": "An AI SRE agent can help troubleshoot an incident. But can you trust it to decide on its own when The post Most AI incident tools still leave a key decision to humans appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-08T20:44:11+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/08/e2372247-osarugue-igbinoba-vfwig_hleny-unsplash.jpg"
+  },
+  {
+    "title": "How Software Boundaries Are The Most Important Skill for Developers",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
+    "summary": "In this article, we\u2019ll learn some key strategies that can help a developer make the right boundary-related decisions for the systems they are working on.",
+    "ai": false,
+    "added": "2026-10-08T20:44:11+00:00",
+    "image": ""
+  },
+  {
+    "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "summary": "We\u2019ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a typical domain-specific agent. Its...",
+    "ai": false,
+    "added": "2026-10-08T20:44:11+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/08/Domain-Expert-AI-Hero-1.png"
+  },
+  {
+    "title": "Building cloud-native PACS on AWS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/",
+    "summary": "A hybrid cloud architecture pattern for modernizing medical imaging on AWS. Learn how multi-hospital networks can centralize PACS archives, enable cross-facility interoperability, and use Amazon S3 storage tiers to manage cost and retention at scale.",
+    "ai": false,
+    "added": "2026-10-08T20:44:11+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/16/ARCHBLOG-1613-featured-image-1.png"
+  },
+  {
     "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
     "source": "Microsoft Azure Blog",
     "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
