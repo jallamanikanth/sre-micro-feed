@@ -1,5 +1,50 @@
 [
   {
+    "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
+    "summary": "The opportunity is bigger than making individual tasks faster. It\u2019s to build a system that learns from how infrastructure is designed, sourced, and operated. The post AI transformation across the infrastructure lifecycle: From supply chain to fleet operations...",
+    "ai": false,
+    "added": "2026-10-08T14:43:14+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/261001_AI-Powered_Systems_Hero-2.jpeg"
+  },
+  {
+    "title": "AI changed how you respond to incidents. Your tabletops haven\u2019t caught up.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/ai-incident-response-tabletops/",
+    "summary": "Tabletop exercises answer one question: when something breaks, will the people responsible for fixing it do the right thing, in The post AI changed how you respond to incidents. Your tabletops haven\u2019t caught up. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-08T14:43:14+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/986ff718-zyanya-citlalli-hqz5xftbvg4-unsplash.jpg"
+  },
+  {
+    "title": "Bridging technical depth and usability: The story behind Radar\u2019s redesign",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/radar-redesign/",
+    "summary": "What happened: Cloudflare redesigned Radar's landing page with an interactive map and tabbed data navigation.\nWhy: The previous layout was visually overwhelming, difficult to parse, and intimidating for non-technical users.\nLesson: Presenting complex global data requires intuitive entry points and clear hierarchy to balance technical depth with accessibility.\nCategory: General",
+    "ai": true,
+    "added": "2026-10-08T14:43:14+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4DWY89ZAV8VV76CKKZXT18F.01M4DWY9FYSBMPEDPF1WQARM7H.png"
+  },
+  {
+    "title": "Bridging technical depth and usability: The story behind Radar\u2019s redesign",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/radar-redesign/",
+    "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience \u2014 including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we...",
+    "ai": false,
+    "added": "2026-10-08T14:43:14+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4DWY89ZAV8VV76CKKZXT18F.01M4DWY9FYSBMPEDPF1WQARM7H.png"
+  },
+  {
+    "title": "How to Customize a Model to Learn New Tricks",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/how-to-customize-a-model-to-learn",
+    "summary": "In this article, we are going to look at the various strategies to customize and fine-tune a model.",
+    "ai": false,
+    "added": "2026-10-08T14:43:14+00:00",
+    "image": ""
+  },
+  {
     "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/",
