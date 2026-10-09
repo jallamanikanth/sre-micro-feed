@@ -1,5 +1,50 @@
 [
   {
+    "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/",
+    "summary": "Learn how DHI Group partnered with AWS to move generative AI workloads from idea to production using a structured hackathon. This post covers the Hackathon Acceleration Package, the winning ClearanceJobs and AgileATS agentic architecture on Amazon Bedrock...",
+    "ai": false,
+    "added": "2026-10-09T14:27:45+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/08/18/ARCHBLOG-1540-featured-image.png"
+  },
+  {
+    "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/",
+    "summary": "Real-time streaming workers that hold hundreds of persistent WebSocket connections lose data when a worker fails. Learn how to build a WebSocket fleet management system on Amazon ECS and AWS Fargate that uses Amazon DynamoDB conditional writes as a...",
+    "ai": false,
+    "added": "2026-10-09T14:27:45+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/08/ARCHBLOG-1505-featured-image.png"
+  },
+  {
+    "title": "Amazon ECS now auto-repairs failing GPUs and instances. Here\u2019s why it matters for SREs.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/amazon-ecs-auto-repair/",
+    "summary": "Running applications in production means maintaining an \u201calways-on\u201d posture through disruptions. Infrastructure fails; dependencies slow down, and networks partition, not The post Amazon ECS now auto-repairs failing GPUs and instances. Here\u2019s why it matters...",
+    "ai": false,
+    "added": "2026-10-09T14:27:45+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/b33e6966-yianni-mathioudakis-qwzidkpj_xe-unsplash.jpg"
+  },
+  {
+    "title": "GitHub Copilot is going local \u2014 but Microsoft won\u2019t say what gets sent to the cloud",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/https-thenewstack-io-copilot-local-inference-routing/",
+    "summary": "GitHub Copilot will soon decide whether coding tasks run locally or get sent to cloud models, with automatic routing expected The post GitHub Copilot is going local \u2014 but Microsoft won\u2019t say what gets sent to the cloud appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-09T14:27:45+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/01/25870d76-screenshot-2026-01-30-at-19.58.20.png"
+  },
+  {
+    "title": "Our approach to EU text provenance rules",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/eu-text-provenance",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "ai": false,
+    "added": "2026-10-09T14:27:45+00:00",
+    "image": ""
+  },
+  {
     "title": "The Pulse: Firebase\u2019s global outage & poor response",
     "source": "The Pragmatic Engineer",
     "link": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",

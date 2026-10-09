@@ -38,5 +38,10 @@
   "https://thenewstack.io/ai-sre-agent-autonomy-phases/",
   "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
   "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
-  "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/"
+  "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/",
+  "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/",
+  "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/",
+  "https://thenewstack.io/amazon-ecs-auto-repair/",
+  "https://thenewstack.io/https-thenewstack-io-copilot-local-inference-routing/",
+  "https://openai.com/index/eu-text-provenance"
 ]
