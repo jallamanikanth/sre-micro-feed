@@ -53,5 +53,10 @@
   "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
   "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
   "https://thenewstack.io/kubernetes-node-swap-ai/",
-  "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when"
+  "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
+  "https://thenewstack.io/ai-agent-evaluation-loop/",
+  "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
+  "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
+  "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+  "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
 ]

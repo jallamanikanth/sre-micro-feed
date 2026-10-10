@@ -1,5 +1,50 @@
 [
   {
+    "title": "How to turn AI production feedback into better agents",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/ai-agent-evaluation-loop/",
+    "summary": "Your agent is live. The service is healthy. But are its answers getting better? By connecting production traces, curated data, The post How to turn AI production feedback into better agents appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-10T19:23:25+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/2c857371-martin-neuhold-f-rtmmpucp8-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
+    "summary": "October 2026: This post was reviewed and updated for accuracy. Today we\u2019re launching the AWS Digital Sovereignty Lens, a new Well-Architected lens providing customers with extended guidance for designing, building, and operating sovereign workloads on AWS....",
+    "ai": false,
+    "added": "2026-10-10T19:23:25+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/02/REVBLOG-1296-featured-image-1.png"
+  },
+  {
+    "title": "The LLM Blindspot: Why Models Forget What\u2019s in the Middle of Your Prompt",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
+    "summary": "In this article, we\u2019ll look at why LLMs have this bias against middle information.",
+    "ai": false,
+    "added": "2026-10-10T19:23:25+00:00",
+    "image": ""
+  },
+  {
+    "title": "Toward provably private learning from federated data",
+    "source": "The latest research from Google",
+    "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+    "summary": "Mobile Systems",
+    "ai": false,
+    "added": "2026-10-10T19:23:25+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
+    "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
+    "summary": "Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for example, prohibiting deletion of files across...",
+    "ai": false,
+    "added": "2026-10-10T19:23:25+00:00",
+    "image": ""
+  },
+  {
     "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
     "source": "Microsoft Azure Blog",
     "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
