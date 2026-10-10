@@ -1,5 +1,50 @@
 [
   {
+    "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
+    "summary": "The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it. The post Ship agents faster with expanded model choice, voice agents, and continuous...",
+    "ai": false,
+    "added": "2026-10-10T13:53:30+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Foundry-Optimization-3-1.jpg"
+  },
+  {
+    "title": "Your architecture diagram is not your resilience",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
+    "summary": "For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain. The post Your architecture diagram is not your resilience appeared first on Microsoft...",
+    "ai": false,
+    "added": "2026-10-10T13:53:30+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Designing-for-Resilience-6.jpg"
+  },
+  {
+    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
+    "source": "Spotify Engineering",
+    "link": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
+    "summary": "Quality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex... The post AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity appeared first on Spotify Engineering .",
+    "ai": false,
+    "added": "2026-10-10T13:53:30+00:00",
+    "image": "https://images.ctfassets.net/p762jor363g1/6gLL3mDjx3AoPGWca14Xe7/c30c8bdfd06f78383da92f3df819d798/Option_2.1.png"
+  },
+  {
+    "title": "Kubernetes on cgroup v1 is dead. Here\u2019s what comes next.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/kubernetes-node-swap-ai/",
+    "summary": "Welcome back to another edition of Road to KubeCon, where we\u2019re tracking the latest movements in the cloud-native ecosystem as The post Kubernetes on cgroup v1 is dead. Here\u2019s what comes next. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-10T13:53:30+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/cc0dfb39-growtika-wlknzfskmxq-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Why LLMs Agree With You Even When You\u2019re Wrong",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
+    "summary": "When LLMs sometimes agree with incorrect claims, it is mostly because their training rewards such behaviour. This reward system is built on several things at once, such as accuracy, helpfulness, politeness, and responses that people like.",
+    "ai": false,
+    "added": "2026-10-10T13:53:30+00:00",
+    "image": ""
+  },
+  {
     "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
     "source": "Microsoft Azure Blog",
     "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
