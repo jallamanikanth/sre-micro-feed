@@ -1,5 +1,50 @@
 [
   {
+    "title": "Kubernetes Changed Block Tracking API - Beta Differences",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/",
+    "summary": "Changed Block Tracking (CBT) support for CSI drivers shipped as Alpha in September 2025. With the March 2026 v1.0.0 release of the external-snapshot-metadata project, the feature moved to Beta . If you aren't yet familiar with changed block tracking for...",
+    "ai": false,
+    "added": "2026-10-11T14:13:18+00:00",
+    "image": ""
+  },
+  {
+    "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/",
+    "summary": "Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by default. On Linux nodes running cgroup v2, the feature uses the memory controller to give the kernel better guidance on how to treat container memory. It was first introduced as Alpha...",
+    "ai": false,
+    "added": "2026-10-11T14:13:18+00:00",
+    "image": ""
+  },
+  {
+    "title": "Last 3 days: AI Evals, October cohort",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
+    "summary": "Secure your spot in AI Evals in Practice. Enrollment closes in just 3 days! If you\u2019ve been thinking about joining, now\u2019s the time.",
+    "ai": false,
+    "added": "2026-10-11T14:13:18+00:00",
+    "image": ""
+  },
+  {
+    "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
+    "summary": "MHK built the SmartProminence AI Orchestrator, a HIPAA-eligible agentic workflow framework on AWS using Amazon Bedrock, Amazon ECS, and event-driven patterns. It reduced manual medical review effort by 90% and cut new AI feature deployment from months to...",
+    "ai": false,
+    "added": "2026-10-11T14:13:18+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/29/ARCHBLOG-1486-featured-image-1.png"
+  },
+  {
+    "title": "Stream HCP Vault Dedicated audit logs to Microsoft Sentinel",
+    "source": "HashiCorp Blog",
+    "link": "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel",
+    "summary": "HCP Vault Dedicated has no native Microsoft Sentinel connector. Deploy a Terraform-managed pipeline that streams audit logs into Azure Log Analytics and Microsoft Sentinel.",
+    "ai": false,
+    "added": "2026-10-11T14:13:18+00:00",
+    "image": ""
+  },
+  {
     "title": "How to turn AI production feedback into better agents",
     "source": "The New Stack",
     "link": "https://thenewstack.io/ai-agent-evaluation-loop/",
@@ -483,45 +528,5 @@
     "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is the one your...",
     "ai": false,
     "added": "2026-10-06T21:37:15+00:00"
-  },
-  {
-    "title": "SRE Weekly Issue #535",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-535/",
-    "summary": "View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding...",
-    "ai": false,
-    "added": "2026-10-06T21:24:45+00:00"
-  },
-  {
-    "title": "SRE Weekly Issue #534",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-534/",
-    "summary": "View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding...",
-    "ai": false,
-    "added": "2026-10-06T21:24:45+00:00"
-  },
-  {
-    "title": "The keys to the Internet change on October 11. Are you ready?",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
-    "summary": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover.",
-    "ai": false,
-    "added": "2026-10-06T21:24:45+00:00"
-  },
-  {
-    "title": "Building Git infrastructure for agent-scale development",
-    "source": "The latest from GitHub's engineering team - The GitHub Blog",
-    "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-    "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
-    "ai": false,
-    "added": "2026-10-06T21:24:45+00:00"
-  },
-  {
-    "title": "Everything we launched during Birthday Week 2026",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
-    "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here\u2019s a day-by-day roundup of everything we shipped.",
-    "ai": false,
-    "added": "2026-10-06T21:24:45+00:00"
   }
 ]

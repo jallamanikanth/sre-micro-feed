@@ -58,5 +58,10 @@
   "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
   "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
   "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-  "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
+  "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
+  "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/",
+  "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/",
+  "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
+  "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
+  "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"
 ]
