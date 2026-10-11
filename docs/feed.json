@@ -1,5 +1,50 @@
 [
   {
+    "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
+    "summary": "In Linux, cgroups (control groups) are a kernel feature used for managing system resources. Kubernetes uses cgroups to allocate resources like CPU and memory to containers, ensuring that applications run smoothly without interfering with each other. With the...",
+    "ai": false,
+    "added": "2026-10-11T19:37:23+00:00",
+    "image": ""
+  },
+  {
+    "title": "Claude Code found my app\u2019s shared contract in two MCP calls. Then the records ran out.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/claude-code-mcp-records/",
+    "summary": "Every Claude Code user has watched a new session start from zero. You open it on a system you built The post Claude Code found my app\u2019s shared contract in two MCP calls. Then the records ran out. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-11T19:37:23+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/ea9f3fe0-ubaid-e-alyafizi-vnm6xar3ygm-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/",
+    "summary": "Anthropic\u2019s new OSS Scanner, launched last week as part of its broader Cyber Mission, exposes a problem inside the company\u2019s The post Claude found 29,000 possible bugs in open source. Only 516 have been fixed. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-11T19:37:23+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/d54a7713-oleksandr-chumak-zguburggmdy-unsplash-scaled.jpg"
+  },
+  {
+    "title": "What's new in Git 2.56.0?",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/whats-new-in-git-2-56-0/",
+    "summary": "The Git project recently released Git 2.56.0 . Let's look at some of the highlights of the release, including contributions from the Git team at GitLab. What's covered: Git Merge 2026 and schedule for Git 3.0 git-history(1) learns drop git-branch(1) learns to...",
+    "ai": false,
+    "added": "2026-10-11T19:37:23+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1782732487/ztwgrvlolpifo01vj8qc.png"
+  },
+  {
+    "title": "Impactful scheduling for GPU clusters",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-11T19:37:23+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Kj0n5ea3ItoNIc2ha2SVL.png"
+  },
+  {
     "title": "Kubernetes Changed Block Tracking API - Beta Differences",
     "source": "Kubernetes Blog",
     "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/",
@@ -488,45 +533,5 @@
     "summary": "At Transcend, we made over a dozen announcements across all four layers of our architecture for agentic software engineering: agent orchestration, data and context, DevOps workflows, and governance and security. Watch the replay , or read on for what shipped...",
     "ai": false,
     "added": "2026-10-06T21:52:58+00:00"
-  },
-  {
-    "title": "SRE Weekly Issue #533",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-533/",
-    "summary": "Topic: SRE Weekly Issue 533 newsletter digest.\nKey idea: Articles cover incident detection, distributed database coordination failures, AI automation limits, and scaling CI Git infrastructure.\nTakeaway: SRE practices balance technical scaling, incident handling, and keeping critical reliability tasks in human hands.",
-    "ai": true,
-    "added": "2026-10-06T21:37:15+00:00"
-  },
-  {
-    "title": "SRE Weekly Issue #537",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-537/",
-    "summary": "View on sreweekly.com A message from our sponsor, WarpBuild: WarpBuild runs your GitHub Actions jobs on runners that are 2x faster at half the cost. Change one line in your workflow file and keep everything else. Get $50 in free credits to try it now Try...",
-    "ai": false,
-    "added": "2026-10-06T21:37:15+00:00"
-  },
-  {
-    "title": "8 major updates to Cloudflare Observability",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/one-observability-platform/",
-    "summary": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
-    "ai": false,
-    "added": "2026-10-06T21:37:15+00:00"
-  },
-  {
-    "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/streamline/",
-    "summary": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
-    "ai": false,
-    "added": "2026-10-06T21:37:15+00:00"
-  },
-  {
-    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
-    "summary": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is the one your...",
-    "ai": false,
-    "added": "2026-10-06T21:37:15+00:00"
   }
 ]

@@ -63,5 +63,10 @@
   "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/",
   "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
   "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
-  "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"
+  "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel",
+  "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
+  "https://thenewstack.io/claude-code-mcp-records/",
+  "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/",
+  "https://about.gitlab.com/blog/whats-new-in-git-2-56-0/",
+  "https://huggingface.co/blog/allenai/impactful-scheduling"
 ]
