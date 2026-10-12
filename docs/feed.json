@@ -1,5 +1,50 @@
 [
   {
+    "title": "How to Build Models Without Language, with Logical Intelligence",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
+    "summary": "Something unusual happened in a public Sudoku experiment early this year.",
+    "ai": false,
+    "added": "2026-10-12T16:51:49+00:00",
+    "image": ""
+  },
+  {
+    "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
+    "summary": "This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. It pairs AWS HealthOmics for managed genomics processing with a grounded Amazon Bedrock AgentCore agent, so...",
+    "ai": false,
+    "added": "2026-10-12T16:51:49+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/08/ARCHBLOG-1710-featured-image.png"
+  },
+  {
+    "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+    "summary": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We\u2019re sharing how we...",
+    "ai": false,
+    "added": "2026-10-12T16:51:49+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/MoQ-Instagram-Live-Meta-Hero.png"
+  },
+  {
+    "title": "Andrej Karpathy says only 5,000 people have seen what AI can really do",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/karpathy-levie-ai-capability-gap/",
+    "summary": "OpenAI founding member Andrej Karpathy, who joined Anthropic in May, thinks most of the world has little idea of what The post Andrej Karpathy says only 5,000 people have seen what AI can really do appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-12T16:51:49+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/9737c1d9-sarah-sheedy-t3y5gs-5wga-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Filter, reshape, and redact logs before export with Transformers",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/transformers-on-logpush/",
+    "summary": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the destination.",
+    "ai": false,
+    "added": "2026-10-12T16:51:49+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4HA4NCR1ES1EHGE8ZHS7TSA.png"
+  },
+  {
     "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
     "source": "Kubernetes Blog",
     "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
@@ -493,45 +538,5 @@
     "ai": false,
     "added": "2026-10-06T22:25:31+00:00",
     "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/tutorials/build-a-kubernetes-operator-from-scratch-a6eecb2c/__static__/operator-overview.png?v=1790859760840"
-  },
-  {
-    "title": "Scaling Kubernetes Workloads with Node Swap",
-    "source": "Kubernetes Blog",
-    "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
-    "summary": "Topic: Kubernetes node swap on NVMe SSDs.\nKey idea: Paging dormant container memory to fast disk increases pod density up to 3x without OOM kills.\nTakeaway: Swap buffers bursty memory spikes, provided active working sets remain in physical RAM.\nCategory: DevOps",
-    "ai": true,
-    "added": "2026-10-06T21:52:58+00:00"
-  },
-  {
-    "title": "XCOR launches to trace outages in minutes. It still pages engineers.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/cortex-xcor-ai-observability/",
-    "summary": "Topic: Launch of XCOR.\nKey idea: The tool traces outages in minutes while still paging engineers.\nTakeaway: Rapid outage tracing still relies on human engineers being alerted.\nCategory: DevOps",
-    "ai": true,
-    "added": "2026-10-06T21:52:58+00:00"
-  },
-  {
-    "title": "Spotlight on SIG Apps",
-    "source": "Kubernetes Blog",
-    "link": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
-    "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch processing, AI workloads, and platform...",
-    "ai": false,
-    "added": "2026-10-06T21:52:58+00:00"
-  },
-  {
-    "title": "How to design GitLab for enterprise scale",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/",
-    "summary": "At enterprise scale, even small architecture choices can have outsized consequences. A deployment that works for a handful of teams can become a constraint once thousands of developers, repositories, and pipelines depend on it. That makes each decision made...",
-    "ai": false,
-    "added": "2026-10-06T21:52:58+00:00"
-  },
-  {
-    "title": "GitLab Transcend: Speed you can trust, all the way to production",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/transcend-india-announcements/",
-    "summary": "At Transcend, we made over a dozen announcements across all four layers of our architecture for agentic software engineering: agent orchestration, data and context, DevOps workflows, and governance and security. Watch the replay , or read on for what shipped...",
-    "ai": false,
-    "added": "2026-10-06T21:52:58+00:00"
   }
 ]
