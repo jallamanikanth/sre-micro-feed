@@ -1,5 +1,50 @@
 [
   {
+    "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/d1-control-plane/",
+    "summary": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively.",
+    "ai": false,
+    "added": "2026-10-13T20:45:22+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4TZKNBC5XJ3T8WNHET65CMR.png"
+  },
+  {
+    "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/d1-control-plane/",
+    "summary": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively.",
+    "ai": false,
+    "added": "2026-10-13T20:45:22+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4TZKNBC5XJ3T8WNHET65CMR.png"
+  },
+  {
+    "title": "Meta\u2019s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+    "summary": "Last year, we introduced GEM, the industry\u2019s largest recommendation system (RecSys) foundation model. GEM established Meta\u2019s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building on this foundation, our next goal is to...",
+    "ai": false,
+    "added": "2026-10-13T20:45:22+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/GEM-Scaling-Frontier-Ads-HERO-copy-1.png"
+  },
+  {
+    "title": "How the Math Used in 19th-Century Heat Physics Helps LLMs Understand Sentences",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
+    "summary": "In this article, we are going to understand how this connection works and why a model needs help understanding the order of the words even when the words already arrive in an ordered list.",
+    "ai": false,
+    "added": "2026-10-13T20:45:22+00:00",
+    "image": ""
+  },
+  {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-13T20:45:22+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/YxGx9U6yV6_mumklCyMsE.png"
+  },
+  {
     "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
@@ -493,50 +538,5 @@
     "ai": true,
     "added": "2026-10-07T20:41:34+00:00",
     "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/images/cover-challenge-networking-rev2.webp"
-  },
-  {
-    "title": "Simplifying Terraform for IBM Z with intent-driven workflows",
-    "source": "HashiCorp Blog",
-    "link": "https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows",
-    "summary": "Learn how intent-driven workflows introduce a new interaction model for IBM Terraform for Z and LinuxONE, helping organizations modernize infrastructure operations through guided, repeatable agentic workflows.",
-    "ai": false,
-    "added": "2026-10-07T14:37:27+00:00",
-    "image": ""
-  },
-  {
-    "title": "Tutorial: How Kubernetes CRDs Work: Designing a Validated API From Scratch",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/tutorials/open-a-kubernetes-zoo-9ad54ae8",
-    "summary": "Welcome wanderer! If you've landed on this tutorial, you've probably seen CRDs come along with an operator you installed, or you're about to write your own and want to know what the API server actually does with one. By the end of this tutorial, you will have...",
-    "ai": false,
-    "added": "2026-10-07T14:37:27+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/tutorials/open-a-kubernetes-zoo-9ad54ae8/__static__/cover.png?v=1790836742121"
-  },
-  {
-    "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/",
-    "summary": "Learn how to build AI interfaces that automatically adapt to your agents' variable outputs, using the AG-UI protocol for dynamic UI generation, the Strands Agents SDK swarm pattern for explainable multi-agent collaboration, and Amazon Nova Act to integrate...",
-    "ai": false,
-    "added": "2026-10-07T14:37:27+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/28/ARCHBLOG-1366-featured-image.png"
-  },
-  {
-    "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
-    "summary": "Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance. The post Enhancing Microsoft Azure Virtual Machine lifecycle appeared first on Microsoft Azure Blog .",
-    "ai": false,
-    "added": "2026-10-07T14:37:27+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Azure-VM-Lifecycle-1b.jpg"
-  },
-  {
-    "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-    "source": "Kubernetes Blog",
-    "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
-    "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default). With this feature, the PersistentVolumeClaim (PVC) protection controller adds an Unused condition to each PVC, telling you whether any running pod...",
-    "ai": false,
-    "added": "2026-10-07T14:37:27+00:00",
-    "image": ""
   }
 ]
