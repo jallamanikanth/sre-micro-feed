@@ -1,5 +1,50 @@
 [
   {
+    "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
+    "summary": "In Part 2 of our Bulk Executor for Amazon DynamoDB series, we share how we built the tool: the design tradeoffs, surprises, and workarounds we hit while working with DynamoDB and AWS Glue. Consider it a travel guide for anyone building their own bulk tooling...",
+    "ai": false,
+    "added": "2026-10-13T15:10:19+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/08/ARCHBLOG-1731-featured-image.png"
+  },
+  {
+    "title": "Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/",
+    "summary": "Learn how VIPRE Security built an AI-powered email security solution on AWS to stop business email compromise. VIPRE Integrated Email Security uses machine learning and a serverless architecture on Amazon ECS, Amazon SQS, and Amazon S3 to detect and block...",
+    "ai": false,
+    "added": "2026-10-13T15:10:19+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/28/ARCHBLOG-1338-featured-image.png"
+  },
+  {
+    "title": "GitLab's agent orchestration eliminates the wait between development stages",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/gitlab-agent-orchestration/",
+    "summary": "AI coding tools have changed how fast software gets written, but not how fast it ships. As code generation accelerates, the bottleneck moves downstream into verify, review, and ship. Those stages still run on human time. While agents write fixes in minutes,...",
+    "ai": false,
+    "added": "2026-10-13T15:10:19+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1791202579/fnumyad0wd7etsy55a9z.png"
+  },
+  {
+    "title": "Make every AI credit count: See, cap, and reduce agent spend",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/make-every-ai-credit-count/",
+    "summary": "Costs multiply with every task you hand to an agent. Each task consumes tokens and credits, and as agents spread across your teams and automations, consumption can grow faster than usage. If you run the platform, you own that growth, including which teams and...",
+    "ai": false,
+    "added": "2026-10-13T15:10:19+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1791198675/kmajkudog4fj3xc6qfyb.png"
+  },
+  {
+    "title": "GPUs on Kubernetes are bring-your-own-everything, starting with the bill",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/gpus-on-kubernetes/",
+    "summary": "If you run a Kubernetes platform, you\u2019ve probably got at least one Grafana dashboard for resource visibility on your workloads. The post GPUs on Kubernetes are bring-your-own-everything, starting with the bill appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-13T15:10:19+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/bf19af6b-article-image-1024x576.png"
+  },
+  {
     "title": "How to Build Models Without Language, with Logical Intelligence",
     "source": "ByteByteGo Newsletter",
     "link": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-07T14:37:27+00:00",
     "image": ""
-  },
-  {
-    "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
-    "summary": "Concept / Topic: Multi-day AZ evacuation drills using AWS ARC Zonal Shift.\nHow it works: ARC removes target AZ endpoints from DNS, blocks cross-zone routing, and cordons EKS nodes to test N-1 capacity.\nKey Takeaway / Skill learned: Extended drills uncover time-dependent failure modes like scaling gaps and stale connections missed by brief tests.\nCategory: Learning & Guides",
-    "ai": true,
-    "added": "2026-10-06T22:25:31+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/18/ARCHBLOG-1571-featured-image.png"
-  },
-  {
-    "title": "A model guide for the GPT-6 family",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/practical-guide-building-gpt-6",
-    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "ai": false,
-    "added": "2026-10-06T22:25:31+00:00",
-    "image": ""
-  },
-  {
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "summary": "Concept / Topic: Falcon-Emirati, an LLM designed to understand dialect, culture, and nuance.\nHow it works: Not specified in the provided article text.\nKey Takeaway / Skill learned: Technical details are omitted from the source.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-06T22:25:31+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/MJHJMYW3O4CkLvXvn7DOp.png"
-  },
-  {
-    "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
-    "summary": "Learn how to architect a highly available Oracle Database environment on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP. This post covers EC2 bare metal instance selection, vSAN and FSx storage tiering, NSX networking, and...",
-    "ai": false,
-    "added": "2026-10-06T22:25:31+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/18/ARCHBLOG-1652-featured-image-1.png"
-  },
-  {
-    "title": "Tutorial: How Kubernetes Operators Work: Building a Controller From Scratch",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/tutorials/build-a-kubernetes-operator-from-scratch-a6eecb2c",
-    "summary": "Welcome wanderer! If you've landed on this tutorial, you've probably installed an operator or two, like cert-manager or Argo CD, or you're about to write your own and want to know how they work. An operator has two parts. A CustomResourceDefinition (CRD) adds...",
-    "ai": false,
-    "added": "2026-10-06T22:25:31+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/tutorials/build-a-kubernetes-operator-from-scratch-a6eecb2c/__static__/operator-overview.png?v=1790859760840"
   }
 ]

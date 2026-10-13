@@ -73,5 +73,10 @@
   "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
   "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
   "https://thenewstack.io/karpathy-levie-ai-capability-gap/",
-  "https://blog.cloudflare.com/transformers-on-logpush/"
+  "https://blog.cloudflare.com/transformers-on-logpush/",
+  "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
+  "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/",
+  "https://about.gitlab.com/blog/gitlab-agent-orchestration/",
+  "https://about.gitlab.com/blog/make-every-ai-credit-count/",
+  "https://thenewstack.io/gpus-on-kubernetes/"
 ]
