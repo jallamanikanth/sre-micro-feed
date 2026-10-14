@@ -83,5 +83,10 @@
   "https://blog.cloudflare.com/d1-control-plane/",
   "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
   "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
-  "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+  "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+  "https://about.gitlab.com/blog/scaling-git-for-the-agentic-software-factory/",
+  "https://thenewstack.io/chainguard-mythos-security-harness/",
+  "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+  "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/"
 ]

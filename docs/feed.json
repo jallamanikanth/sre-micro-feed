@@ -1,5 +1,50 @@
 [
   {
+    "title": "Deep dive into Azure Maia 300 architecture",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+    "summary": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog .",
+    "ai": false,
+    "added": "2026-10-14T12:57:39+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Maia-300-prototype-chip-09-1024x683.png"
+  },
+  {
+    "title": "Scaling Git for the agentic software factory",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/scaling-git-for-the-agentic-software-factory/",
+    "summary": "AI agents are fundamentally changing the economics of software development. As the cost of producing code falls, the volume of changes moving through the software factory is accelerating beyond what infrastructure designed for human developers was built to...",
+    "ai": false,
+    "added": "2026-10-14T12:57:39+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1785336708/ww4mlighwlvvzgnmbe6w.png"
+  },
+  {
+    "title": "66% of billion-dollar companies leave critical bugs unpatched \u2014 the part the AI bug-hunting hype leaves out",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/chainguard-mythos-security-harness/",
+    "summary": "Chainguard has launched an AI-powered security harness that uses frontier models, including Anthropic\u2019s restricted Claude Mythos 5.1, to find and The post 66% of billion-dollar companies leave critical bugs unpatched \u2014 the part the AI bug-hunting hype leaves...",
+    "ai": false,
+    "added": "2026-10-14T12:57:39+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/bed61db0-ivan-vranic-j9-2liz2_rc-unsplash.jpg"
+  },
+  {
+    "title": "The EU\u2019s next chapter in AI is agentic",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
+    "ai": false,
+    "added": "2026-10-14T12:57:39+00:00",
+    "image": ""
+  },
+  {
+    "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
+    "summary": "The next generation of AWS Resilience Hub adds three capabilities to keep workload scope and resilience requirements aligned with your running environment: Amazon EKS label support for service input sources, generative AI-powered Dependency Insights, and...",
+    "ai": false,
+    "added": "2026-10-14T12:57:39+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/13/ARCHBLOG-1735-featured-image.png"
+  },
+  {
     "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
     "source": "Cloudflare Blog",
     "link": "https://blog.cloudflare.com/d1-control-plane/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-08T14:43:14+00:00",
     "image": ""
-  },
-  {
-    "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/",
-    "summary": "Equinix, the world's digital infrastructure company, built a shared services architecture on Amazon EKS to eliminate the operational sprawl of its self-managed Kubernetes environment. Learn how a multi-account North Star architecture centralized governance...",
-    "ai": false,
-    "added": "2026-10-07T20:41:34+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/17/ARCHBLOG-1449-featured-image.png"
-  },
-  {
-    "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/",
-    "summary": "Datalex, a leader in airline ecommerce, partnered with AWS on a three-day Experience-Based Acceleration (EBA) workshop to prove modernization feasibility. Learn how they migrated a core reservation component from EJB/Java 8 to Spring Boot/Java 21, built a...",
-    "ai": false,
-    "added": "2026-10-07T20:41:34+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/29/ARCHBLOG-1483-featured-image.png"
-  },
-  {
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/teens-learn-and-plan",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "ai": false,
-    "added": "2026-10-07T20:41:34+00:00",
-    "image": ""
-  },
-  {
-    "title": "Advancing computer use with Ironclad",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "ai": false,
-    "added": "2026-10-07T20:41:34+00:00",
-    "image": ""
-  },
-  {
-    "title": "Challenge: Call an HTTP API with curl: Authenticating with Basic Auth and Bearer Tokens",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/linux-call-http-api-with-authentication",
-    "summary": "Concept / Topic: Authenticating HTTP API requests using curl with Basic Auth and Bearer tokens.\nHow it works: Pass credentials via -u flags, direct Authorization headers, Bearer tokens, or ~/.netrc files.\nKey Takeaway / Skill learned: Query secure APIs with curl while keeping credentials out of shell history.\nCategory: Learning & Guides",
-    "ai": true,
-    "added": "2026-10-07T20:41:34+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/images/cover-challenge-networking-rev2.webp"
   }
 ]
