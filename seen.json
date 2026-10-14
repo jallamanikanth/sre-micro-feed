@@ -88,5 +88,10 @@
   "https://about.gitlab.com/blog/scaling-git-for-the-agentic-software-factory/",
   "https://thenewstack.io/chainguard-mythos-security-harness/",
   "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-  "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/"
+  "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
+  "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/",
+  "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
+  "https://thenewstack.io/kubernetes-hidden-latency-telemetry/",
+  "https://thenewstack.io/subquadratic-snap-jev-decision-model/",
+  "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"
 ]
