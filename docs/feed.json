@@ -1,5 +1,50 @@
 [
   {
+    "title": "Behind the Scenes: Evolving Netflix\u2019s Ads Event Pipeline for Live \u2014 Part II",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+    "summary": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a standard data contract....",
+    "ai": false,
+    "added": "2026-10-15T12:44:23+00:00",
+    "image": ""
+  },
+  {
+    "title": "Behind the Scenes: Evolving Netflix\u2019s Ads Event Pipeline for Live \u2014 Part II",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+    "summary": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a standard data contract....",
+    "ai": false,
+    "added": "2026-10-15T12:44:23+00:00",
+    "image": ""
+  },
+  {
+    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/yandex-outage/",
+    "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
+    "ai": false,
+    "added": "2026-10-15T12:44:23+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4Y140VQ20JV2JNAC18Y1A2G.png"
+  },
+  {
+    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/yandex-outage/",
+    "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
+    "ai": false,
+    "added": "2026-10-15T12:44:23+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4Y140VQ20JV2JNAC18Y1A2G.png"
+  },
+  {
+    "title": "Advancing hardware security with open-source Integrated HSM technology",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
+    "summary": "Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection. The post Advancing hardware security with open-source Integrated HSM technology appeared first on Microsoft...",
+    "ai": false,
+    "added": "2026-10-15T12:44:23+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Microsoft_Phoenix-AZ_Datacenter_STILL001-1-scaled.jpg"
+  },
+  {
     "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-09T14:27:45+00:00",
     "image": ""
-  },
-  {
-    "title": "The Pulse: Firebase\u2019s global outage & poor response",
-    "source": "The Pragmatic Engineer",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",
-    "summary": "The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn\u2019t update the status page, but did offer a postmortem 4 days later.",
-    "ai": false,
-    "added": "2026-10-08T20:44:11+00:00",
-    "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2023/05/Big-Tech---startups---from-the-inside.png"
-  },
-  {
-    "title": "Most AI incident tools still leave a key decision to humans",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/ai-sre-agent-autonomy-phases/",
-    "summary": "An AI SRE agent can help troubleshoot an incident. But can you trust it to decide on its own when The post Most AI incident tools still leave a key decision to humans appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-08T20:44:11+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/08/e2372247-osarugue-igbinoba-vfwig_hleny-unsplash.jpg"
-  },
-  {
-    "title": "How Software Boundaries Are The Most Important Skill for Developers",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
-    "summary": "In this article, we\u2019ll learn some key strategies that can help a developer make the right boundary-related decisions for the systems they are working on.",
-    "ai": false,
-    "added": "2026-10-08T20:44:11+00:00",
-    "image": ""
-  },
-  {
-    "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
-    "summary": "We\u2019ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a typical domain-specific agent. Its...",
-    "ai": false,
-    "added": "2026-10-08T20:44:11+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/08/Domain-Expert-AI-Hero-1.png"
-  },
-  {
-    "title": "Building cloud-native PACS on AWS",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/",
-    "summary": "A hybrid cloud architecture pattern for modernizing medical imaging on AWS. Learn how multi-hospital networks can centralize PACS archives, enable cross-facility interoperability, and use Amazon S3 storage tiers to manage cost and retention at scale.",
-    "ai": false,
-    "added": "2026-10-08T20:44:11+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/16/ARCHBLOG-1613-featured-image-1.png"
   }
 ]
