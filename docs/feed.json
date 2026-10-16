@@ -1,5 +1,50 @@
 [
   {
+    "title": "Running Apache Spark experiments in my sleep (and on a plane)",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
+    "summary": "Concept / Topic: Large-scale Spark pipeline performance tuning and testing.\nHow it works: Run parallel branch-isolated experiments in cloud tmux sessions, automated by AI agents against full production data.\nKey Takeaway / Skill learned: Fix scale-dependent OOMs by slimming per-event JVM object sizes and testing multiple variants concurrently.\nCategory: Learning & Guides",
+    "ai": true,
+    "added": "2026-10-16T18:52:33+00:00",
+    "image": ""
+  },
+  {
+    "title": "Running Apache Spark experiments in my sleep (and on a plane)",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
+    "summary": "By Prashanth Gedde Narayanaswamy As one of Netflix\u2019s largest and critical data pipelines, member-sessionizer consolidates tens of billions of hourly client events, encompassing user taps, playbacks, and engagement signals, into individual viewing sessions per...",
+    "ai": false,
+    "added": "2026-10-16T18:52:33+00:00",
+    "image": ""
+  },
+  {
+    "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
+    "source": "Spotify Engineering",
+    "link": "https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/",
+    "summary": "At Spotify, every surface and interaction is personalized to you as a user: the content on the Home page, the... The post Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM appeared first on Spotify Engineering .",
+    "ai": false,
+    "added": "2026-10-16T18:52:33+00:00",
+    "image": "https://images.ctfassets.net/p762jor363g1/6W7dL3t2a6sqZOSWM99yfq/764a49205da0ce14b47648043fddde3a/Option_12.png"
+  },
+  {
+    "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Server Virtualization Platforms",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
+    "summary": "We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V. The post Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Server Virtualization Platforms appeared first on Microsoft Azure...",
+    "ai": false,
+    "added": "2026-10-16T18:52:33+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Virtualization-without-silos-with-Azure-Static-A.jpg"
+  },
+  {
+    "title": "AI agents turn one request into about 20. Kubernetes is evolving to handle it.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/kagent-kubernetes-ai-agents/",
+    "summary": "Welcome to another edition of Road to KubeCon, where we\u2019re tracking interesting movements in the cloud-native and Kubernetes ecosystem as The post AI agents turn one request into about 20. Kubernetes is evolving to handle it. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-16T18:52:33+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/9a261836-getty-images-u0axzkvx1qg-unsplash-scaled.jpg"
+  },
+  {
     "title": "Reliable GPU compute for large training & inference jobs",
     "source": "Netflix TechBlog - Medium",
     "link": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
@@ -492,51 +537,6 @@
     "summary": "Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for example, prohibiting deletion of files across...",
     "ai": false,
     "added": "2026-10-10T19:23:25+00:00",
-    "image": ""
-  },
-  {
-    "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-    "summary": "The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it. The post Ship agents faster with expanded model choice, voice agents, and continuous...",
-    "ai": false,
-    "added": "2026-10-10T13:53:30+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Foundry-Optimization-3-1.jpg"
-  },
-  {
-    "title": "Your architecture diagram is not your resilience",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
-    "summary": "For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain. The post Your architecture diagram is not your resilience appeared first on Microsoft...",
-    "ai": false,
-    "added": "2026-10-10T13:53:30+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/09/Designing-for-Resilience-6.jpg"
-  },
-  {
-    "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
-    "source": "Spotify Engineering",
-    "link": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
-    "summary": "Quality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex... The post AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity appeared first on Spotify Engineering .",
-    "ai": false,
-    "added": "2026-10-10T13:53:30+00:00",
-    "image": "https://images.ctfassets.net/p762jor363g1/6gLL3mDjx3AoPGWca14Xe7/c30c8bdfd06f78383da92f3df819d798/Option_2.1.png"
-  },
-  {
-    "title": "Kubernetes on cgroup v1 is dead. Here\u2019s what comes next.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/kubernetes-node-swap-ai/",
-    "summary": "Welcome back to another edition of Road to KubeCon, where we\u2019re tracking the latest movements in the cloud-native ecosystem as The post Kubernetes on cgroup v1 is dead. Here\u2019s what comes next. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-10T13:53:30+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/cc0dfb39-growtika-wlknzfskmxq-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Why LLMs Agree With You Even When You\u2019re Wrong",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
-    "summary": "When LLMs sometimes agree with incorrect claims, it is mostly because their training rewards such behaviour. This reward system is built on several things at once, such as accuracy, helpfulness, politeness, and responses that people like.",
-    "ai": false,
-    "added": "2026-10-10T13:53:30+00:00",
     "image": ""
   }
 ]
