@@ -1,5 +1,50 @@
 [
   {
+    "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/live-streaming-engineering-lessons/",
+    "summary": "Live sports involve myriad unknowns, but one thing is certain: the live video feed must play flawlessly, and simultaneously, for The post Here are the engineering lessons we learned when live-streaming sports to 32 million people appeared first on The New...",
+    "ai": false,
+    "added": "2026-10-17T17:53:24+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/eccba850-joshua-earle-l6pvwhdfrhm-unsplash.jpg"
+  },
+  {
+    "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
+    "summary": "By Emma Yanyang Kong , JJ Tan , Ishan Gupta , Lars Olds , Claire Campbell , David Fagnan , Ratna Kavuri , Rohan Gosain , Veli Balin , Minsu Jang , Louis Garcia Introduction Any team generating text with an LLM at scale hits the same problem. You cannot...",
+    "ai": false,
+    "added": "2026-10-17T17:53:24+00:00",
+    "image": ""
+  },
+  {
+    "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
+    "summary": "By Violetta Pidvolotska and Naveen Mareddy Stratum is Netflix\u2019s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of media workloads \u2014 including encoding,...",
+    "ai": false,
+    "added": "2026-10-17T17:53:24+00:00",
+    "image": ""
+  },
+  {
+    "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/ai-agents-kubernetes-control/",
+    "summary": "Kubernetes has always relied on agents, just not the kind dominating today\u2019s AI conversations. A controller watches the current state, The post AI agents vs. Kubernetes: where each belongs in the control loop appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-17T17:53:24+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/7d96e1b7-sara-canonici-ztnx3xxzyvc-unsplash.jpg"
+  },
+  {
+    "title": "Challenge: Roll Out Pod Security Standards Across Three Namespaces",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/roll-out-pod-security-standards-across-three-namespaces-1be633bd",
+    "summary": "Scenario The platform team is rolling out Pod Security Admission , the built-in admission controller that applies the Kubernetes Pod Security Standards per namespace. Three namespaces are in scope this week: NamespaceWorkloadWhat it is monitoring DaemonSet...",
+    "ai": false,
+    "added": "2026-10-17T17:53:24+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/og/image/challenges/roll-out-pod-security-standards-across-three-namespaces-1be633bd/7e29f2b6.png"
+  },
+  {
     "title": "Netflix Conductor: The Next Chapter",
     "source": "Netflix TechBlog - Medium",
     "link": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-11T19:37:23+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Kj0n5ea3ItoNIc2ha2SVL.png"
-  },
-  {
-    "title": "Kubernetes Changed Block Tracking API - Beta Differences",
-    "source": "Kubernetes Blog",
-    "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/",
-    "summary": "Changed Block Tracking (CBT) support for CSI drivers shipped as Alpha in September 2025. With the March 2026 v1.0.0 release of the external-snapshot-metadata project, the feature moved to Beta . If you aren't yet familiar with changed block tracking for...",
-    "ai": false,
-    "added": "2026-10-11T14:13:18+00:00",
-    "image": ""
-  },
-  {
-    "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
-    "source": "Kubernetes Blog",
-    "link": "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/",
-    "summary": "Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by default. On Linux nodes running cgroup v2, the feature uses the memory controller to give the kernel better guidance on how to treat container memory. It was first introduced as Alpha...",
-    "ai": false,
-    "added": "2026-10-11T14:13:18+00:00",
-    "image": ""
-  },
-  {
-    "title": "Last 3 days: AI Evals, October cohort",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
-    "summary": "Secure your spot in AI Evals in Practice. Enrollment closes in just 3 days! If you\u2019ve been thinking about joining, now\u2019s the time.",
-    "ai": false,
-    "added": "2026-10-11T14:13:18+00:00",
-    "image": ""
-  },
-  {
-    "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
-    "summary": "MHK built the SmartProminence AI Orchestrator, a HIPAA-eligible agentic workflow framework on AWS using Amazon Bedrock, Amazon ECS, and event-driven patterns. It reduced manual medical review effort by 90% and cut new AI feature deployment from months to...",
-    "ai": false,
-    "added": "2026-10-11T14:13:18+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/29/ARCHBLOG-1486-featured-image-1.png"
-  },
-  {
-    "title": "Stream HCP Vault Dedicated audit logs to Microsoft Sentinel",
-    "source": "HashiCorp Blog",
-    "link": "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel",
-    "summary": "HCP Vault Dedicated has no native Microsoft Sentinel connector. Deploy a Terraform-managed pipeline that streams audit logs into Azure Log Analytics and Microsoft Sentinel.",
-    "ai": false,
-    "added": "2026-10-11T14:13:18+00:00",
-    "image": ""
   }
 ]
