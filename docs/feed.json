@@ -1,5 +1,50 @@
 [
   {
+    "title": "Scale isn\u2019t one number: three ways a Kubernetes control plane runs out of room",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/scaling-kubernetes-control-planes/",
+    "summary": "Concept / Topic: Kubernetes control plane scaling limits.\nHow it works: Control plane capacity runs out of room in three distinct ways rather than a single threshold.\nKey Takeaway / Skill learned: Evaluate Kubernetes scale across multiple dimensions instead of relying on one metric.\nCategory: Learning & Guides",
+    "ai": true,
+    "added": "2026-10-18T18:13:12+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/40b34431-osarugue-igbinoba-hvm4zmzynyg-unsplash.jpg"
+  },
+  {
+    "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/gemini-argon-claude-opus/",
+    "summary": "What happened: Gemini 4 Argon was compared against Claude Opus 5.5, costing half the price at roughly half the accuracy.\nWhy: Specific technical causes and benchmark details are not provided in the text.\nLesson: Cheaper AI model pricing can come with proportional trade-offs in accuracy.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-18T18:13:12+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/667cdf2d-daniele-franchi-wyj0rahs_2k-unsplash-scaled.jpg"
+  },
+  {
+    "title": "EP229: 8 Chunking strategies for RAG-based agents",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
+    "summary": "Concept / Topic: Text chunking strategies for RAG-based agents.\nHow it works: Splits documents via fixed-size tokens, structural boundaries, semantic similarity drops, LLM-generated propositions, or late chunking embeddings.\nKey Takeaway / Skill learned: Choose chunking methods based on document format and semantic shifts to optimize retrieval quality.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-18T18:13:12+00:00",
+    "image": ""
+  },
+  {
+    "title": "How Ita\u00fa is building generative AI for its entire customer base",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "summary": "What happened: Ita\u00fa is rolling out generative AI to customers and employees using conversational interface ia.i.\nWhy: To implement its AI First strategy within one of Brazil's most regulated sectors.\nLesson: Platforms like IARA provide the governance required to scale enterprise AI in regulated environments.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-18T18:13:12+00:00",
+    "image": ""
+  },
+  {
+    "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+    "source": "The latest research from Google",
+    "link": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+    "summary": "What happened: Google Research introduced AI agents and the VERID framework to automate closed-loop wet-lab experiments.\nWhy: AI models struggle with 3D physical reasoning, creating bottlenecks that require empirical real-world feedback.\nLesson: Live digital-twin state tracking and automated simulations prevent physical failures while enabling iterative learning.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-18T18:13:12+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
     "title": "Evolving the cloud-native foundation for the next generation of AI",
     "source": "Microsoft Azure Blog",
     "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-13T15:10:19+00:00",
     "image": "https://cdn.thenewstack.io/media/2026/10/bf19af6b-article-image-1024x576.png"
-  },
-  {
-    "title": "How to Build Models Without Language, with Logical Intelligence",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
-    "summary": "Something unusual happened in a public Sudoku experiment early this year.",
-    "ai": false,
-    "added": "2026-10-12T16:51:49+00:00",
-    "image": ""
-  },
-  {
-    "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
-    "summary": "This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. It pairs AWS HealthOmics for managed genomics processing with a grounded Amazon Bedrock AgentCore agent, so...",
-    "ai": false,
-    "added": "2026-10-12T16:51:49+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/08/ARCHBLOG-1710-featured-image.png"
-  },
-  {
-    "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
-    "summary": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We\u2019re sharing how we...",
-    "ai": false,
-    "added": "2026-10-12T16:51:49+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/MoQ-Instagram-Live-Meta-Hero.png"
-  },
-  {
-    "title": "Andrej Karpathy says only 5,000 people have seen what AI can really do",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/karpathy-levie-ai-capability-gap/",
-    "summary": "OpenAI founding member Andrej Karpathy, who joined Anthropic in May, thinks most of the world has little idea of what The post Andrej Karpathy says only 5,000 people have seen what AI can really do appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-12T16:51:49+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/9737c1d9-sarah-sheedy-t3y5gs-5wga-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Filter, reshape, and redact logs before export with Transformers",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/transformers-on-logpush/",
-    "summary": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the destination.",
-    "ai": false,
-    "added": "2026-10-12T16:51:49+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4HA4NCR1ES1EHGE8ZHS7TSA.png"
   }
 ]
