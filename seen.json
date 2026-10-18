@@ -123,5 +123,10 @@
   "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
   "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
   "https://thenewstack.io/ai-agents-kubernetes-control/",
-  "https://labs.iximiuz.com/challenges/roll-out-pod-security-standards-across-three-namespaces-1be633bd"
+  "https://labs.iximiuz.com/challenges/roll-out-pod-security-standards-across-three-namespaces-1be633bd",
+  "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+  "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+  "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+  "https://about.gitlab.com/blog/secrets-manager-ga/",
+  "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
 ]

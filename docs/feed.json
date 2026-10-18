@@ -1,5 +1,50 @@
 [
   {
+    "title": "Evolving the cloud-native foundation for the next generation of AI",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+    "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
+    "ai": false,
+    "added": "2026-10-18T12:07:38+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Cloud-Native-1.jpg"
+  },
+  {
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+    "summary": "Concept / Topic: Ontology-driven observability knowledge graphs at scale.\nHow it works: Standardizes isolated telemetry and tooling data into structured RDF triples, validated against catalogs and stored in a queryable graph.\nKey Takeaway / Skill learned: Modeling operational entities and relationships into an explicit ontology eliminates human correlation bottlenecks during cross-domain incident investigations.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-18T12:07:38+00:00",
+    "image": ""
+  },
+  {
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+    "summary": "Concept / Topic: Ontology-driven observability via knowledge graphs at scale.\nHow it works: Standardizes isolated telemetry, chats, and deployment metadata into RDF triples queried via SPARQL.\nKey Takeaway / Skill learned: Formal operational schemas eliminate cross-tool naming friction and drastically accelerate incident investigations.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-18T12:07:38+00:00",
+    "image": ""
+  },
+  {
+    "title": "GitLab Secrets Manager: Govern secrets like your code",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/secrets-manager-ga/",
+    "summary": "Credentials often start in an engineer's local dev environments, then get copied into unscoped CI/CD variables to keep pipelines running. Stored there as a raw value rather than a reference to a scoped secret, a signing key reaches every job in the pipeline \u2014...",
+    "ai": false,
+    "added": "2026-10-18T12:07:38+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1791993648/t2kod74bclspits5cc5o.png"
+  },
+  {
+    "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
+    "summary": "Concept / Topic: Troubleshooting pending Kubernetes Jobs with Kueue in Headlamp.\nHow it works: Inspect Workload admission conditions, then trace quota limits across linked LocalQueues and ClusterQueues.\nKey Takeaway / Skill learned: Differentiate Kueue quota admission failures from standard Pod scheduling issues via UI.\nCategory: Learning & Guides",
+    "ai": true,
+    "added": "2026-10-18T12:07:38+00:00",
+    "image": ""
+  },
+  {
     "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
     "source": "The New Stack",
     "link": "https://thenewstack.io/live-streaming-engineering-lessons/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-12T16:51:49+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4HA4NCR1ES1EHGE8ZHS7TSA.png"
-  },
-  {
-    "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-    "source": "Kubernetes Blog",
-    "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
-    "summary": "In Linux, cgroups (control groups) are a kernel feature used for managing system resources. Kubernetes uses cgroups to allocate resources like CPU and memory to containers, ensuring that applications run smoothly without interfering with each other. With the...",
-    "ai": false,
-    "added": "2026-10-11T19:37:23+00:00",
-    "image": ""
-  },
-  {
-    "title": "Claude Code found my app\u2019s shared contract in two MCP calls. Then the records ran out.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/claude-code-mcp-records/",
-    "summary": "Every Claude Code user has watched a new session start from zero. You open it on a system you built The post Claude Code found my app\u2019s shared contract in two MCP calls. Then the records ran out. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-11T19:37:23+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/ea9f3fe0-ubaid-e-alyafizi-vnm6xar3ygm-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/",
-    "summary": "Anthropic\u2019s new OSS Scanner, launched last week as part of its broader Cyber Mission, exposes a problem inside the company\u2019s The post Claude found 29,000 possible bugs in open source. Only 516 have been fixed. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-11T19:37:23+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/d54a7713-oleksandr-chumak-zguburggmdy-unsplash-scaled.jpg"
-  },
-  {
-    "title": "What's new in Git 2.56.0?",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/whats-new-in-git-2-56-0/",
-    "summary": "The Git project recently released Git 2.56.0 . Let's look at some of the highlights of the release, including contributions from the Git team at GitLab. What's covered: Git Merge 2026 and schedule for Git 3.0 git-history(1) learns drop git-branch(1) learns to...",
-    "ai": false,
-    "added": "2026-10-11T19:37:23+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1782732487/ztwgrvlolpifo01vj8qc.png"
-  },
-  {
-    "title": "Impactful scheduling for GPU clusters",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-11T19:37:23+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Kj0n5ea3ItoNIc2ha2SVL.png"
   }
 ]
