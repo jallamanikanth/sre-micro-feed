@@ -138,5 +138,10 @@
   "https://sreweekly.com/sre-weekly-issue-539/",
   "https://thenewstack.io/deepseek-web-search-api/",
   "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
-  "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+  "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+  "https://blog.cloudflare.com/obsessive-inference-optimization/",
+  "https://blog.cloudflare.com/obsessive-inference-optimization/",
+  "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+  "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+  "https://thenewstack.io/coding-agents-overstep-scope/"
 ]
