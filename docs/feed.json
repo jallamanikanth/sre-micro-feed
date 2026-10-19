@@ -1,5 +1,50 @@
 [
   {
+    "title": "SRE Weekly Issue #539",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-539/",
+    "summary": "View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers...",
+    "ai": false,
+    "added": "2026-10-19T14:48:29+00:00",
+    "image": ""
+  },
+  {
+    "title": "SRE Weekly Issue #539",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-539/",
+    "summary": "View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers...",
+    "ai": false,
+    "added": "2026-10-19T14:48:29+00:00",
+    "image": ""
+  },
+  {
+    "title": "DeepSeek made its name with cheap AI models. Now it\u2019s undercutting search API rivals, too.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/deepseek-web-search-api/",
+    "summary": "Not content with challenging the major frontier AI labs with lower-cost models, Chinese AI company DeepSeek is setting its sights The post DeepSeek made its name with cheap AI models. Now it\u2019s undercutting search API rivals, too. appeared first on The New...",
+    "ai": false,
+    "added": "2026-10-19T14:48:29+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/81f7030c-getty-images-6dnmfeeaht0-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+    "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
+    "ai": false,
+    "added": "2026-10-19T14:48:29+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M57XKY3GGS0S18TG677BSB8R.01M57XKYWQJ14NV970SJJ09NNP.png"
+  },
+  {
+    "title": "Inside Prometheus: Meta\u2019s Journey to a Gigawatt-Scale Supercluster",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+    "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we\u2019re working toward...",
+    "ai": false,
+    "added": "2026-10-19T14:48:29+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg"
+  },
+  {
     "title": "Scale isn\u2019t one number: three ways a Kubernetes control plane runs out of room",
     "source": "The New Stack",
     "link": "https://thenewstack.io/scaling-kubernetes-control-planes/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-13T20:45:22+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/YxGx9U6yV6_mumklCyMsE.png"
-  },
-  {
-    "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
-    "summary": "In Part 2 of our Bulk Executor for Amazon DynamoDB series, we share how we built the tool: the design tradeoffs, surprises, and workarounds we hit while working with DynamoDB and AWS Glue. Consider it a travel guide for anyone building their own bulk tooling...",
-    "ai": false,
-    "added": "2026-10-13T15:10:19+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/08/ARCHBLOG-1731-featured-image.png"
-  },
-  {
-    "title": "Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/",
-    "summary": "Learn how VIPRE Security built an AI-powered email security solution on AWS to stop business email compromise. VIPRE Integrated Email Security uses machine learning and a serverless architecture on Amazon ECS, Amazon SQS, and Amazon S3 to detect and block...",
-    "ai": false,
-    "added": "2026-10-13T15:10:19+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/28/ARCHBLOG-1338-featured-image.png"
-  },
-  {
-    "title": "GitLab's agent orchestration eliminates the wait between development stages",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/gitlab-agent-orchestration/",
-    "summary": "AI coding tools have changed how fast software gets written, but not how fast it ships. As code generation accelerates, the bottleneck moves downstream into verify, review, and ship. Those stages still run on human time. While agents write fixes in minutes,...",
-    "ai": false,
-    "added": "2026-10-13T15:10:19+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1791202579/fnumyad0wd7etsy55a9z.png"
-  },
-  {
-    "title": "Make every AI credit count: See, cap, and reduce agent spend",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/make-every-ai-credit-count/",
-    "summary": "Costs multiply with every task you hand to an agent. Each task consumes tokens and credits, and as agents spread across your teams and automations, consumption can grow faster than usage. If you run the platform, you own that growth, including which teams and...",
-    "ai": false,
-    "added": "2026-10-13T15:10:19+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1791198675/kmajkudog4fj3xc6qfyb.png"
-  },
-  {
-    "title": "GPUs on Kubernetes are bring-your-own-everything, starting with the bill",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/gpus-on-kubernetes/",
-    "summary": "If you run a Kubernetes platform, you\u2019ve probably got at least one Grafana dashboard for resource visibility on your workloads. The post GPUs on Kubernetes are bring-your-own-everything, starting with the bill appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-13T15:10:19+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/bf19af6b-article-image-1024x576.png"
   }
 ]
