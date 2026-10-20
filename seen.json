@@ -143,5 +143,10 @@
   "https://blog.cloudflare.com/obsessive-inference-optimization/",
   "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
   "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
-  "https://thenewstack.io/coding-agents-overstep-scope/"
+  "https://thenewstack.io/coding-agents-overstep-scope/",
+  "https://openai.com/index/low-resource-programming-languages",
+  "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+  "https://huggingface.co/blog/anylanguagemodel-1-0",
+  "https://huggingface.co/blog/mps-pytorch-2-15",
+  "https://thenewstack.io/minimax-flash-agent-costs/"
 ]

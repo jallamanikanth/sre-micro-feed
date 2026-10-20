@@ -1,5 +1,50 @@
 [
   {
+    "title": "Advancing coding in low\u2011resource programming languages",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "ai": false,
+    "added": "2026-10-20T12:49:39+00:00",
+    "image": ""
+  },
+  {
+    "title": "Managing open-weight model risk in enterprise deployments",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+    "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
+    "ai": false,
+    "added": "2026-10-20T12:49:39+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/MSFT-NVIDIA-SCI.jpg"
+  },
+  {
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-20T12:49:39+00:00",
+    "image": "https://huggingface.co/blog/assets/anylanguagemodel-1-0/banner.png"
+  },
+  {
+    "title": "MPS in PyTorch 2.15",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-20T12:49:39+00:00",
+    "image": "https://huggingface.co/blog/assets/mps-pytorch-2-15/thumbnail.png"
+  },
+  {
+    "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/minimax-flash-agent-costs/",
+    "summary": "MiniMax released M3.1 Flash on Monday, saying it cuts agent costs by 70 percent. Per-token prices fell by half, which The post MiniMax just halved its token prices. Your AI agent bill may not follow. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-20T12:49:39+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/8cbfd8b7-silali-banerjee-azkv8asolwq-unsplash-1-scaled.jpg"
+  },
+  {
     "title": "Cutting our inference bill by 68% by being obsessive about optimization",
     "source": "Cloudflare Blog",
     "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
@@ -493,50 +538,5 @@
     "ai": true,
     "added": "2026-10-14T19:31:30+00:00",
     "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-invertocat-mona-logo.png"
-  },
-  {
-    "title": "Deep dive into Azure Maia 300 architecture",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-    "summary": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog .",
-    "ai": false,
-    "added": "2026-10-14T12:57:39+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Maia-300-prototype-chip-09-1024x683.png"
-  },
-  {
-    "title": "Scaling Git for the agentic software factory",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/scaling-git-for-the-agentic-software-factory/",
-    "summary": "AI agents are fundamentally changing the economics of software development. As the cost of producing code falls, the volume of changes moving through the software factory is accelerating beyond what infrastructure designed for human developers was built to...",
-    "ai": false,
-    "added": "2026-10-14T12:57:39+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1785336708/ww4mlighwlvvzgnmbe6w.png"
-  },
-  {
-    "title": "66% of billion-dollar companies leave critical bugs unpatched \u2014 the part the AI bug-hunting hype leaves out",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/chainguard-mythos-security-harness/",
-    "summary": "Chainguard has launched an AI-powered security harness that uses frontier models, including Anthropic\u2019s restricted Claude Mythos 5.1, to find and The post 66% of billion-dollar companies leave critical bugs unpatched \u2014 the part the AI bug-hunting hype leaves...",
-    "ai": false,
-    "added": "2026-10-14T12:57:39+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/bed61db0-ivan-vranic-j9-2liz2_rc-unsplash.jpg"
-  },
-  {
-    "title": "The EU\u2019s next chapter in AI is agentic",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
-    "ai": false,
-    "added": "2026-10-14T12:57:39+00:00",
-    "image": ""
-  },
-  {
-    "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
-    "summary": "The next generation of AWS Resilience Hub adds three capabilities to keep workload scope and resilience requirements aligned with your running environment: Amazon EKS label support for service input sources, generative AI-powered Dependency Insights, and...",
-    "ai": false,
-    "added": "2026-10-14T12:57:39+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/13/ARCHBLOG-1735-featured-image.png"
   }
 ]
