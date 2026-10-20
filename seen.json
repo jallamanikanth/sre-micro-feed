@@ -148,5 +148,10 @@
   "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
   "https://huggingface.co/blog/anylanguagemodel-1-0",
   "https://huggingface.co/blog/mps-pytorch-2-15",
-  "https://thenewstack.io/minimax-flash-agent-costs/"
+  "https://thenewstack.io/minimax-flash-agent-costs/",
+  "https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/",
+  "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+  "https://thenewstack.io/review-decisions-not-code/",
+  "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "https://huggingface.co/blog/allenai/fairstress"
 ]

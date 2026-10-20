@@ -1,5 +1,50 @@
 [
   {
+    "title": "Redesign how your team ships software with AI agents",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/",
+    "summary": "AI agents are sending more and more code into review queues built for human-paced work. A coding assistant can speed up code writing, but it can\u2019t show you whether review, security checks, and release approvals can keep pace with all that extra code....",
+    "ai": false,
+    "added": "2026-10-20T19:24:57+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1792421291/mfgvawlpuk9a2tdimsgn.png"
+  },
+  {
+    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+    "summary": "Concept / Topic: Sovereign AI architecture from edge to cloud.\nHow it works: Places each workload in the right environment while applying required controls.\nKey Takeaway / Skill learned: Maintaining consistency across diverse operational environments.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-20T19:24:57+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Blog-Banner-Image_1920x1080_1-Official-Microsoft-Blog-Banner.jpg"
+  },
+  {
+    "title": "How to review AI code without reading the code",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/review-decisions-not-code/",
+    "summary": "The argument over whether engineers should stop reading code is over, because we already have. Faros AI\u2019s new report shows The post How to review AI code without reading the code appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-20T19:24:57+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/2c4742b4-simon-maage-ov8riiftew-unsplash.jpg"
+  },
+  {
+    "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-20T19:24:57+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg"
+  },
+  {
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-20T19:24:57+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7zYjyTWswjO2erWsO5HNf.png"
+  },
+  {
     "title": "Advancing coding in low\u2011resource programming languages",
     "source": "OpenAI News",
     "link": "https://openai.com/index/low-resource-programming-languages",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-15T12:44:23+00:00",
     "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Microsoft_Phoenix-AZ_Datacenter_STILL001-1-scaled.jpg"
-  },
-  {
-    "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/",
-    "summary": "Learn how to build multi-region disaster recovery for Amazon API Gateway WebSocket APIs. This design pattern combines Amazon Route 53 DNS failover, Amazon DynamoDB Global Tables, a canary health probe, and client-side reconnection logic to reconnect clients...",
-    "ai": false,
-    "added": "2026-10-14T19:31:30+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/08/ARCHBLOG-1349-featured-image.png"
-  },
-  {
-    "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
-    "summary": "To understand why this happens, we need to connect three ideas: how models learn, how they generalize beyond their examples, and how they exhibit different kinds of behavior.",
-    "ai": false,
-    "added": "2026-10-14T19:31:30+00:00",
-    "image": ""
-  },
-  {
-    "title": "Where do you look when Kubernetes is healthy but requests stall?",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/kubernetes-hidden-latency-telemetry/",
-    "summary": "In cloud-native operations, few scenarios are as maddening as the \u201cphantom slowdown.\u201d This happens when Grafana or Kubernetes dashboards show The post Where do you look when Kubernetes is healthy but requests stall? appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-14T19:31:30+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/a3082a72-linda-pomerantz-zhang-3hs3fiwb_pm-unsplash-scaled.jpg"
-  },
-  {
-    "title": "\u201cTake work away from frontier LLMs\u201d: Subquadratic\u2019s decision model claims 12x Jev\u2019s context window",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/subquadratic-snap-jev-decision-model/",
-    "summary": "Jev has a lot to answer for. Ever since AI startup TypeSafe unveiled the decision model in mid-September, the industry The post \u201cTake work away from frontier LLMs\u201d: Subquadratic\u2019s decision model claims 12x Jev\u2019s context window appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-14T19:31:30+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/58f3c5d5-ayush-kumar-8fmoxutzltk-unsplash-scaled.jpg"
-  },
-  {
-    "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-    "source": "The latest from GitHub's engineering team - The GitHub Blog",
-    "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-    "summary": "What happened: A new repo star history API was built, reducing requests from 2,500 to 24.\nWhy: To provide trends without exposing individual identities or requiring unbounded database work.\nLesson: Engineering tradeoffs can eliminate unbounded database load while maintaining data visibility.\nCategory: DevOps",
-    "ai": true,
-    "added": "2026-10-14T19:31:30+00:00",
-    "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-invertocat-mona-logo.png"
   }
 ]
