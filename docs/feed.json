@@ -1,5 +1,50 @@
 [
   {
+    "title": "Uncover the business logic vulnerabilities SAST scanners miss",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/gitlab-business-logic-security-analyzer/",
+    "summary": "Broken object-level authorization ranks first on the OWASP API Security Top 10 , and OWASP says that traditional static application security testing (SAST) tools struggle to find access control flaws. A missing authorization check is an absence of code, so a...",
+    "ai": false,
+    "added": "2026-10-21T13:02:12+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1756122536/akivvcnafog9c4dhhzkp.png"
+  },
+  {
+    "title": "Nvidia bets open models can give enterprise AI agents the context they\u2019re missing",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/nvidia-agent-knowledge-foundation/",
+    "summary": "What happened: Nvidia is betting open models can give enterprise AI agents missing context.\nWhy: Unspecified, as the article body consists only of website subscription boilerplate.\nLesson: Enterprise AI agents are recognized as lacking critical context.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-21T13:02:12+00:00",
+    "image": "https://cdn.thenewstack.io/media/2025/12/ac9a49ad-img_0477-edit-scaled.jpg"
+  },
+  {
+    "title": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/respan-rust-ai-gateway/",
+    "summary": "What happened: Respan had to start over after spending two years building on LiteLLM.\nWhy: A single software upgrade caused them to restart.\nLesson: Framework upgrades can introduce breaking changes that disrupt long-term architectural work.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-21T13:02:12+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/ea6fbc72-getty-images-fe0tqrcfti8-unsplash-scaled.jpg"
+  },
+  {
+    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/webmcp-commerce/",
+    "summary": "What happened: Cloudflare and Commerce.com enabled WebMCP across 100,000 storefronts, giving AI shopping agents structured browser tools.\nWhy: AI scraping via HTML is slow, token-heavy, and fragile compared to native browser tools.\nLesson: Use edge configuration rules and custom hostname metadata for zero-latency, per-tenant opt-out controls.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-21T13:02:12+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AYSBKT78Q7W6234MGTKVKA.png"
+  },
+  {
+    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/webmcp-commerce/",
+    "summary": "What happened: Cloudflare and Commerce.com enabled WebMCP across 100,000 storefronts via edge script injection.\nWhy: AI agents struggle parsing HTML; structured browser tools make agentic shopping faster and more reliable.\nLesson: Edge metadata rules allow seamless platform-wide rollouts with per-tenant opt-outs and safe fallbacks.\nCategory: AI & SRE",
+    "ai": true,
+    "added": "2026-10-21T13:02:12+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AYSBKT78Q7W6234MGTKVKA.png"
+  },
+  {
     "title": "Redesign how your team ships software with AI agents",
     "source": "GitLab",
     "link": "https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-15T19:16:30+00:00",
     "image": ""
-  },
-  {
-    "title": "Behind the Scenes: Evolving Netflix\u2019s Ads Event Pipeline for Live \u2014 Part II",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
-    "summary": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a standard data contract....",
-    "ai": false,
-    "added": "2026-10-15T12:44:23+00:00",
-    "image": ""
-  },
-  {
-    "title": "Behind the Scenes: Evolving Netflix\u2019s Ads Event Pipeline for Live \u2014 Part II",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
-    "summary": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a standard data contract....",
-    "ai": false,
-    "added": "2026-10-15T12:44:23+00:00",
-    "image": ""
-  },
-  {
-    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/yandex-outage/",
-    "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
-    "ai": false,
-    "added": "2026-10-15T12:44:23+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4Y140VQ20JV2JNAC18Y1A2G.png"
-  },
-  {
-    "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/yandex-outage/",
-    "summary": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
-    "ai": false,
-    "added": "2026-10-15T12:44:23+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4Y140VQ20JV2JNAC18Y1A2G.png"
-  },
-  {
-    "title": "Advancing hardware security with open-source Integrated HSM technology",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-    "summary": "Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection. The post Advancing hardware security with open-source Integrated HSM technology appeared first on Microsoft...",
-    "ai": false,
-    "added": "2026-10-15T12:44:23+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Microsoft_Phoenix-AZ_Datacenter_STILL001-1-scaled.jpg"
   }
 ]
