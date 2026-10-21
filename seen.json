@@ -158,5 +158,10 @@
   "https://thenewstack.io/nvidia-agent-knowledge-foundation/",
   "https://thenewstack.io/respan-rust-ai-gateway/",
   "https://blog.cloudflare.com/webmcp-commerce/",
-  "https://blog.cloudflare.com/webmcp-commerce/"
+  "https://blog.cloudflare.com/webmcp-commerce/",
+  "https://openai.com/index/building-chatgpt-ad-stack",
+  "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+  "https://huggingface.co/blog/nvidia/kumo-relational",
+  "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+  "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic"
 ]
