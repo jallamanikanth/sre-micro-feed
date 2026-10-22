@@ -163,5 +163,10 @@
   "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
   "https://huggingface.co/blog/nvidia/kumo-relational",
   "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-  "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic"
+  "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
+  "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
+  "https://openai.com/index/att-legal",
+  "https://fly.io/blog/sprites-block-device/",
+  "https://thenewstack.io/google-agent-compute-engine/",
+  "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
 ]

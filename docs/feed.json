@@ -1,5 +1,50 @@
 [
   {
+    "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
+    "summary": "Learn how to combine deterministic orchestration with bounded agentic reasoning using AWS Step Functions and the Amazon Bedrock AgentCore harness. This medical coding workflow escalates cheapest-first: a safety block-list, then exact matching, then an AI...",
+    "ai": false,
+    "added": "2026-10-22T13:04:10+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/19/ARCHBLOG-1619-featured-image.png"
+  },
+  {
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/att-legal",
+    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "ai": false,
+    "added": "2026-10-22T13:04:10+00:00",
+    "image": ""
+  },
+  {
+    "title": "SBD: We Have a Filesystem at Home",
+    "source": "The Fly Blog",
+    "link": "https://fly.io/blog/sprites-block-device/",
+    "summary": "I have unkind things to say about people who make their own pasta. Here, I\u2019ll only use them as an example of how not to think when you\u2019re building infrastructure. It\u2019s unfairly easy to believe that the harder you work on something, the better it gets. But...",
+    "ai": false,
+    "added": "2026-10-22T13:04:10+00:00",
+    "image": "https://fly.io/blog/sprites-block-device/assets/pasta-robot.webp"
+  },
+  {
+    "title": "Google turns the infrastructure behind Gemini\u2019s agents into a cloud service",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/google-agent-compute-engine/",
+    "summary": "Google will soon make the infrastructure that powers its Gemini agents available to Google Cloud users in preview. Announced on The post Google turns the infrastructure behind Gemini\u2019s agents into a cloud service appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-22T13:04:10+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/30d2e7d0-google_logo-scaled.jpg"
+  },
+  {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-22T13:04:10+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png"
+  },
+  {
     "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
     "source": "OpenAI News",
     "link": "https://openai.com/index/building-chatgpt-ad-stack",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-16T18:52:33+00:00",
     "image": "https://cdn.thenewstack.io/media/2026/10/9a261836-getty-images-u0axzkvx1qg-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Reliable GPU compute for large training & inference jobs",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
-    "summary": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar Open Netflix, and the home screen is assembled for you: which rows...",
-    "ai": false,
-    "added": "2026-10-16T12:35:09+00:00",
-    "image": ""
-  },
-  {
-    "title": "Reliable GPU compute for large training & inference jobs",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
-    "summary": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar Open Netflix, and the home screen is assembled for you: which rows...",
-    "ai": false,
-    "added": "2026-10-16T12:35:09+00:00",
-    "image": ""
-  },
-  {
-    "title": "\u201cDevelopers are paying frontier prices for amnesia\u201d: Uvi wants to stop the agent relearning brain drain",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/uvi-ai-agent-context/",
-    "summary": "What happened: Uvi aims to stop the brain drain of AI agents repeatedly relearning context.\nWhy: Developers are paying high frontier model prices for agents that suffer from amnesia.\nLesson: Preventing agent relearning is critical to curbing recurring frontier model costs.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-16T12:35:09+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/87306aa6-getty-images-7ptspkjflki-unsplash-scaled.jpg"
-  },
-  {
-    "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
-    "summary": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective impact of...",
-    "ai": false,
-    "added": "2026-10-16T12:35:09+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-2026-World-Cup-hero.png"
-  },
-  {
-    "title": "Get every merge request in front of the right reviewer, faster",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/recommend-reviewers-flow/",
-    "summary": "The code is written. Now who reviews it? The volume of code has never been greater, but delivery hasn\u2019t kept pace. At Meta, code changes on internal platforms grew 220% year over year, while changes that reached users as new features grew only 36% ( Reuters ,...",
-    "ai": false,
-    "added": "2026-10-16T12:35:09+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1791993648/t2kod74bclspits5cc5o.png"
   }
 ]
