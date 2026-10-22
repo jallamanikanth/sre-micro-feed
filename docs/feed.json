@@ -1,5 +1,50 @@
 [
   {
+    "title": "Localizing compliance at scale: achieving South Korea\u2019s ISMS certification",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/k-isms/",
+    "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
+    "ai": false,
+    "added": "2026-10-22T19:18:29+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8NJVXNM9DRRQJ5VYMS2HQ.01M5G8NKJYW5D2XYREE348C9VT.png"
+  },
+  {
+    "title": "Localizing compliance at scale: achieving South Korea\u2019s ISMS certification",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/k-isms/",
+    "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
+    "ai": false,
+    "added": "2026-10-22T19:18:29+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8NJVXNM9DRRQJ5VYMS2HQ.01M5G8NKJYW5D2XYREE348C9VT.png"
+  },
+  {
+    "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/openai-donates-open-responses/",
+    "summary": "OpenAI on Thursday announced that it is donating the Open Responses API specification to the open source Agentic AI Foundation The post OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-22T19:18:29+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/816bc777-img_5845-scaled.jpg"
+  },
+  {
+    "title": "Advancing digital sovereignty with greater control and choice",
+    "source": "Microsoft Azure Blog",
+    "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+    "summary": "Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require. The...",
+    "ai": false,
+    "added": "2026-10-22T19:18:29+00:00",
+    "image": "https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Hero-10_19-1024x576.jpg"
+  },
+  {
+    "title": "Five AI agent harnesses took the same memory test. The results weren\u2019t even close.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/letta-frontiermemory-agent-harness-benchmark/",
+    "summary": "AI agents are getting better at remembering past conversations and earlier tasks but remembering something doesn\u2019t guarantee an agent can The post Five AI agent harnesses took the same memory test. The results weren\u2019t even close. appeared first on The New...",
+    "ai": false,
+    "added": "2026-10-22T19:18:29+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/beaf3dcb-getty-images-de9f7lcsapw-unsplash-scaled.jpg"
+  },
+  {
     "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
@@ -493,50 +538,5 @@
     "ai": true,
     "added": "2026-10-17T11:41:41+00:00",
     "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/og/image/shell-gyms/kubernetes-storage-1079efb9/046d3f9f.png"
-  },
-  {
-    "title": "Running Apache Spark experiments in my sleep (and on a plane)",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
-    "summary": "Concept / Topic: Large-scale Spark pipeline performance tuning and testing.\nHow it works: Run parallel branch-isolated experiments in cloud tmux sessions, automated by AI agents against full production data.\nKey Takeaway / Skill learned: Fix scale-dependent OOMs by slimming per-event JVM object sizes and testing multiple variants concurrently.\nCategory: Learning & Guides",
-    "ai": true,
-    "added": "2026-10-16T18:52:33+00:00",
-    "image": ""
-  },
-  {
-    "title": "Running Apache Spark experiments in my sleep (and on a plane)",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
-    "summary": "By Prashanth Gedde Narayanaswamy As one of Netflix\u2019s largest and critical data pipelines, member-sessionizer consolidates tens of billions of hourly client events, encompassing user taps, playbacks, and engagement signals, into individual viewing sessions per...",
-    "ai": false,
-    "added": "2026-10-16T18:52:33+00:00",
-    "image": ""
-  },
-  {
-    "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
-    "source": "Spotify Engineering",
-    "link": "https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/",
-    "summary": "At Spotify, every surface and interaction is personalized to you as a user: the content on the Home page, the... The post Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM appeared first on Spotify Engineering .",
-    "ai": false,
-    "added": "2026-10-16T18:52:33+00:00",
-    "image": "https://images.ctfassets.net/p762jor363g1/6W7dL3t2a6sqZOSWM99yfq/764a49205da0ce14b47648043fddde3a/Option_12.png"
-  },
-  {
-    "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Server Virtualization Platforms",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
-    "summary": "We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V. The post Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Server Virtualization Platforms appeared first on Microsoft Azure...",
-    "ai": false,
-    "added": "2026-10-16T18:52:33+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Virtualization-without-silos-with-Azure-Static-A.jpg"
-  },
-  {
-    "title": "AI agents turn one request into about 20. Kubernetes is evolving to handle it.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/kagent-kubernetes-ai-agents/",
-    "summary": "Welcome to another edition of Road to KubeCon, where we\u2019re tracking interesting movements in the cloud-native and Kubernetes ecosystem as The post AI agents turn one request into about 20. Kubernetes is evolving to handle it. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-16T18:52:33+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/9a261836-getty-images-u0axzkvx1qg-unsplash-scaled.jpg"
   }
 ]
