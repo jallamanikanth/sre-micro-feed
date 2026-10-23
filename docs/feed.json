@@ -1,5 +1,50 @@
 [
   {
+    "title": "PHP2Shell: GitLab helps find and remediate critical PHP flaws",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/gitlab-helps-remediate-critical-php-flaws/",
+    "summary": "GitLab is not affected by PHP2Shell (CVE-2026-109618 and CVE-2026-109619). The GitLab application is not written in PHP and does not run it to serve web requests, and our Security team has found no evidence of impact to GitLab-managed infrastructure....",
+    "ai": false,
+    "added": "2026-10-23T12:43:06+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1782237704/cj50chkvprjthczevmog.png"
+  },
+  {
+    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+    "summary": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes-based container...",
+    "ai": false,
+    "added": "2026-10-23T12:43:06+00:00",
+    "image": ""
+  },
+  {
+    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+    "summary": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes-based container...",
+    "ai": false,
+    "added": "2026-10-23T12:43:06+00:00",
+    "image": ""
+  },
+  {
+    "title": "Microsoft\u2019s new voice AI can start working out what you want before you finish speaking",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/microsoft-streaming-speech-models/",
+    "summary": "\u201cI think you said, \u2018representative.\u2019\u201d It\u2019s the fastest way to bypass automated speech recognition chatbots that fail to route human The post Microsoft\u2019s new voice AI can start working out what you want before you finish speaking appeared first on The New...",
+    "ai": false,
+    "added": "2026-10-23T12:43:06+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/da376638-yugudesign-fhlhdmrz3wi-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Challenge: Harden a Django GraphQL API: Five Classic Flaws",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/graphql-vuln-lab-ca696b14",
+    "summary": "You've inherited Acme Social , a small Django app whose API is served by Strawberry . It works \u2014 and it ships with five weaknesses that show up again and again in real GraphQL services. The code is a perfectly ordinary Strawberry/Django setup; the defaults...",
+    "ai": false,
+    "added": "2026-10-23T12:43:06+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/og/image/challenges/graphql-vuln-lab-ca696b14/0d99d5d4.png"
+  },
+  {
     "title": "Localizing compliance at scale: achieving South Korea\u2019s ISMS certification",
     "source": "Cloudflare Blog",
     "link": "https://blog.cloudflare.com/k-isms/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-17T17:53:24+00:00",
     "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/og/image/challenges/roll-out-pod-security-standards-across-three-namespaces-1be633bd/7e29f2b6.png"
-  },
-  {
-    "title": "Netflix Conductor: The Next Chapter",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
-    "summary": "What happened: Netflix discontinued Conductor OSS and rearchitected its internal platform to support billions of quarterly workflows.\nWhy: Extreme scale strained the original Dynomite and synchronous evaluation stack, creating severe datastore bottlenecks and memory pressure.\nLesson: Massive orchestration scale requires dedicated horizontal datastores, asynchronous queuing, and offloading heavy payloads from the primary state engine.\nCategory: DevOps",
-    "ai": true,
-    "added": "2026-10-17T11:41:41+00:00",
-    "image": ""
-  },
-  {
-    "title": "Netflix Conductor: The Next Chapter",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
-    "summary": "What happened: Netflix overhauled Conductor's architecture after sunsetting its open-source version.\nWhy: Monthly workflow volume reached 420 million, exposing bottlenecks in Dynomite storage and synchronous engine evaluation.\nLesson: Extreme scale requires decoupling queues, adopting horizontally scalable datastores like Cassandra, and isolating data planes.\nCategory: DevOps",
-    "ai": true,
-    "added": "2026-10-17T11:41:41+00:00",
-    "image": ""
-  },
-  {
-    "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
-    "summary": "What happened: AI focus is shifting from building larger frontier models to delivering practical impact through open industry collaboration.\nWhy: AI has reached a pivotal moment.\nLesson: Infrastructure strategies must focus on scaling intelligence that provides practical impact.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-17T11:41:41+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Azure-Hardware-Media-Selects_Blurred-15-1-1024x576.png"
-  },
-  {
-    "title": "Shell Gym: Kubernetes Gym: ConfigMaps, Secrets and Downward API",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/shell-gyms/kubernetes-config-40106671",
-    "summary": "Concept / Topic: Passing configuration and metadata to Kubernetes Pods.\nHow it works: Hands-on shell exercises covering environment variables, ConfigMaps, Secrets, and the Downward API using spaced repetition on a Linux VM.\nKey Takeaway / Skill learned: Muscle memory for configuring Pods via environment variables, mounted files, and pod fields.\nCategory: Learning & Guides",
-    "ai": true,
-    "added": "2026-10-17T11:41:41+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/og/image/shell-gyms/kubernetes-config-40106671/eaf6760f.png"
-  },
-  {
-    "title": "Shell Gym: Kubernetes Gym: Storage",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/shell-gyms/kubernetes-storage-1079efb9",
-    "summary": "Concept / Topic: Kubernetes storage, covering Pod volumes, PersistentVolumes, claims, and StorageClasses.\nHow it works: Fast, repeatable kubectl exercises in a real Linux VM shell using spaced repetition.\nKey Takeaway / Skill learned: Muscle memory for attaching storage to Pods and managing volume lifecycles.\nCategory: Learning & Guides",
-    "ai": true,
-    "added": "2026-10-17T11:41:41+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/og/image/shell-gyms/kubernetes-storage-1079efb9/046d3f9f.png"
   }
 ]
