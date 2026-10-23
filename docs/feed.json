@@ -1,5 +1,50 @@
 [
   {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
+    "ai": false,
+    "added": "2026-10-23T19:22:20+00:00",
+    "image": ""
+  },
+  {
+    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+    "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decision At Netflix, shared Java libraries support applications developed across...",
+    "ai": false,
+    "added": "2026-10-23T19:22:20+00:00",
+    "image": ""
+  },
+  {
+    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+    "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decision At Netflix, shared Java libraries support applications developed across...",
+    "ai": false,
+    "added": "2026-10-23T19:22:20+00:00",
+    "image": ""
+  },
+  {
+    "title": "Origin Range Requests: Serving large files without range-request tuning",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/origin-range-requests/",
+    "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
+    "ai": false,
+    "added": "2026-10-23T19:22:20+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MZPB7A2K0S0V8PAH4CRWG6.png"
+  },
+  {
+    "title": "Origin Range Requests: Serving large files without range-request tuning",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/origin-range-requests/",
+    "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
+    "ai": false,
+    "added": "2026-10-23T19:22:20+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MZPB7A2K0S0V8PAH4CRWG6.png"
+  },
+  {
     "title": "PHP2Shell: GitLab helps find and remediate critical PHP flaws",
     "source": "GitLab",
     "link": "https://about.gitlab.com/blog/gitlab-helps-remediate-critical-php-flaws/",
@@ -493,50 +538,5 @@
     "ai": true,
     "added": "2026-10-18T12:07:38+00:00",
     "image": ""
-  },
-  {
-    "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/live-streaming-engineering-lessons/",
-    "summary": "Live sports involve myriad unknowns, but one thing is certain: the live video feed must play flawlessly, and simultaneously, for The post Here are the engineering lessons we learned when live-streaming sports to 32 million people appeared first on The New...",
-    "ai": false,
-    "added": "2026-10-17T17:53:24+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/eccba850-joshua-earle-l6pvwhdfrhm-unsplash.jpg"
-  },
-  {
-    "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
-    "summary": "By Emma Yanyang Kong , JJ Tan , Ishan Gupta , Lars Olds , Claire Campbell , David Fagnan , Ratna Kavuri , Rohan Gosain , Veli Balin , Minsu Jang , Louis Garcia Introduction Any team generating text with an LLM at scale hits the same problem. You cannot...",
-    "ai": false,
-    "added": "2026-10-17T17:53:24+00:00",
-    "image": ""
-  },
-  {
-    "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
-    "summary": "By Violetta Pidvolotska and Naveen Mareddy Stratum is Netflix\u2019s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of media workloads \u2014 including encoding,...",
-    "ai": false,
-    "added": "2026-10-17T17:53:24+00:00",
-    "image": ""
-  },
-  {
-    "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/ai-agents-kubernetes-control/",
-    "summary": "Kubernetes has always relied on agents, just not the kind dominating today\u2019s AI conversations. A controller watches the current state, The post AI agents vs. Kubernetes: where each belongs in the control loop appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-17T17:53:24+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/7d96e1b7-sara-canonici-ztnx3xxzyvc-unsplash.jpg"
-  },
-  {
-    "title": "Challenge: Roll Out Pod Security Standards Across Three Namespaces",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/roll-out-pod-security-standards-across-three-namespaces-1be633bd",
-    "summary": "Scenario The platform team is rolling out Pod Security Admission , the built-in admission controller that applies the Kubernetes Pod Security Standards per namespace. Three namespaces are in scope this week: NamespaceWorkloadWhat it is monitoring DaemonSet...",
-    "ai": false,
-    "added": "2026-10-17T17:53:24+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/og/image/challenges/roll-out-pod-security-standards-across-three-namespaces-1be633bd/7e29f2b6.png"
   }
 ]
