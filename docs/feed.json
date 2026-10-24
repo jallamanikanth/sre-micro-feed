@@ -1,5 +1,50 @@
 [
   {
+    "title": "Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/why-kubernetes-autoscalers-fight/",
+    "summary": "Ask an SRE a deceptively simple question: What is the right size for checkout-api, and how many replicas should it The post Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous) appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-24T18:15:56+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/74e58168-ubaid-e-alyafizi-hmtbfonxza8-unsplash.jpg"
+  },
+  {
+    "title": "EP230: RAG vs Agentic RAG",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
+    "summary": "Here's how RAG and agentic RAG typically work.",
+    "ai": false,
+    "added": "2026-10-24T18:15:56+00:00",
+    "image": ""
+  },
+  {
+    "title": "AWS says its AI security agent fixes 89% of bugs \u2014 but there\u2019s a catch",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/aws-says-its-ai-security-agent-fixes-89-of-bugs-but-theres-a-catch/",
+    "summary": "AWS made Continuum for code vulnerabilities generally available on Thursday. The service finds and validates bugs in your repositories, checks The post AWS says its AI security agent fixes 89% of bugs \u2014 but there\u2019s a catch appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-24T18:15:56+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/e3fae552-getty-images-f0awab_rn2c-unsplash-scaled.jpg"
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-24T18:15:56+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png"
+  },
+  {
+    "title": "Securing our frontier model training environment",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "ai": false,
+    "added": "2026-10-24T18:15:56+00:00",
+    "image": ""
+  },
+  {
     "title": "Bringing post-quantum cryptography to geographically fenced key management",
     "source": "Cloudflare Blog",
     "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-19T14:48:29+00:00",
     "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg"
-  },
-  {
-    "title": "Scale isn\u2019t one number: three ways a Kubernetes control plane runs out of room",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/scaling-kubernetes-control-planes/",
-    "summary": "Concept / Topic: Kubernetes control plane scaling limits.\nHow it works: Control plane capacity runs out of room in three distinct ways rather than a single threshold.\nKey Takeaway / Skill learned: Evaluate Kubernetes scale across multiple dimensions instead of relying on one metric.\nCategory: Learning & Guides",
-    "ai": true,
-    "added": "2026-10-18T18:13:12+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/40b34431-osarugue-igbinoba-hvm4zmzynyg-unsplash.jpg"
-  },
-  {
-    "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/gemini-argon-claude-opus/",
-    "summary": "What happened: Gemini 4 Argon was compared against Claude Opus 5.5, costing half the price at roughly half the accuracy.\nWhy: Specific technical causes and benchmark details are not provided in the text.\nLesson: Cheaper AI model pricing can come with proportional trade-offs in accuracy.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-18T18:13:12+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/667cdf2d-daniele-franchi-wyj0rahs_2k-unsplash-scaled.jpg"
-  },
-  {
-    "title": "EP229: 8 Chunking strategies for RAG-based agents",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
-    "summary": "Concept / Topic: Text chunking strategies for RAG-based agents.\nHow it works: Splits documents via fixed-size tokens, structural boundaries, semantic similarity drops, LLM-generated propositions, or late chunking embeddings.\nKey Takeaway / Skill learned: Choose chunking methods based on document format and semantic shifts to optimize retrieval quality.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-18T18:13:12+00:00",
-    "image": ""
-  },
-  {
-    "title": "How Ita\u00fa is building generative AI for its entire customer base",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "summary": "What happened: Ita\u00fa is rolling out generative AI to customers and employees using conversational interface ia.i.\nWhy: To implement its AI First strategy within one of Brazil's most regulated sectors.\nLesson: Platforms like IARA provide the governance required to scale enterprise AI in regulated environments.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-18T18:13:12+00:00",
-    "image": ""
-  },
-  {
-    "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-    "source": "The latest research from Google",
-    "link": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-    "summary": "What happened: Google Research introduced AI agents and the VERID framework to automate closed-loop wet-lab experiments.\nWhy: AI models struggle with 3D physical reasoning, creating bottlenecks that require empirical real-world feedback.\nLesson: Live digital-twin state tracking and automated simulations prevent physical failures while enabling iterative learning.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-18T18:13:12+00:00",
-    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
   }
 ]
