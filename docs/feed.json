@@ -1,5 +1,50 @@
 [
   {
+    "title": "Bringing post-quantum cryptography to geographically fenced key management",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
+    "ai": false,
+    "added": "2026-10-24T12:06:47+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF84W5ZDM8VYGGMCPH1ZZ.png"
+  },
+  {
+    "title": "Bringing post-quantum cryptography to geographically fenced key management",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
+    "ai": false,
+    "added": "2026-10-24T12:06:47+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF84W5ZDM8VYGGMCPH1ZZ.png"
+  },
+  {
+    "title": "Before you expand your GPU pool, measure the outcome",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/optimize-kubernetes-gpu-pools/",
+    "summary": "For teams running AI workloads on Kubernetes, a fully allocated GPU pool and a growing batch-job queue might make expanding The post Before you expand your GPU pool, measure the outcome appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-24T12:06:47+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/b5688e82-getty-images-nepgabvtsk4-unsplash.jpg"
+  },
+  {
+    "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/kubernetes-agentic-ai-inference/",
+    "summary": "Welcome to another edition of Road to KubeCon! We\u2019re tracking movements in the Kubernetes and cloud-native ecosystem as we count The post AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-24T12:06:47+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/9d675f70-daniele-franchi-2mlookvpdts-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Bringing foundational models to the front lines of TB screening",
+    "source": "The latest research from Google",
+    "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "summary": "Generative AI",
+    "ai": false,
+    "added": "2026-10-24T12:06:47+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "source": "OpenAI News",
     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -493,50 +538,5 @@
     "ai": true,
     "added": "2026-10-18T18:13:12+00:00",
     "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-  },
-  {
-    "title": "Evolving the cloud-native foundation for the next generation of AI",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-    "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
-    "ai": false,
-    "added": "2026-10-18T12:07:38+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Cloud-Native-1.jpg"
-  },
-  {
-    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
-    "summary": "Concept / Topic: Ontology-driven observability knowledge graphs at scale.\nHow it works: Standardizes isolated telemetry and tooling data into structured RDF triples, validated against catalogs and stored in a queryable graph.\nKey Takeaway / Skill learned: Modeling operational entities and relationships into an explicit ontology eliminates human correlation bottlenecks during cross-domain incident investigations.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-18T12:07:38+00:00",
-    "image": ""
-  },
-  {
-    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
-    "summary": "Concept / Topic: Ontology-driven observability via knowledge graphs at scale.\nHow it works: Standardizes isolated telemetry, chats, and deployment metadata into RDF triples queried via SPARQL.\nKey Takeaway / Skill learned: Formal operational schemas eliminate cross-tool naming friction and drastically accelerate incident investigations.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-18T12:07:38+00:00",
-    "image": ""
-  },
-  {
-    "title": "GitLab Secrets Manager: Govern secrets like your code",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/secrets-manager-ga/",
-    "summary": "Credentials often start in an engineer's local dev environments, then get copied into unscoped CI/CD variables to keep pipelines running. Stored there as a raw value rather than a reference to a scoped secret, a signing key reaches every job in the pipeline \u2014...",
-    "ai": false,
-    "added": "2026-10-18T12:07:38+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1791993648/t2kod74bclspits5cc5o.png"
-  },
-  {
-    "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-    "source": "Kubernetes Blog",
-    "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
-    "summary": "Concept / Topic: Troubleshooting pending Kubernetes Jobs with Kueue in Headlamp.\nHow it works: Inspect Workload admission conditions, then trace quota limits across linked LocalQueues and ClusterQueues.\nKey Takeaway / Skill learned: Differentiate Kueue quota admission failures from standard Pod scheduling issues via UI.\nCategory: Learning & Guides",
-    "ai": true,
-    "added": "2026-10-18T12:07:38+00:00",
-    "image": ""
   }
 ]
