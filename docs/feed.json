@@ -1,5 +1,50 @@
 [
   {
+    "title": "Building an agentic software factory? Start with the sensor.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/agentic-software-factory-sensor/",
+    "summary": "A gap has long existed between the shipping velocity of the best engineering teams and the rest of the bell The post Building an agentic software factory? Start with the sensor. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-25T12:39:35+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/b129c079-steve-a-johnson-5zsu_gecgp4-unsplash.jpg"
+  },
+  {
+    "title": "Vercel moved to kill static credentials. Then developers spotted its own deployment token.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/vercel-oidc-static-credentials/",
+    "summary": "Vercel wants to eliminate long-lived API keys from its ecosystem, and it is giving Marketplace vendors until January 2027 to The post Vercel moved to kill static credentials. Then developers spotted its own deployment token. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-25T12:39:35+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/c50406cc-ubaid-e-alyafizi-rkqae711uuw-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Feng Shui for Robots: The Fly MCP Server",
+    "source": "The Fly Blog",
+    "link": "https://fly.io/blog/feng-shui-for-robots/",
+    "summary": "In Databricks\u2019 State of AI Agents 2026 report, there\u2019s a chart from Neon\u2019s telemetry that\u2019s somehow both mind-blowing and unsurprising. In October 2023, AI agents created 0.1% of the databases on Neon. By October 2025 they created 80% of them. We\u2019re seeing...",
+    "ai": false,
+    "added": "2026-10-25T12:39:35+00:00",
+    "image": "https://fly.io/blog/feng-shui-for-robots/assets/mcp-server-4f95.webp"
+  },
+  {
+    "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "summary": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "ai": false,
+    "added": "2026-10-25T12:39:35+00:00",
+    "image": ""
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-25T12:39:35+00:00",
+    "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg"
+  },
+  {
     "title": "Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)",
     "source": "The New Stack",
     "link": "https://thenewstack.io/why-kubernetes-autoscalers-fight/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-19T20:39:05+00:00",
     "image": "https://cdn.thenewstack.io/media/2026/10/079cce9a-getty-images-rswd0afriwu-unsplash-scaled.jpg"
-  },
-  {
-    "title": "SRE Weekly Issue #539",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-539/",
-    "summary": "View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers...",
-    "ai": false,
-    "added": "2026-10-19T14:48:29+00:00",
-    "image": ""
-  },
-  {
-    "title": "SRE Weekly Issue #539",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-539/",
-    "summary": "View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers...",
-    "ai": false,
-    "added": "2026-10-19T14:48:29+00:00",
-    "image": ""
-  },
-  {
-    "title": "DeepSeek made its name with cheap AI models. Now it\u2019s undercutting search API rivals, too.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/deepseek-web-search-api/",
-    "summary": "Not content with challenging the major frontier AI labs with lower-cost models, Chinese AI company DeepSeek is setting its sights The post DeepSeek made its name with cheap AI models. Now it\u2019s undercutting search API rivals, too. appeared first on The New...",
-    "ai": false,
-    "added": "2026-10-19T14:48:29+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/81f7030c-getty-images-6dnmfeeaht0-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
-    "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
-    "ai": false,
-    "added": "2026-10-19T14:48:29+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M57XKY3GGS0S18TG677BSB8R.01M57XKYWQJ14NV970SJJ09NNP.png"
-  },
-  {
-    "title": "Inside Prometheus: Meta\u2019s Journey to a Gigawatt-Scale Supercluster",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-    "summary": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we\u2019re working toward...",
-    "ai": false,
-    "added": "2026-10-19T14:48:29+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg"
   }
 ]
