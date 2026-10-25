@@ -198,5 +198,10 @@
   "https://thenewstack.io/vercel-oidc-static-credentials/",
   "https://fly.io/blog/feng-shui-for-robots/",
   "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-  "https://huggingface.co/blog/torch-neuronx-model-support"
+  "https://huggingface.co/blog/torch-neuronx-model-support",
+  "https://thenewstack.io/kubernetes-ready-ai-agents/",
+  "https://labs.iximiuz.com/challenges/docker-networking-reach-host-service-bound-to-localhost",
+  "https://labs.iximiuz.com/challenges/docker-networking-connect-app-to-host-service",
+  "https://thenewstack.io/linux-developer-device-management/",
+  "https://huggingface.co/blog/microsoft/thinkingbox-training"
 ]

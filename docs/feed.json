@@ -1,5 +1,50 @@
 [
   {
+    "title": "Is Kubernetes ready for AI agents?",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/kubernetes-ready-ai-agents/",
+    "summary": "Kubernetes was built around a fairly simple assumption. It\u2019s that software does what its developers told it to do. AI The post Is Kubernetes ready for AI agents? appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-25T18:28:45+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/040396f0-rohit-choudhari-qbftawsipsq-unsplash.jpg"
+  },
+  {
+    "title": "Challenge: Connect a Container to a Service Bound to Localhost on the Docker Host",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/docker-networking-reach-host-service-bound-to-localhost",
+    "summary": "This challenge focuses on Docker Engine running directly on a Linux machine. Docker Desktop runs Docker Engine inside a separate VM and provides some of the host connectivity out of the box, so the commands from this challenge may behave differently on your...",
+    "ai": false,
+    "added": "2026-10-25T18:28:45+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/docker-networking-reach-host-service-bound-to-localhost/__static__/docker-reach-host-service-bound-to-localhost-problem.png?v=1792949327883"
+  },
+  {
+    "title": "Challenge: Connect a Container to a Service Running on the Docker Host",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/docker-networking-connect-app-to-host-service",
+    "summary": "This challenge focuses on Docker Engine running directly on a Linux machine. Docker Desktop runs Docker Engine inside a separate VM and provides some of the host connectivity out of the box, so the commands from this challenge may behave differently on your...",
+    "ai": false,
+    "added": "2026-10-25T18:28:45+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/docker-networking-connect-app-to-host-service/__static__/docker-connect-app-to-host-service-problem.png?v=1792948897518"
+  },
+  {
+    "title": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/linux-developer-device-management/",
+    "summary": "Linux is already part of the AI developer\u2019s desktop toolkit. Nvidia\u2019s DGX Spark, which became available to order on October The post A few engineers asked IT for Linux. Then it spread to 200 machines. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-25T18:28:45+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/60d245a1-curated-lifestyle-tkuj9o0ieyi-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-25T18:28:45+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png"
+  },
+  {
     "title": "Building an agentic software factory? Start with the sensor.",
     "source": "The New Stack",
     "link": "https://thenewstack.io/agentic-software-factory-sensor/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-20T12:49:39+00:00",
     "image": "https://cdn.thenewstack.io/media/2026/10/8cbfd8b7-silali-banerjee-azkv8asolwq-unsplash-1-scaled.jpg"
-  },
-  {
-    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-    "summary": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.",
-    "ai": false,
-    "added": "2026-10-19T20:39:05+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M58NMFG35J21WVMK7QGMANJT.png"
-  },
-  {
-    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-    "summary": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.",
-    "ai": false,
-    "added": "2026-10-19T20:39:05+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M58NMFG35J21WVMK7QGMANJT.png"
-  },
-  {
-    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
-    "summary": "Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad...",
-    "ai": false,
-    "added": "2026-10-19T20:39:05+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-Hero.png"
-  },
-  {
-    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
-    "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we\u2019ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and...",
-    "ai": false,
-    "added": "2026-10-19T20:39:05+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Thin-Orchestrator-Hero.png"
-  },
-  {
-    "title": "One sentence changed Claude Code\u2019s overreach rate from 0% to 17.1%",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/coding-agents-overstep-scope/",
-    "summary": "Anthropic is reportedly developing a model that can infer what users want from incomplete instructions. According to The Information, a The post One sentence changed Claude Code\u2019s overreach rate from 0% to 17.1% appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-19T20:39:05+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/079cce9a-getty-images-rswd0afriwu-unsplash-scaled.jpg"
   }
 ]
