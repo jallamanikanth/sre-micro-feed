@@ -1,5 +1,50 @@
 [
   {
+    "title": "A Deep Dive into Salesforce\u2019s Agent Tech Stack",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
+    "summary": "Salesforce moved to a new design, a multi-layer system that combines deterministic code with reasoning models for maximum reliability.",
+    "ai": false,
+    "added": "2026-10-26T20:38:43+00:00",
+    "image": ""
+  },
+  {
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/openai-cut-incident-investigation",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "ai": false,
+    "added": "2026-10-26T20:38:43+00:00",
+    "image": ""
+  },
+  {
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+    "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark,...",
+    "ai": false,
+    "added": "2026-10-26T20:38:43+00:00",
+    "image": ""
+  },
+  {
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "source": "Netflix TechBlog - Medium",
+    "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+    "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark,...",
+    "ai": false,
+    "added": "2026-10-26T20:38:43+00:00",
+    "image": ""
+  },
+  {
+    "title": "Last chance to get every live course in one membership",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
+    "summary": "We\u2019ll stop selling ByteByteGo Live annual memberships on October 28 at 2 PM PT. After that, courses will be sold individually.",
+    "ai": false,
+    "added": "2026-10-26T20:38:43+00:00",
+    "image": ""
+  },
+  {
     "title": "Is Kubernetes ready for AI agents?",
     "source": "The New Stack",
     "link": "https://thenewstack.io/kubernetes-ready-ai-agents/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-20T19:24:57+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7zYjyTWswjO2erWsO5HNf.png"
-  },
-  {
-    "title": "Advancing coding in low\u2011resource programming languages",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/low-resource-programming-languages",
-    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "ai": false,
-    "added": "2026-10-20T12:49:39+00:00",
-    "image": ""
-  },
-  {
-    "title": "Managing open-weight model risk in enterprise deployments",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
-    "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
-    "ai": false,
-    "added": "2026-10-20T12:49:39+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/MSFT-NVIDIA-SCI.jpg"
-  },
-  {
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-20T12:49:39+00:00",
-    "image": "https://huggingface.co/blog/assets/anylanguagemodel-1-0/banner.png"
-  },
-  {
-    "title": "MPS in PyTorch 2.15",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-20T12:49:39+00:00",
-    "image": "https://huggingface.co/blog/assets/mps-pytorch-2-15/thumbnail.png"
-  },
-  {
-    "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/minimax-flash-agent-costs/",
-    "summary": "MiniMax released M3.1 Flash on Monday, saying it cuts agent costs by 70 percent. Per-token prices fell by half, which The post MiniMax just halved its token prices. Your AI agent bill may not follow. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-20T12:49:39+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/8cbfd8b7-silali-banerjee-azkv8asolwq-unsplash-1-scaled.jpg"
   }
 ]
