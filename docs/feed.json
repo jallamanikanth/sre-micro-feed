@@ -1,5 +1,50 @@
 [
   {
+    "title": "Pillow CVE-2026-112900: How to find and fix it with GitLab",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/pillow-cve-find-and-fix-with-gitlab/",
+    "summary": "GitLab is not affected by CVE-2026-112900 or the other vulnerabilities fixed in Pillow 13.0.0. GitLab products do not include the Pillow library, and our Security team has found no evidence of impact to GitLab-managed infrastructure. GitLab.com, GitLab...",
+    "ai": false,
+    "added": "2026-10-27T13:24:49+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1782237704/cj50chkvprjthczevmog.png"
+  },
+  {
+    "title": "One pod, one node: The architecture behind serverless Kubernetes on AWS",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/serverless-kubernetes-aws-fargate/",
+    "summary": "A pod-level walkthrough of admission routing, dedicated scheduling, and network isolation, no worker nodes required Serverless Kubernetes changes who manages The post One pod, one node: The architecture behind serverless Kubernetes on AWS appeared first on...",
+    "ai": false,
+    "added": "2026-10-27T13:24:49+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/99e1c748-kamran-abdullayev-k1ivra_lafo-unsplash.jpg"
+  },
+  {
+    "title": "When \u201cisolated\u201d doesn\u2019t mean isolated: How to sandbox AI agents",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/how-to-sandbox-agents/",
+    "summary": "Separation of workloads before AI wasn\u2019t easy, but it was far more straightforward. Servers sat in data centers, VLANs segregated The post When \u201cisolated\u201d doesn\u2019t mean isolated: How to sandbox AI agents appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-27T13:24:49+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/cd13439f-ruliff-andrean-ydzoxiyacs4-unsplash.jpg"
+  },
+  {
+    "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
+    "summary": "As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions. The post Scale reservoir uncertainty analysis with agile reservoir modeling appeared first on Microsoft Azure Blog .",
+    "ai": false,
+    "added": "2026-10-27T13:24:49+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Azure-Data-Manager-for-Energy-1.jpg"
+  },
+  {
+    "title": "Announcing the Workload Conformance Working Group",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
+    "summary": "We are excited to announce that the Kubernetes community now has a Workload Conformance Working Group . The working group is writing a shared standard for how workloads behave at runtime on Kubernetes. To get it right, we need input from the people who build...",
+    "ai": false,
+    "added": "2026-10-27T13:24:49+00:00",
+    "image": ""
+  },
+  {
     "title": "A Deep Dive into Salesforce\u2019s Agent Tech Stack",
     "source": "ByteByteGo Newsletter",
     "link": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
@@ -493,50 +538,5 @@
     "ai": true,
     "added": "2026-10-21T13:02:12+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AYSBKT78Q7W6234MGTKVKA.png"
-  },
-  {
-    "title": "Redesign how your team ships software with AI agents",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/",
-    "summary": "AI agents are sending more and more code into review queues built for human-paced work. A coding assistant can speed up code writing, but it can\u2019t show you whether review, security checks, and release approvals can keep pace with all that extra code....",
-    "ai": false,
-    "added": "2026-10-20T19:24:57+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1792421291/mfgvawlpuk9a2tdimsgn.png"
-  },
-  {
-    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-    "summary": "Concept / Topic: Sovereign AI architecture from edge to cloud.\nHow it works: Places each workload in the right environment while applying required controls.\nKey Takeaway / Skill learned: Maintaining consistency across diverse operational environments.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-20T19:24:57+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Blog-Banner-Image_1920x1080_1-Official-Microsoft-Blog-Banner.jpg"
-  },
-  {
-    "title": "How to review AI code without reading the code",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/review-decisions-not-code/",
-    "summary": "The argument over whether engineers should stop reading code is over, because we already have. Faros AI\u2019s new report shows The post How to review AI code without reading the code appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-20T19:24:57+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/2c4742b4-simon-maage-ov8riiftew-unsplash.jpg"
-  },
-  {
-    "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-20T19:24:57+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg"
-  },
-  {
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/allenai/fairstress",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-20T19:24:57+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7zYjyTWswjO2erWsO5HNf.png"
   }
 ]
