@@ -1,5 +1,50 @@
 [
   {
+    "title": "Publishing LMS courses with a Kiro SCORM pipeline",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
+    "summary": "See how to use Kiro, an agentic AI, to automate converting raw training material into compliant SCORM packages that are ready to upload to a learning management system (LMS).",
+    "ai": false,
+    "added": "2026-10-27T20:09:17+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/26/ARCHBLOG-1570-featured-image.png"
+  },
+  {
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "source": "The latest research from Google",
+    "link": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "summary": "Education Innovation",
+    "ai": false,
+    "added": "2026-10-27T20:09:17+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
+    "title": "Extend GitLab Duo Agent Platform into your business systems",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/extend-gitlab-duo-agent-platform-into-your-business-systems/",
+    "summary": "Developers mostly use GitLab Duo Agent Platform where they already work: the IDE, merge requests, and issues. But DevSecOps teams also support the business systems the rest of the company runs on, and those systems break too. In Salesforce, for example, when...",
+    "ai": false,
+    "added": "2026-10-27T20:09:17+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1789480051/yl5u9r9o48evmmdjiygl.png"
+  },
+  {
+    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+    "summary": "This latest deep dive into Meta\u2019s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta\u2019s diverse data and processing systems. Historically, supporting a new requirement meant implementing...",
+    "ai": false,
+    "added": "2026-10-27T20:09:17+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/PrivacyLib-Hero.png"
+  },
+  {
+    "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/",
+    "summary": "Manta Marine Technologies closes the gap between seemingly identical ships by training machine learning models on each vessel's own operational history. Learn how Manta delivers vessel-specific voyage optimization on AWS to help shipowners reduce fuel...",
+    "ai": false,
+    "added": "2026-10-27T20:09:17+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/23/ARCHBLOG-1667-featured-image.png"
+  },
+  {
     "title": "Pillow CVE-2026-112900: How to find and fix it with GitLab",
     "source": "GitLab",
     "link": "https://about.gitlab.com/blog/pillow-cve-find-and-fix-with-gitlab/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-21T19:24:06+00:00",
     "image": ""
-  },
-  {
-    "title": "Uncover the business logic vulnerabilities SAST scanners miss",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/gitlab-business-logic-security-analyzer/",
-    "summary": "Broken object-level authorization ranks first on the OWASP API Security Top 10 , and OWASP says that traditional static application security testing (SAST) tools struggle to find access control flaws. A missing authorization check is an absence of code, so a...",
-    "ai": false,
-    "added": "2026-10-21T13:02:12+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1756122536/akivvcnafog9c4dhhzkp.png"
-  },
-  {
-    "title": "Nvidia bets open models can give enterprise AI agents the context they\u2019re missing",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/nvidia-agent-knowledge-foundation/",
-    "summary": "What happened: Nvidia is betting open models can give enterprise AI agents missing context.\nWhy: Unspecified, as the article body consists only of website subscription boilerplate.\nLesson: Enterprise AI agents are recognized as lacking critical context.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-21T13:02:12+00:00",
-    "image": "https://cdn.thenewstack.io/media/2025/12/ac9a49ad-img_0477-edit-scaled.jpg"
-  },
-  {
-    "title": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/respan-rust-ai-gateway/",
-    "summary": "What happened: Respan had to start over after spending two years building on LiteLLM.\nWhy: A single software upgrade caused them to restart.\nLesson: Framework upgrades can introduce breaking changes that disrupt long-term architectural work.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-21T13:02:12+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/ea6fbc72-getty-images-fe0tqrcfti8-unsplash-scaled.jpg"
-  },
-  {
-    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/webmcp-commerce/",
-    "summary": "What happened: Cloudflare and Commerce.com enabled WebMCP across 100,000 storefronts, giving AI shopping agents structured browser tools.\nWhy: AI scraping via HTML is slow, token-heavy, and fragile compared to native browser tools.\nLesson: Use edge configuration rules and custom hostname metadata for zero-latency, per-tenant opt-out controls.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-21T13:02:12+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AYSBKT78Q7W6234MGTKVKA.png"
-  },
-  {
-    "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/webmcp-commerce/",
-    "summary": "What happened: Cloudflare and Commerce.com enabled WebMCP across 100,000 storefronts via edge script injection.\nWhy: AI agents struggle parsing HTML; structured browser tools make agentic shopping faster and more reliable.\nLesson: Edge metadata rules allow seamless platform-wide rollouts with per-tenant opt-outs and safe fallbacks.\nCategory: AI & SRE",
-    "ai": true,
-    "added": "2026-10-21T13:02:12+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5AYSBKT78Q7W6234MGTKVKA.png"
   }
 ]
