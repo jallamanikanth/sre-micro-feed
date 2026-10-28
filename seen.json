@@ -223,5 +223,10 @@
   "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/",
   "https://huggingface.co/blog/allenai/novelty-bench",
   "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
-  "https://thenewstack.io/kubernetes-control-plane-failures/"
+  "https://thenewstack.io/kubernetes-control-plane-failures/",
+  "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/",
+  "https://thenewstack.io/github-copilot-fusion/",
+  "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/",
+  "https://thenewstack.io/android-agents-build-debug/",
+  "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/"
 ]

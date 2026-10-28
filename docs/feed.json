@@ -1,5 +1,50 @@
 [
   {
+    "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/",
+    "summary": "Smarsh used the AWS Well-Architected Framework's Agentic AI Lens to review its first agentic workload. Because the lens is not yet selectable in the console, the team encoded it as a Claude skill that assessed all 150 best practices against the workload's...",
+    "ai": false,
+    "added": "2026-10-28T20:24:40+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/22/ARCHBLOG-1726-featured-image.png"
+  },
+  {
+    "title": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/github-copilot-fusion/",
+    "summary": "GitHub has debuted GitHub Copilot Fusion, a new system that handles model selection and orchestration for coding tasks so developers The post GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API...",
+    "ai": false,
+    "added": "2026-10-28T20:24:40+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/b78f2934-screenshot-2026-10-28-at-12.17.49.png"
+  },
+  {
+    "title": "How Revinate accelerated API adoption with Amazon API Gateway",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/",
+    "summary": "Accelerating API adoption while reducing operational overhead is a challenge that every growing organization faces. For Revinate, a hospitality provider serving over 12,500 hotels worldwide and powering more than 1.25 billion guest profiles, Amazon API...",
+    "ai": false,
+    "added": "2026-10-28T20:24:40+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/07/13/revinate-adoption-featured-image.png"
+  },
+  {
+    "title": "Google just handed its rivals the keys to Android",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/android-agents-build-debug/",
+    "summary": "Google is giving coding agents like Anthropic\u2019s Claude Code and OpenAI\u2019s Codex deeper access to its Android development tools, including The post Google just handed its rivals the keys to Android appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-28T20:24:40+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/fe17422f-mohamed-nohassi-bpvdngbw1c-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+    "summary": "This post describes the next generation of Meta Andromeda, Meta\u2019s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible...",
+    "ai": false,
+    "added": "2026-10-28T20:24:40+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Andromeda-co-design-Hero.png"
+  },
+  {
     "title": "Blog Post: How I added dynamic social preview images to my site for almost nothing",
     "source": "iximiuz Labs \u2014 All new posts",
     "link": "https://labs.iximiuz.com/blog/adding-dynamic-social-preview-images",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-22T19:18:29+00:00",
     "image": "https://cdn.thenewstack.io/media/2026/10/beaf3dcb-getty-images-de9f7lcsapw-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
-    "summary": "Learn how to combine deterministic orchestration with bounded agentic reasoning using AWS Step Functions and the Amazon Bedrock AgentCore harness. This medical coding workflow escalates cheapest-first: a safety block-list, then exact matching, then an AI...",
-    "ai": false,
-    "added": "2026-10-22T13:04:10+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/19/ARCHBLOG-1619-featured-image.png"
-  },
-  {
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/att-legal",
-    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "ai": false,
-    "added": "2026-10-22T13:04:10+00:00",
-    "image": ""
-  },
-  {
-    "title": "SBD: We Have a Filesystem at Home",
-    "source": "The Fly Blog",
-    "link": "https://fly.io/blog/sprites-block-device/",
-    "summary": "I have unkind things to say about people who make their own pasta. Here, I\u2019ll only use them as an example of how not to think when you\u2019re building infrastructure. It\u2019s unfairly easy to believe that the harder you work on something, the better it gets. But...",
-    "ai": false,
-    "added": "2026-10-22T13:04:10+00:00",
-    "image": "https://fly.io/blog/sprites-block-device/assets/pasta-robot.webp"
-  },
-  {
-    "title": "Google turns the infrastructure behind Gemini\u2019s agents into a cloud service",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/google-agent-compute-engine/",
-    "summary": "Google will soon make the infrastructure that powers its Gemini agents available to Google Cloud users in preview. Announced on The post Google turns the infrastructure behind Gemini\u2019s agents into a cloud service appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-22T13:04:10+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/30d2e7d0-google_logo-scaled.jpg"
-  },
-  {
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-22T13:04:10+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png"
   }
 ]
