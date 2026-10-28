@@ -1,5 +1,50 @@
 [
   {
+    "title": "Blog Post: How I added dynamic social preview images to my site for almost nothing",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/blog/adding-dynamic-social-preview-images",
+    "summary": "Most people probably take this functionality for granted, but social preview images ( og:image ) for a site with dynamic content aren't trivial to build. For quite some time, I had been putting off building them for iximiuz Labs, but adding author profiles,...",
+    "ai": false,
+    "added": "2026-10-28T14:10:14+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/blog-posts/adding-dynamic-social-preview-images/__static__/paparazzi-concept.png?v=1793135931734"
+  },
+  {
+    "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/",
+    "summary": "Anchorage Digital and Turnkey built verifiable infrastructure on AWS Nitro Enclaves so crypto wallets can cryptographically verify which code parsed a transaction. This post covers the architecture, the attestation-gated access pattern, and how it extends to...",
+    "ai": false,
+    "added": "2026-10-28T14:10:14+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/09/ARCHBLOG-1598-featured-image.png"
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-28T14:10:14+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/ZrKpGOLkSf0LmAf3bnJIX.png"
+  },
+  {
+    "title": "How Apple Fits an LLM on Your iPhone",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+    "summary": "How is Apple able to fit such a model on an iPhone without any adverse impact on the device?",
+    "ai": false,
+    "added": "2026-10-28T14:10:14+00:00",
+    "image": ""
+  },
+  {
+    "title": "The hidden failure paths that affect Kubernetes control plane availability",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/kubernetes-control-plane-failures/",
+    "summary": "Kubernetes control planes are designed to contain individual failures, but their availability still depends on how components in the critical The post The hidden failure paths that affect Kubernetes control plane availability appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-28T14:10:14+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/cc670bb8-ubaid-e-alyafizi-rxda-s7giis-unsplash.jpg"
+  },
+  {
     "title": "Publishing LMS courses with a Kiro SCORM pipeline",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-22T13:04:10+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png"
-  },
-  {
-    "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/building-chatgpt-ad-stack",
-    "summary": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "ai": false,
-    "added": "2026-10-21T19:24:06+00:00",
-    "image": ""
-  },
-  {
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "ai": false,
-    "added": "2026-10-21T19:24:06+00:00",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-21T19:24:06+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6ad8e88370f69967fafc8703/i-Flass3NMPRmc6lVfwO_.png"
-  },
-  {
-    "title": "The bridge to agent-scale Git infrastructure",
-    "source": "The latest from GitHub's engineering team - The GitHub Blog",
-    "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-    "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The...",
-    "ai": false,
-    "added": "2026-10-21T19:24:06+00:00",
-    "image": "https://github.blog/wp-content/uploads/2026/01/generic-mona-github.png?fit=1920%2C1080"
-  },
-  {
-    "title": "LLM Prompt Caching Versus Semantic Caching",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
-    "summary": "In this article, we\u2019ll look at how LLM caching works in detail.",
-    "ai": false,
-    "added": "2026-10-21T19:24:06+00:00",
-    "image": ""
   }
 ]

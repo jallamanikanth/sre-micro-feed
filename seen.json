@@ -218,5 +218,10 @@
   "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
   "https://about.gitlab.com/blog/extend-gitlab-duo-agent-platform-into-your-business-systems/",
   "https://engineering.fb.com/2026/10/27/security/privacylib/",
-  "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/"
+  "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/",
+  "https://labs.iximiuz.com/blog/adding-dynamic-social-preview-images",
+  "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/",
+  "https://huggingface.co/blog/allenai/novelty-bench",
+  "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+  "https://thenewstack.io/kubernetes-control-plane-failures/"
 ]
