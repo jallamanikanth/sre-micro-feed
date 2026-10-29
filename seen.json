@@ -233,5 +233,10 @@
   "https://thenewstack.io/kubernetes-resource-composition-layer/",
   "https://thenewstack.io/ai-agent-sandboxing-kubernetes/",
   "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-  "https://blog.cloudflare.com/ddos-threat-report-2026-q3/"
+  "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+  "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/",
+  "https://openai.com/index/updated-model-spec",
+  "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
+  "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/"
 ]

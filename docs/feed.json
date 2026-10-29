@@ -1,5 +1,50 @@
 [
   {
+    "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/",
+    "summary": "Learn how BMW Group migrated its connected vehicle platform from x86 to AWS Graviton. Using Karpenter, multi-architecture container builds, and Graviton-based CI/CD runners, the team moved workloads without disruption, cutting NGINX ingress CPU by about 57...",
+    "ai": false,
+    "added": "2026-10-29T20:23:07+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/22/ARCHBLOG-1717-featured-image.png"
+  },
+  {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/updated-model-spec",
+    "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "ai": false,
+    "added": "2026-10-29T20:23:07+00:00",
+    "image": ""
+  },
+  {
+    "title": "Data Movement Strategies In System Design",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
+    "summary": "To manage this movement of data, you need to make decisions about when and how information should travel within a system and outside it.",
+    "ai": false,
+    "added": "2026-10-29T20:23:07+00:00",
+    "image": ""
+  },
+  {
+    "title": "How we detect frontier model misalignment",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "ai": false,
+    "added": "2026-10-29T20:23:07+00:00",
+    "image": ""
+  },
+  {
+    "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
+    "summary": "Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver personalized, real-time fitness coaching to millions of smartwatch users across India, and the design choices that made the solution scalable and cost-effective.",
+    "ai": false,
+    "added": "2026-10-29T20:23:07+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/08/26/ARCHBLOG-1472-featured-image.png"
+  },
+  {
     "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
     "source": "Kubernetes Blog",
     "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-23T19:22:20+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MZPB7A2K0S0V8PAH4CRWG6.png"
-  },
-  {
-    "title": "PHP2Shell: GitLab helps find and remediate critical PHP flaws",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/gitlab-helps-remediate-critical-php-flaws/",
-    "summary": "GitLab is not affected by PHP2Shell (CVE-2026-109618 and CVE-2026-109619). The GitLab application is not written in PHP and does not run it to serve web requests, and our Security team has found no evidence of impact to GitLab-managed infrastructure....",
-    "ai": false,
-    "added": "2026-10-23T12:43:06+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1782237704/cj50chkvprjthczevmog.png"
-  },
-  {
-    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
-    "summary": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes-based container...",
-    "ai": false,
-    "added": "2026-10-23T12:43:06+00:00",
-    "image": ""
-  },
-  {
-    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
-    "summary": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes-based container...",
-    "ai": false,
-    "added": "2026-10-23T12:43:06+00:00",
-    "image": ""
-  },
-  {
-    "title": "Microsoft\u2019s new voice AI can start working out what you want before you finish speaking",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/microsoft-streaming-speech-models/",
-    "summary": "\u201cI think you said, \u2018representative.\u2019\u201d It\u2019s the fastest way to bypass automated speech recognition chatbots that fail to route human The post Microsoft\u2019s new voice AI can start working out what you want before you finish speaking appeared first on The New...",
-    "ai": false,
-    "added": "2026-10-23T12:43:06+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/da376638-yugudesign-fhlhdmrz3wi-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Challenge: Harden a Django GraphQL API: Five Classic Flaws",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/graphql-vuln-lab-ca696b14",
-    "summary": "You've inherited Acme Social , a small Django app whose API is served by Strawberry . It works \u2014 and it ships with five weaknesses that show up again and again in real GraphQL services. The code is a perfectly ordinary Strawberry/Django setup; the defaults...",
-    "ai": false,
-    "added": "2026-10-23T12:43:06+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/og/image/challenges/graphql-vuln-lab-ca696b14/0d99d5d4.png"
   }
 ]
