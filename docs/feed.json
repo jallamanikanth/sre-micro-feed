@@ -1,5 +1,50 @@
 [
   {
+    "title": "Kubernetes just formed a workload conformance group. Here\u2019s why it matters for AI teams.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/kubernetes-workload-conformance-ai/",
+    "summary": "Welcome to the final edition of Road to KubeCon, where we track the Kubernetes and cloud-native ecosystem each week on The post Kubernetes just formed a workload conformance group. Here\u2019s why it matters for AI teams. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-30T19:58:14+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/c8f82edd-steve-a-johnson-2ujyztp8qjw-unsplash-scaled.jpg"
+  },
+  {
+    "title": "What worries Entire co-founder Thomas Dohmke about the future of tech?",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/we-are-developers-tech-predictions/",
+    "summary": "Former GitHub CEO Thomas Dohmke is taking on his old company. His startup, Entire, launched a GitHub alternative this week, The post What worries Entire co-founder Thomas Dohmke about the future of tech? appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-30T19:58:14+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/ca419ed8-screenshot-2026-10-30-at-15.31.44.png"
+  },
+  {
+    "title": "nemotron-halloween",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-10-30T19:58:14+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png"
+  },
+  {
+    "title": "4 real? Tracking exploitation and patching of eMudhra\u2019s weak keys",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/emudhra-patching/",
+    "summary": "Four, just four: that\u2019s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here\u2019s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet...",
+    "ai": false,
+    "added": "2026-10-30T19:58:14+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYMMC146K2EF0FS41ADG9.png"
+  },
+  {
+    "title": "4 real? Tracking exploitation and patching of eMudhra\u2019s weak keys",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/emudhra-patching/",
+    "summary": "Four, just four: that\u2019s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here\u2019s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet...",
+    "ai": false,
+    "added": "2026-10-30T19:58:14+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYMMC146K2EF0FS41ADG9.png"
+  },
+  {
     "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
     "source": "Microsoft Azure Blog",
     "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-24T18:15:56+00:00",
     "image": ""
-  },
-  {
-    "title": "Bringing post-quantum cryptography to geographically fenced key management",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
-    "ai": false,
-    "added": "2026-10-24T12:06:47+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF84W5ZDM8VYGGMCPH1ZZ.png"
-  },
-  {
-    "title": "Bringing post-quantum cryptography to geographically fenced key management",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
-    "ai": false,
-    "added": "2026-10-24T12:06:47+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5MYF84W5ZDM8VYGGMCPH1ZZ.png"
-  },
-  {
-    "title": "Before you expand your GPU pool, measure the outcome",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/optimize-kubernetes-gpu-pools/",
-    "summary": "For teams running AI workloads on Kubernetes, a fully allocated GPU pool and a growing batch-job queue might make expanding The post Before you expand your GPU pool, measure the outcome appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-24T12:06:47+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/b5688e82-getty-images-nepgabvtsk4-unsplash.jpg"
-  },
-  {
-    "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/kubernetes-agentic-ai-inference/",
-    "summary": "Welcome to another edition of Road to KubeCon! We\u2019re tracking movements in the Kubernetes and cloud-native ecosystem as we count The post AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-24T12:06:47+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/9d675f70-daniele-franchi-2mlookvpdts-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Bringing foundational models to the front lines of TB screening",
-    "source": "The latest research from Google",
-    "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-    "summary": "Generative AI",
-    "ai": false,
-    "added": "2026-10-24T12:06:47+00:00",
-    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
   }
 ]
