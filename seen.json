@@ -238,5 +238,10 @@
   "https://openai.com/index/updated-model-spec",
   "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
   "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-  "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/"
+  "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
+  "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+  "https://thenewstack.io/microsoft-copilot-harness-foundry/",
+  "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
+  "https://thenewstack.io/p99-conf-database-tradeoffs/",
+  "https://labs.iximiuz.com/challenges/pull-image-from-private-registry-66a47c47"
 ]
