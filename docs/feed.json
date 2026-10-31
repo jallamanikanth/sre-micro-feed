@@ -1,5 +1,50 @@
 [
   {
+    "title": "Five years after the fork, OpenSearch is slowly stepping out of AWS\u2019s shadow",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/opensearch-foundation-aws-elasticsearch/",
+    "summary": "OpenSearch has come a long way since Amazon Web Services first announced the project back in January 2021, in response The post Five years after the fork, OpenSearch is slowly stepping out of AWS\u2019s shadow appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-31T19:23:59+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/e88d1014-aws-hero.jpg"
+  },
+  {
+    "title": "Challenge: Reach a Linux Service Through an Interface It Doesn't Listen On",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/networking-reach-endpoint-through-another-interface",
+    "summary": "In 2002, a surprising Linux networking behavior was documented : on a multi-homed machine, a service listening on the IP address assigned to eth1 could still be reached through eth0 , even with IP forwarding disabled. This happens because Linux follows the...",
+    "ai": false,
+    "added": "2026-10-31T19:23:59+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/networking-reach-endpoint-through-another-interface/__static__/networking-reach-endpoint-through-unexpected-interface-problem.png?v=1793466821418"
+  },
+  {
+    "title": "The context problem: How Docusign built agents that understand the business behind contracts",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/docusign-contract-ai-agents/",
+    "summary": "Ask a general-purpose language model to summarize a contract, and it will probably do a reasonable job. Ask it to The post The context problem: How Docusign built agents that understand the business behind contracts appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-31T19:23:59+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/d397f77f-resource-database-wd6omi7u3tq-unsplash-scaled.jpg"
+  },
+  {
+    "title": "EP231: AI Terms You Need to Know",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
+    "summary": "What else should be on the list?",
+    "ai": false,
+    "added": "2026-10-31T19:23:59+00:00",
+    "image": ""
+  },
+  {
+    "title": "Making it easier for websites to express AI training preferences",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "ai": false,
+    "added": "2026-10-31T19:23:59+00:00",
+    "image": ""
+  },
+  {
     "title": "Busy GPUs can hide slow AI inference on Kubernetes",
     "source": "The New Stack",
     "link": "https://thenewstack.io/ai-inference-kubernetes-observability/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-25T18:28:45+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png"
-  },
-  {
-    "title": "Building an agentic software factory? Start with the sensor.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/agentic-software-factory-sensor/",
-    "summary": "A gap has long existed between the shipping velocity of the best engineering teams and the rest of the bell The post Building an agentic software factory? Start with the sensor. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-25T12:39:35+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/b129c079-steve-a-johnson-5zsu_gecgp4-unsplash.jpg"
-  },
-  {
-    "title": "Vercel moved to kill static credentials. Then developers spotted its own deployment token.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/vercel-oidc-static-credentials/",
-    "summary": "Vercel wants to eliminate long-lived API keys from its ecosystem, and it is giving Marketplace vendors until January 2027 to The post Vercel moved to kill static credentials. Then developers spotted its own deployment token. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-25T12:39:35+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/c50406cc-ubaid-e-alyafizi-rkqae711uuw-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Feng Shui for Robots: The Fly MCP Server",
-    "source": "The Fly Blog",
-    "link": "https://fly.io/blog/feng-shui-for-robots/",
-    "summary": "In Databricks\u2019 State of AI Agents 2026 report, there\u2019s a chart from Neon\u2019s telemetry that\u2019s somehow both mind-blowing and unsurprising. In October 2023, AI agents created 0.1% of the databases on Neon. By October 2025 they created 80% of them. We\u2019re seeing...",
-    "ai": false,
-    "added": "2026-10-25T12:39:35+00:00",
-    "image": "https://fly.io/blog/feng-shui-for-robots/assets/mcp-server-4f95.webp"
-  },
-  {
-    "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-    "summary": "OpenAI and Poland\u2019s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-    "ai": false,
-    "added": "2026-10-25T12:39:35+00:00",
-    "image": ""
-  },
-  {
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-25T12:39:35+00:00",
-    "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg"
   }
 ]
