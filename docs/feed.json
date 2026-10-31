@@ -1,5 +1,50 @@
 [
   {
+    "title": "Busy GPUs can hide slow AI inference on Kubernetes",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/ai-inference-kubernetes-observability/",
+    "summary": "A Kubernetes cluster can be healthy while the AI service running on it disappoints users. A model might return its The post Busy GPUs can hide slow AI inference on Kubernetes appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-31T13:45:18+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/f9cd7390-getty-images-kct0zld_ufo-unsplash-1-scaled.jpg"
+  },
+  {
+    "title": "Shell Gym: Kubernetes Gym: Managing Container Images",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/shell-gyms/manage-container-images-06ff5635",
+    "summary": "This gym trains working with built container images: tags, containers, registries, image archives, and private images in Kubernetes.",
+    "ai": false,
+    "added": "2026-10-31T13:45:18+00:00",
+    "image": "https://labs.iximiuz.com/og/image/shell-gyms/manage-container-images-06ff5635/1ff67a18.png"
+  },
+  {
+    "title": "Shell Gym: Kubernetes Gym: Building Container Images",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/shell-gyms/build-images-57ba1ed2",
+    "summary": "This gym trains writing Dockerfiles and building images with docker build .",
+    "ai": false,
+    "added": "2026-10-31T13:45:18+00:00",
+    "image": "https://labs.iximiuz.com/og/image/shell-gyms/build-images-57ba1ed2/8bf5e13f.png"
+  },
+  {
+    "title": "Anthropic just removed one of Claude\u2019s biggest usage limits \u2014 but not for everyone",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/claude-ultra-session-limit/",
+    "summary": "Claude Code users on Anthropic\u2019s $200 plan will no longer face a rolling five-hour usage cap, provided their accounts are The post Anthropic just removed one of Claude\u2019s biggest usage limits \u2014 but not for everyone appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-10-31T13:45:18+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/7d64b952-adriandra-karuniawan-1kvwsbza_ba-unsplash-scaled.jpg"
+  },
+  {
+    "title": "The Pulse: Time to rethink software security because of AI?",
+    "source": "The Pragmatic Engineer",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/",
+    "summary": "A month\u2019s worth of security breaches in a single day \u2013 will things get worse before they improve?",
+    "ai": false,
+    "added": "2026-10-31T13:45:18+00:00",
+    "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2023/05/Big-Tech---startups---from-the-inside.png"
+  },
+  {
     "title": "Kubernetes just formed a workload conformance group. Here\u2019s why it matters for AI teams.",
     "source": "The New Stack",
     "link": "https://thenewstack.io/kubernetes-workload-conformance-ai/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-25T12:39:35+00:00",
     "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg"
-  },
-  {
-    "title": "Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/why-kubernetes-autoscalers-fight/",
-    "summary": "Ask an SRE a deceptively simple question: What is the right size for checkout-api, and how many replicas should it The post Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous) appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-24T18:15:56+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/74e58168-ubaid-e-alyafizi-hmtbfonxza8-unsplash.jpg"
-  },
-  {
-    "title": "EP230: RAG vs Agentic RAG",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
-    "summary": "Here's how RAG and agentic RAG typically work.",
-    "ai": false,
-    "added": "2026-10-24T18:15:56+00:00",
-    "image": ""
-  },
-  {
-    "title": "AWS says its AI security agent fixes 89% of bugs \u2014 but there\u2019s a catch",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/aws-says-its-ai-security-agent-fixes-89-of-bugs-but-theres-a-catch/",
-    "summary": "AWS made Continuum for code vulnerabilities generally available on Thursday. The service finds and validates bugs in your repositories, checks The post AWS says its AI security agent fixes 89% of bugs \u2014 but there\u2019s a catch appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-24T18:15:56+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/e3fae552-getty-images-f0awab_rn2c-unsplash-scaled.jpg"
-  },
-  {
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/allenai/litpivot",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-24T18:15:56+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png"
-  },
-  {
-    "title": "Securing our frontier model training environment",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "ai": false,
-    "added": "2026-10-24T18:15:56+00:00",
-    "image": ""
   }
 ]
