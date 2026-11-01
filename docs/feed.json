@@ -1,5 +1,50 @@
 [
   {
+    "title": "A step-by-step guide for how to kill the line-by-line code review",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/ai-code-review-invariants/",
+    "summary": "Agents verify; people decide. Most teams running AI code review today have it the other way around. They point a The post A step-by-step guide for how to kill the line-by-line code review appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-11-01T19:48:58+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/94458d7e-hj-project-ww1udlgosi0-unsplash-scaled.png"
+  },
+  {
+    "title": "Skill Path: Troubleshoot Kubernetes Pods with kubectl debug",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/skill-paths/master-kubectl-debug",
+    "summary": "Concept / Topic: Troubleshooting Kubernetes Pods using kubectl debug and ephemeral containers.\nHow it works: Attaches a tool-equipped container to a running Pod to inspect processes and access files without restarting.\nKey Takeaway / Skill learned: Debug distroless and shell-less containers while navigating Linux namespaces, capabilities, and Pod Security Standards.\nCategory: Learning & Guides",
+    "ai": true,
+    "added": "2026-11-01T19:48:58+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/skill-paths/master-kubectl-debug/__static__/ephemeral-containers-default-2000-opt.png?v=1793556493039"
+  },
+  {
+    "title": "Challenge: Edit a File in a Running Kubernetes Pod: a Non-Root Container Case",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/edit-file-in-running-non-root-kubernetes-pod",
+    "summary": "The Pod in the default namespace runs a simple web server that serves static files from the /var/www/html directory on port 8080. Unlike in the Simple Case of this challenge, the container runs as a non-root user, and the files in /var/www/html belong to root...",
+    "ai": false,
+    "added": "2026-11-01T19:48:58+00:00",
+    "image": "https://labs.iximiuz.com/og/image/challenges/edit-file-in-running-non-root-kubernetes-pod/6076f1ad.png"
+  },
+  {
+    "title": "Open-source security in the AI exploit era: Patch without changing a thing",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/patchmageddon-open-source-security22842502/",
+    "summary": "Here\u2019s how a vulnerability in a popular open-source library plays out in 2026: A maintainer merges a fix and publishes The post Open-source security in the AI exploit era: Patch without changing a thing appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-11-01T19:48:58+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/02/564ec44f-getty-images-t3grnwa0cdy-unsplash-scaled.jpg"
+  },
+  {
+    "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+    "source": "The latest research from Google",
+    "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+    "summary": "Education Innovation",
+    "ai": false,
+    "added": "2026-11-01T19:48:58+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
     "title": "Developers ask AI which tool to use. Here\u2019s how we track the answer.",
     "source": "The New Stack",
     "link": "https://thenewstack.io/tracking-ai-tool-recommendations/",
@@ -492,51 +537,6 @@
     "summary": "We are excited to announce that the Kubernetes community now has a Workload Conformance Working Group . The working group is writing a shared standard for how workloads behave at runtime on Kubernetes. To get it right, we need input from the people who build...",
     "ai": false,
     "added": "2026-10-27T13:24:49+00:00",
-    "image": ""
-  },
-  {
-    "title": "A Deep Dive into Salesforce\u2019s Agent Tech Stack",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/a-deep-dive-into-salesforces-agent",
-    "summary": "Salesforce moved to a new design, a multi-layer system that combines deterministic code with reasoning models for maximum reliability.",
-    "ai": false,
-    "added": "2026-10-26T20:38:43+00:00",
-    "image": ""
-  },
-  {
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/openai-cut-incident-investigation",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "ai": false,
-    "added": "2026-10-26T20:38:43+00:00",
-    "image": ""
-  },
-  {
-    "title": "Making Failure Diagnosis Reliable with Pensive AI",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
-    "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark,...",
-    "ai": false,
-    "added": "2026-10-26T20:38:43+00:00",
-    "image": ""
-  },
-  {
-    "title": "Making Failure Diagnosis Reliable with Pensive AI",
-    "source": "Netflix TechBlog - Medium",
-    "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
-    "summary": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines such as Titus, Spark,...",
-    "ai": false,
-    "added": "2026-10-26T20:38:43+00:00",
-    "image": ""
-  },
-  {
-    "title": "Last chance to get every live course in one membership",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
-    "summary": "We\u2019ll stop selling ByteByteGo Live annual memberships on October 28 at 2 PM PT. After that, courses will be sold individually.",
-    "ai": false,
-    "added": "2026-10-26T20:38:43+00:00",
     "image": ""
   }
 ]
