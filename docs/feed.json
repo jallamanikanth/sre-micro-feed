@@ -1,5 +1,50 @@
 [
   {
+    "title": "Developers ask AI which tool to use. Here\u2019s how we track the answer.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/tracking-ai-tool-recommendations/",
+    "summary": "We asked Claude \u201cWhich CMS platforms support MCP integration?\u201d It searched the web and put Webflow in its first group, The post Developers ask AI which tool to use. Here\u2019s how we track the answer. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-11-01T14:23:36+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/a2231d4b-aakash-dhage-gjln1wb4wlw-unsplash.jpg"
+  },
+  {
+    "title": "Amazon CEO predicts 6 to 8 AI models will be \u2018good enough\u2019 for almost everything",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/jassy-bedrock-multimodel-prediction/",
+    "summary": "Amazon CEO Andy Jassy expects the frontier AI model race to produce several competitive models rather than a single winner, The post Amazon CEO predicts 6 to 8 AI models will be \u2018good enough\u2019 for almost everything appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-11-01T14:23:36+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/10/e12596ac-adriandra-karuniawan-p6azjkuq_ge-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "ai": false,
+    "added": "2026-11-01T14:23:36+00:00",
+    "image": ""
+  },
+  {
+    "title": "Fair use benefits everyone",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/fair-use-benefits-everyone",
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+    "ai": false,
+    "added": "2026-11-01T14:23:36+00:00",
+    "image": ""
+  },
+  {
+    "title": "Catching Bugs Before They Land: JiTTesting\u2019s Human-on-the-Loop Approach at Full Scale",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+    "summary": "Over the last year we\u2019ve been sharing our work leveraging large language models to catch bugs on the fly \u2014 a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we\u2019re sharing the results and positive impact we\u2019ve seen with Catching JiTTests...",
+    "ai": false,
+    "added": "2026-11-01T14:23:36+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Catching-JiTTests-Hero-3.png"
+  },
+  {
     "title": "Five years after the fork, OpenSearch is slowly stepping out of AWS\u2019s shadow",
     "source": "The New Stack",
     "link": "https://thenewstack.io/opensearch-foundation-aws-elasticsearch/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-26T20:38:43+00:00",
     "image": ""
-  },
-  {
-    "title": "Is Kubernetes ready for AI agents?",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/kubernetes-ready-ai-agents/",
-    "summary": "Kubernetes was built around a fairly simple assumption. It\u2019s that software does what its developers told it to do. AI The post Is Kubernetes ready for AI agents? appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-25T18:28:45+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/040396f0-rohit-choudhari-qbftawsipsq-unsplash.jpg"
-  },
-  {
-    "title": "Challenge: Connect a Container to a Service Bound to Localhost on the Docker Host",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/docker-networking-reach-host-service-bound-to-localhost",
-    "summary": "This challenge focuses on Docker Engine running directly on a Linux machine. Docker Desktop runs Docker Engine inside a separate VM and provides some of the host connectivity out of the box, so the commands from this challenge may behave differently on your...",
-    "ai": false,
-    "added": "2026-10-25T18:28:45+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/docker-networking-reach-host-service-bound-to-localhost/__static__/docker-reach-host-service-bound-to-localhost-problem.png?v=1792949327883"
-  },
-  {
-    "title": "Challenge: Connect a Container to a Service Running on the Docker Host",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/docker-networking-connect-app-to-host-service",
-    "summary": "This challenge focuses on Docker Engine running directly on a Linux machine. Docker Desktop runs Docker Engine inside a separate VM and provides some of the host connectivity out of the box, so the commands from this challenge may behave differently on your...",
-    "ai": false,
-    "added": "2026-10-25T18:28:45+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/docker-networking-connect-app-to-host-service/__static__/docker-connect-app-to-host-service-problem.png?v=1792948897518"
-  },
-  {
-    "title": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/linux-developer-device-management/",
-    "summary": "Linux is already part of the AI developer\u2019s desktop toolkit. Nvidia\u2019s DGX Spark, which became available to order on October The post A few engineers asked IT for Linux. Then it spread to 200 machines. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-25T18:28:45+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/60d245a1-curated-lifestyle-tkuj9o0ieyi-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-25T18:28:45+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png"
   }
 ]
