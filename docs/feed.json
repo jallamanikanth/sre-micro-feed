@@ -1,5 +1,50 @@
 [
   {
+    "title": "SRE Weekly Issue #541",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-541/",
+    "summary": "View on sreweekly.com A message from our sponsor, incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io\u2019s engineering team for an Extensions showcase. We\u2019ll build a skill live, watch it...",
+    "ai": false,
+    "added": "2026-11-02T17:16:14+00:00",
+    "image": ""
+  },
+  {
+    "title": "SRE Weekly Issue #541",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-541/",
+    "summary": "View on sreweekly.com A message from our sponsor, incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io\u2019s engineering team for an Extensions showcase. We\u2019ll build a skill live, watch it...",
+    "ai": false,
+    "added": "2026-11-02T17:16:14+00:00",
+    "image": ""
+  },
+  {
+    "title": "10 questions to ask any software vendor about sovereignty",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/10-questions-to-ask-any-software-vendor-about-sovereignty/",
+    "summary": "Sovereignty is moving from buzzword to buying criterion. The European Commission\u2019s proposed Cloud and AI Development Act (CADA) would set assurance levels for the cloud and AI services public authorities buy, defining where data should live and who can access...",
+    "ai": false,
+    "added": "2026-11-02T17:16:14+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1785336708/ww4mlighwlvvzgnmbe6w.png"
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "summary": "OpenAI\u2019s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "ai": false,
+    "added": "2026-11-02T17:16:14+00:00",
+    "image": ""
+  },
+  {
+    "title": "Challenge: Edit a File in a Running Kubernetes Pod: a Distroless Container Case",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/edit-file-in-running-distroless-kubernetes-pod",
+    "summary": "The Pod in the default namespace runs the same web server as in the Non-Root Container Case of this challenge, but this time from a distroless image. The image has no shell, no tar , and no other tools, and the server runs as a non-root user that owns the...",
+    "ai": false,
+    "added": "2026-11-02T17:16:14+00:00",
+    "image": "https://labs.iximiuz.com/og/image/challenges/edit-file-in-running-distroless-kubernetes-pod/91b68cad.png"
+  },
+  {
     "title": "A step-by-step guide for how to kill the line-by-line code review",
     "source": "The New Stack",
     "link": "https://thenewstack.io/ai-code-review-invariants/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-27T20:09:17+00:00",
     "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/23/ARCHBLOG-1667-featured-image.png"
-  },
-  {
-    "title": "Pillow CVE-2026-112900: How to find and fix it with GitLab",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/pillow-cve-find-and-fix-with-gitlab/",
-    "summary": "GitLab is not affected by CVE-2026-112900 or the other vulnerabilities fixed in Pillow 13.0.0. GitLab products do not include the Pillow library, and our Security team has found no evidence of impact to GitLab-managed infrastructure. GitLab.com, GitLab...",
-    "ai": false,
-    "added": "2026-10-27T13:24:49+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1782237704/cj50chkvprjthczevmog.png"
-  },
-  {
-    "title": "One pod, one node: The architecture behind serverless Kubernetes on AWS",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/serverless-kubernetes-aws-fargate/",
-    "summary": "A pod-level walkthrough of admission routing, dedicated scheduling, and network isolation, no worker nodes required Serverless Kubernetes changes who manages The post One pod, one node: The architecture behind serverless Kubernetes on AWS appeared first on...",
-    "ai": false,
-    "added": "2026-10-27T13:24:49+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/99e1c748-kamran-abdullayev-k1ivra_lafo-unsplash.jpg"
-  },
-  {
-    "title": "When \u201cisolated\u201d doesn\u2019t mean isolated: How to sandbox AI agents",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/how-to-sandbox-agents/",
-    "summary": "Separation of workloads before AI wasn\u2019t easy, but it was far more straightforward. Servers sat in data centers, VLANs segregated The post When \u201cisolated\u201d doesn\u2019t mean isolated: How to sandbox AI agents appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-27T13:24:49+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/cd13439f-ruliff-andrean-ydzoxiyacs4-unsplash.jpg"
-  },
-  {
-    "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
-    "summary": "As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions. The post Scale reservoir uncertainty analysis with agile reservoir modeling appeared first on Microsoft Azure Blog .",
-    "ai": false,
-    "added": "2026-10-27T13:24:49+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Azure-Data-Manager-for-Energy-1.jpg"
-  },
-  {
-    "title": "Announcing the Workload Conformance Working Group",
-    "source": "Kubernetes Blog",
-    "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
-    "summary": "We are excited to announce that the Kubernetes community now has a Workload Conformance Working Group . The working group is writing a shared standard for how workloads behave at runtime on Kubernetes. To get it right, we need input from the people who build...",
-    "ai": false,
-    "added": "2026-10-27T13:24:49+00:00",
-    "image": ""
   }
 ]
