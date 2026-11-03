@@ -1,5 +1,50 @@
 [
   {
+    "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+    "summary": "Facebook Feature Framework (F3) is Meta\u2019s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020. F3...",
+    "ai": false,
+    "added": "2026-11-03T21:08:58+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-F3-Lightning-Hero.png"
+  },
+  {
+    "title": "How Netflix Uses AI Agents for Performance Engineering",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
+    "summary": "The Netflix engineering team has developed an autonomous performance agent system. In this article, we\u2019ll be learning more about it.",
+    "ai": false,
+    "added": "2026-11-03T21:08:58+00:00",
+    "image": ""
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/cisco-cyber",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "ai": false,
+    "added": "2026-11-03T21:08:58+00:00",
+    "image": ""
+  },
+  {
+    "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/",
+    "summary": "Keeping a large Amazon EC2 fleet continuously recoverable with AWS Elastic Disaster Recovery is a lifecycle challenge. This post shows how to automate the full DRS agent lifecycle (install, heal, and offboard) using AWS Systems Manager Automation and Amazon...",
+    "ai": false,
+    "added": "2026-11-03T21:08:58+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/29/ARCHBLOG-1628-featured-image.png"
+  },
+  {
+    "title": "Challenge: Use a Kubernetes Job to Test NATS Pub/Sub",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/nats-pubsub-job-across-namespaces-682475e4",
+    "summary": "Scenario NATS is a messaging system. Applications use it to send messages to each other without connecting to each other directly. It works with publish/subscribe : A publisher sends a message to a subject , a name such as payments.requests . A subscriber...",
+    "ai": false,
+    "added": "2026-11-03T21:08:58+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/nats-pubsub-job-across-namespaces-682475e4/__static__/cover.png?v=1793692269233"
+  },
+  {
     "title": "Challenge: Block Unexpected Access to a Service on a Dual-Homed Linux Server",
     "source": "iximiuz Labs \u2014 All new posts",
     "link": "https://labs.iximiuz.com/challenges/networking-block-unexpected-access-on-dual-homed-server",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-28T20:24:40+00:00",
     "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Andromeda-co-design-Hero.png"
-  },
-  {
-    "title": "Blog Post: How I added dynamic social preview images to my site for almost nothing",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/blog/adding-dynamic-social-preview-images",
-    "summary": "Most people probably take this functionality for granted, but social preview images ( og:image ) for a site with dynamic content aren't trivial to build. For quite some time, I had been putting off building them for iximiuz Labs, but adding author profiles,...",
-    "ai": false,
-    "added": "2026-10-28T14:10:14+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/blog-posts/adding-dynamic-social-preview-images/__static__/paparazzi-concept.png?v=1793135931734"
-  },
-  {
-    "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/",
-    "summary": "Anchorage Digital and Turnkey built verifiable infrastructure on AWS Nitro Enclaves so crypto wallets can cryptographically verify which code parsed a transaction. This post covers the architecture, the attestation-gated access pattern, and how it extends to...",
-    "ai": false,
-    "added": "2026-10-28T14:10:14+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/09/ARCHBLOG-1598-featured-image.png"
-  },
-  {
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/allenai/novelty-bench",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-10-28T14:10:14+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/ZrKpGOLkSf0LmAf3bnJIX.png"
-  },
-  {
-    "title": "How Apple Fits an LLM on Your iPhone",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
-    "summary": "How is Apple able to fit such a model on an iPhone without any adverse impact on the device?",
-    "ai": false,
-    "added": "2026-10-28T14:10:14+00:00",
-    "image": ""
-  },
-  {
-    "title": "The hidden failure paths that affect Kubernetes control plane availability",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/kubernetes-control-plane-failures/",
-    "summary": "Kubernetes control planes are designed to contain individual failures, but their availability still depends on how components in the critical The post The hidden failure paths that affect Kubernetes control plane availability appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-28T14:10:14+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/cc670bb8-ubaid-e-alyafizi-rxda-s7giis-unsplash.jpg"
   }
 ]

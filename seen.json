@@ -278,5 +278,10 @@
   "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement/",
   "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/",
   "https://blog.cloudflare.com/zero-wire/",
-  "https://blog.cloudflare.com/zero-wire/"
+  "https://blog.cloudflare.com/zero-wire/",
+  "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+  "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
+  "https://openai.com/index/cisco-cyber",
+  "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/",
+  "https://labs.iximiuz.com/challenges/nats-pubsub-job-across-namespaces-682475e4"
 ]
