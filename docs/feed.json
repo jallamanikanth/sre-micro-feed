@@ -1,5 +1,50 @@
 [
   {
+    "title": "Challenge: Block Unexpected Access to a Service on a Dual-Homed Linux Server",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/networking-block-unexpected-access-on-dual-homed-server",
+    "summary": "Binding a Linux service to a private IP address doesn't necessarily make it accessible only from the network that address belongs to. Because Linux follows the weak end host model, the kernel accepts packets for any of its local IP addresses, regardless of...",
+    "ai": false,
+    "added": "2026-11-03T15:22:37+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/networking-block-unexpected-access-on-dual-homed-server/__static__/block-dual-homed-access-problem.png?v=1793626702012"
+  },
+  {
+    "title": "How to run a DR readiness engagement",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement/",
+    "summary": "This final post turns the DR framework into a repeatable engagement: a five-step sequence from kickoff and gap assessment through progressive validation to an updated recovery commitment, with a real before-and-after example and ways to compress the timeline...",
+    "ai": false,
+    "added": "2026-11-03T15:22:37+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/29/ARCHBLOG-1634-p3-featured-image.png"
+  },
+  {
+    "title": "Three business decisions that define your DR success",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/",
+    "summary": "A disaster recovery strategy is only as strong as the business decisions behind it. Before you choose an architecture pattern, three decisions shape whether recovery succeeds: what you're actually recovering, what the business needs from that recovery, and...",
+    "ai": false,
+    "added": "2026-11-03T15:22:37+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/29/ARCHBLOG-1634-p1-featured-image.png"
+  },
+  {
+    "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/zero-wire/",
+    "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+    "ai": false,
+    "added": "2026-11-03T15:22:37+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6GJ54KK0RNQ5KJ7W37TRBQH.01M6GJ559QCVEGK02P04VDKP19.png"
+  },
+  {
+    "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/zero-wire/",
+    "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+    "ai": false,
+    "added": "2026-11-03T15:22:37+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6GJ54KK0RNQ5KJ7W37TRBQH.01M6GJ559QCVEGK02P04VDKP19.png"
+  },
+  {
     "title": "SRE Weekly Issue #541",
     "source": "SRE WEEKLY",
     "link": "https://sreweekly.com/sre-weekly-issue-541/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-28T14:10:14+00:00",
     "image": "https://cdn.thenewstack.io/media/2026/10/cc670bb8-ubaid-e-alyafizi-rxda-s7giis-unsplash.jpg"
-  },
-  {
-    "title": "Publishing LMS courses with a Kiro SCORM pipeline",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
-    "summary": "See how to use Kiro, an agentic AI, to automate converting raw training material into compliant SCORM packages that are ready to upload to a learning management system (LMS).",
-    "ai": false,
-    "added": "2026-10-27T20:09:17+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/26/ARCHBLOG-1570-featured-image.png"
-  },
-  {
-    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "source": "The latest research from Google",
-    "link": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "summary": "Education Innovation",
-    "ai": false,
-    "added": "2026-10-27T20:09:17+00:00",
-    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-  },
-  {
-    "title": "Extend GitLab Duo Agent Platform into your business systems",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/extend-gitlab-duo-agent-platform-into-your-business-systems/",
-    "summary": "Developers mostly use GitLab Duo Agent Platform where they already work: the IDE, merge requests, and issues. But DevSecOps teams also support the business systems the rest of the company runs on, and those systems break too. In Salesforce, for example, when...",
-    "ai": false,
-    "added": "2026-10-27T20:09:17+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1789480051/yl5u9r9o48evmmdjiygl.png"
-  },
-  {
-    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
-    "summary": "This latest deep dive into Meta\u2019s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta\u2019s diverse data and processing systems. Historically, supporting a new requirement meant implementing...",
-    "ai": false,
-    "added": "2026-10-27T20:09:17+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/PrivacyLib-Hero.png"
-  },
-  {
-    "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/",
-    "summary": "Manta Marine Technologies closes the gap between seemingly identical ships by training machine learning models on each vessel's own operational history. Learn how Manta delivers vessel-specific voyage optimization on AWS to help shipowners reduce fuel...",
-    "ai": false,
-    "added": "2026-10-27T20:09:17+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/23/ARCHBLOG-1667-featured-image.png"
   }
 ]
