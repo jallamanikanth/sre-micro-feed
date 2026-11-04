@@ -1,5 +1,50 @@
 [
   {
+    "title": "See the agents, set the terms: new visibility and control for personal agents",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+    "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+    "ai": false,
+    "added": "2026-11-04T15:35:07+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1YEEEWJX3ENFZCG26ZEX.png"
+  },
+  {
+    "title": "See the agents, set the terms: new visibility and control for personal agents",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+    "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+    "ai": false,
+    "added": "2026-11-04T15:35:07+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1YEEEWJX3ENFZCG26ZEX.png"
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
+    "ai": false,
+    "added": "2026-11-04T15:35:07+00:00",
+    "image": ""
+  },
+  {
+    "title": "A developer opened Postman. Then two AI coding agents changed without their permission.",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/postman-plugin-coding-agents/",
+    "summary": "A developer says Postman\u2019s desktop app installed plugins into Claude Code and OpenAI Codex without their permission. The app also The post A developer opened Postman. Then two AI coding agents changed without their permission. appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-11-04T15:35:07+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/11/436954c5-gustopo-gqirstz41ky-unsplash-scaled.jpg"
+  },
+  {
+    "title": "Can agent standards keep up with the companies building them?",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/mazin-gilbert-aaif-interview/",
+    "summary": "Mazin Gilbert, executive director of the Linux Foundation\u2019s Agentic AI Foundation, left Google earlier this year to lead the new AAIF, The post Can agent standards keep up with the companies building them? appeared first on The New Stack .",
+    "ai": false,
+    "added": "2026-11-04T15:35:07+00:00",
+    "image": "https://cdn.thenewstack.io/media/2026/11/4e36bc34-screenshot-2026-11-03-at-17.45.12.png"
+  },
+  {
     "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
     "source": "Engineering at Meta",
     "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-29T14:30:47+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M625AT8W5NEDCQ4SDQJ2JVTQ.01M625AVQAYADACFRF4VVYAYK4.png"
-  },
-  {
-    "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/",
-    "summary": "Smarsh used the AWS Well-Architected Framework's Agentic AI Lens to review its first agentic workload. Because the lens is not yet selectable in the console, the team encoded it as a Claude skill that assessed all 150 best practices against the workload's...",
-    "ai": false,
-    "added": "2026-10-28T20:24:40+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/22/ARCHBLOG-1726-featured-image.png"
-  },
-  {
-    "title": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/github-copilot-fusion/",
-    "summary": "GitHub has debuted GitHub Copilot Fusion, a new system that handles model selection and orchestration for coding tasks so developers The post GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API...",
-    "ai": false,
-    "added": "2026-10-28T20:24:40+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/b78f2934-screenshot-2026-10-28-at-12.17.49.png"
-  },
-  {
-    "title": "How Revinate accelerated API adoption with Amazon API Gateway",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/",
-    "summary": "Accelerating API adoption while reducing operational overhead is a challenge that every growing organization faces. For Revinate, a hospitality provider serving over 12,500 hotels worldwide and powering more than 1.25 billion guest profiles, Amazon API...",
-    "ai": false,
-    "added": "2026-10-28T20:24:40+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/07/13/revinate-adoption-featured-image.png"
-  },
-  {
-    "title": "Google just handed its rivals the keys to Android",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/android-agents-build-debug/",
-    "summary": "Google is giving coding agents like Anthropic\u2019s Claude Code and OpenAI\u2019s Codex deeper access to its Android development tools, including The post Google just handed its rivals the keys to Android appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-28T20:24:40+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/fe17422f-mohamed-nohassi-bpvdngbw1c-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
-    "summary": "This post describes the next generation of Meta Andromeda, Meta\u2019s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible...",
-    "ai": false,
-    "added": "2026-10-28T20:24:40+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Andromeda-co-design-Hero.png"
   }
 ]
