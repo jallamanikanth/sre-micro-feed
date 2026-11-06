@@ -298,5 +298,10 @@
   "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
   "https://aws.amazon.com/blogs/architecture/how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock/",
   "https://openai.com/index/australian-universities-ai-native-graduates",
-  "https://blog.cloudflare.com/vole-mole/"
+  "https://blog.cloudflare.com/vole-mole/",
+  "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+  "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
+  "https://openai.com/index/partnering-with-hacktron",
+  "https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/",
+  "https://fly.io/blog/well-that-wasnt-fun/"
 ]

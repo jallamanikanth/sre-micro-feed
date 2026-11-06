@@ -1,5 +1,50 @@
 [
   {
+    "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+    "summary": "Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads. The...",
+    "ai": false,
+    "added": "2026-11-06T20:57:46+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Failure-Prediction-Detection-1.jpg"
+  },
+  {
+    "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
+    "summary": "AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects. The post Stop treating agents as one-off projects and start running them as a continuous discipline appeared first on Microsoft Azure Blog .",
+    "ai": false,
+    "added": "2026-11-06T20:57:46+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-AI-transformation.jpg"
+  },
+  {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "ai": false,
+    "added": "2026-11-06T20:57:46+00:00",
+    "image": ""
+  },
+  {
+    "title": "How OrderServ achieved up to 64% cost savings with multi-tenant ECS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/",
+    "summary": "See how Cognizant and AWS Professional Services transformed the OrderServ food-ordering platform into a multi-tenant SaaS offering on shared Amazon ECS, cutting compute costs up to 64%, reducing scaling time from minutes to seconds, and lowering...",
+    "ai": false,
+    "added": "2026-11-06T20:57:46+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/19/ARCHBLOG-1639-featured-image.png"
+  },
+  {
+    "title": "Well, That Wasn't Fun: October 16 '26",
+    "source": "The Fly Blog",
+    "link": "https://fly.io/blog/well-that-wasnt-fun/",
+    "summary": "October 16, 2026 began like any other day at Fly.io (meaning, we were anticipating only a medium amount of chaos). By that evening, we had patched and rebooted our entire fleet in response to a Linux kernel bug . The full rollout took 10 hours, but the...",
+    "ai": false,
+    "added": "2026-11-06T20:57:46+00:00",
+    "image": "https://fly.io/blog/well-that-wasnt-fun/assets/robot-bugs-firing-lasers-at-a-disk-eb13.webp"
+  },
+  {
     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
     "source": "Hugging Face - Blog",
     "link": "https://huggingface.co/blog/allenai/toyblocks",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-30T19:58:14+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYMMC146K2EF0FS41ADG9.png"
-  },
-  {
-    "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
-    "source": "Microsoft Azure Blog",
-    "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-    "summary": "Today, we\u2019re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog .",
-    "ai": false,
-    "added": "2026-10-30T14:22:59+00:00",
-    "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/10/Microsoft-Copilot-harness-DevBlog-header-4-1.webp"
-  },
-  {
-    "title": "Microsoft\u2019s new Copilot harness makes agents easy \u2014 until you want to switch",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/microsoft-copilot-harness-foundry/",
-    "summary": "Microsoft is opening up the GitHub Copilot agent harness to outside developers through Microsoft Foundry, bringing the same orchestration infrastructure The post Microsoft\u2019s new Copilot harness makes agents easy \u2014 until you want to switch appeared first on...",
-    "ai": false,
-    "added": "2026-10-30T14:22:59+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/1d1484de-ian-taylor-h7b1suempis-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
-    "summary": "Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations. The post Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance...",
-    "ai": false,
-    "added": "2026-10-30T14:22:59+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/azure-cloud-hsm-audit-protection-header.png"
-  },
-  {
-    "title": "What five P99 CONF talks reveal about database trade-offs",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/p99-conf-database-tradeoffs/",
-    "summary": "P99 CONF is a virtual conference on high-performance, low-latency applications. Its 2026 event ran October 21\u201322. Here, we cover five The post What five P99 CONF talks reveal about database trade-offs appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-30T14:22:59+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/b257c733-steve-a-johnson-td85e3w3w6i-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Challenge: Pull a Deployment's Image from a Private Registry",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/pull-image-from-private-registry-66a47c47",
-    "summary": "Scenario The catalog Deployment in the shop namespace was just rolled out. It runs an image from the team's private container registry: registry.iximiuz.com/shop/catalog:v1 The new Pods do not start. From cplane-01 : kubectl get pods -n shop NAME READY STATUS...",
-    "ai": false,
-    "added": "2026-10-30T14:22:59+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/pull-image-from-private-registry-66a47c47/__static__/ImagePullBackOff.png?v=1793300081328"
   }
 ]
