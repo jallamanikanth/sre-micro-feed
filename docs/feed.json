@@ -1,5 +1,50 @@
 [
   {
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-06T15:13:08+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg"
+  },
+  {
+    "title": "Inside GitHub\u2019s new Git storage architecture",
+    "source": "The latest from GitHub's engineering team - The GitHub Blog",
+    "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub\u2019s new Git storage architecture appeared first on The GitHub Blog .",
+    "ai": false,
+    "added": "2026-11-06T15:13:08+00:00",
+    "image": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png"
+  },
+  {
+    "title": "How TUI scales threat modeling for 100+ teams with Amazon Bedrock",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock/",
+    "summary": "Learn how TUI, the world's leading tourism group, built an AI-powered threat modeling system on Amazon Bedrock and Amazon Bedrock AgentCore to scale security assessments across more than 100 product teams, cutting threat modeling time by up to 70% while...",
+    "ai": false,
+    "added": "2026-11-06T15:13:08+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/02/ARCHBLOG-1463-featured-image.png"
+  },
+  {
+    "title": "Australian universities are creating AI-native graduates",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "ai": false,
+    "added": "2026-11-06T15:13:08+00:00",
+    "image": ""
+  },
+  {
+    "title": "The post-quantum future of web privacy",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/vole-mole/",
+    "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+    "ai": false,
+    "added": "2026-11-06T15:13:08+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6RNR03ANCVS494WQ0XVY1MF.01M6RNR28D36KNEGJV7FG6HXTG.png"
+  },
+  {
     "title": "Setting a new standard for responsible AI infrastructure",
     "source": "OpenAI News",
     "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-30T14:22:59+00:00",
     "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/pull-image-from-private-registry-66a47c47/__static__/ImagePullBackOff.png?v=1793300081328"
-  },
-  {
-    "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/",
-    "summary": "Learn how BMW Group migrated its connected vehicle platform from x86 to AWS Graviton. Using Karpenter, multi-architecture container builds, and Graviton-based CI/CD runners, the team moved workloads without disruption, cutting NGINX ingress CPU by about 57...",
-    "ai": false,
-    "added": "2026-10-29T20:23:07+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/22/ARCHBLOG-1717-featured-image.png"
-  },
-  {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/updated-model-spec",
-    "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "ai": false,
-    "added": "2026-10-29T20:23:07+00:00",
-    "image": ""
-  },
-  {
-    "title": "Data Movement Strategies In System Design",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
-    "summary": "To manage this movement of data, you need to make decisions about when and how information should travel within a system and outside it.",
-    "ai": false,
-    "added": "2026-10-29T20:23:07+00:00",
-    "image": ""
-  },
-  {
-    "title": "How we detect frontier model misalignment",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "ai": false,
-    "added": "2026-10-29T20:23:07+00:00",
-    "image": ""
-  },
-  {
-    "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
-    "summary": "Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver personalized, real-time fitness coaching to millions of smartwatch users across India, and the design choices that made the solution scalable and cost-effective.",
-    "ai": false,
-    "added": "2026-10-29T20:23:07+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/08/26/ARCHBLOG-1472-featured-image.png"
   }
 ]
