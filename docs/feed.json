@@ -1,5 +1,50 @@
 [
   {
+    "title": "The Platform Behind the Next AI Breakthrough",
+    "source": "Microsoft Azure Blog",
+    "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+    "summary": "The next frontier of AI is coming into focus as agents take on longer, more strategic work. The post The Platform Behind the Next AI Breakthrough appeared first on Microsoft Azure Blog .",
+    "ai": false,
+    "added": "2026-11-07T19:30:29+00:00",
+    "image": "https://media.wired.com/photos/6ada4152d53570f6403f70da/191:100/w_1280,c_limit/CLO24-Azure-Fintech-012_HERO.jpg"
+  },
+  {
+    "title": "EP232: 6 Frequently Used Orchestration Frameworks in an AI system",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
+    "summary": "Orchestration in an AI system manages tasks across agents, handles failures, shared memory and context.",
+    "ai": false,
+    "added": "2026-11-07T19:30:29+00:00",
+    "image": ""
+  },
+  {
+    "title": "Challenge: Preserve Firewall Rules Across Server Reboots (iptables edition)",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/linux-preserve-iptables-rules",
+    "summary": "Firewall rules added with the iptables command exist only in the kernel's memory. When the server reboots, the rules disappear, and the ports they protect become exposed again. This server runs an HTTP service on port 8080 that should be accessible only from...",
+    "ai": false,
+    "added": "2026-11-07T19:30:29+00:00",
+    "image": "https://labs.iximiuz.com/og/image/challenges/linux-preserve-iptables-rules/de543728.png"
+  },
+  {
+    "title": "Challenge: Preserve Firewall Rules Across Server Reboots (nftables edition)",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/linux-preserve-nftables-rules",
+    "summary": "Firewall rules added with the nft command exist only in the kernel's memory. When the server reboots, the rules disappear, and the ports they protect become exposed again. This server runs an HTTP service on port 8080 that should be accessible only from the...",
+    "ai": false,
+    "added": "2026-11-07T19:30:29+00:00",
+    "image": "https://labs.iximiuz.com/og/image/challenges/linux-preserve-nftables-rules/81678611.png"
+  },
+  {
+    "title": "Agents aren\u2019t humans (but they kinda are)",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
+    "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
+    "ai": false,
+    "added": "2026-11-07T19:30:29+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6PA3MX9W46AFM0RQWHEB5XY.01M6PA3P39WJR11WZXCGGXKK3Y.png"
+  },
+  {
     "title": "The Pentagon wants to know who checks code when AI writes it",
     "source": "GitLab",
     "link": "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-10-31T19:23:59+00:00",
     "image": ""
-  },
-  {
-    "title": "Busy GPUs can hide slow AI inference on Kubernetes",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/ai-inference-kubernetes-observability/",
-    "summary": "A Kubernetes cluster can be healthy while the AI service running on it disappoints users. A model might return its The post Busy GPUs can hide slow AI inference on Kubernetes appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-31T13:45:18+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/f9cd7390-getty-images-kct0zld_ufo-unsplash-1-scaled.jpg"
-  },
-  {
-    "title": "Shell Gym: Kubernetes Gym: Managing Container Images",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/shell-gyms/manage-container-images-06ff5635",
-    "summary": "This gym trains working with built container images: tags, containers, registries, image archives, and private images in Kubernetes.",
-    "ai": false,
-    "added": "2026-10-31T13:45:18+00:00",
-    "image": "https://labs.iximiuz.com/og/image/shell-gyms/manage-container-images-06ff5635/1ff67a18.png"
-  },
-  {
-    "title": "Shell Gym: Kubernetes Gym: Building Container Images",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/shell-gyms/build-images-57ba1ed2",
-    "summary": "This gym trains writing Dockerfiles and building images with docker build .",
-    "ai": false,
-    "added": "2026-10-31T13:45:18+00:00",
-    "image": "https://labs.iximiuz.com/og/image/shell-gyms/build-images-57ba1ed2/8bf5e13f.png"
-  },
-  {
-    "title": "Anthropic just removed one of Claude\u2019s biggest usage limits \u2014 but not for everyone",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/claude-ultra-session-limit/",
-    "summary": "Claude Code users on Anthropic\u2019s $200 plan will no longer face a rolling five-hour usage cap, provided their accounts are The post Anthropic just removed one of Claude\u2019s biggest usage limits \u2014 but not for everyone appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-31T13:45:18+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/7d64b952-adriandra-karuniawan-1kvwsbza_ba-unsplash-scaled.jpg"
-  },
-  {
-    "title": "The Pulse: Time to rethink software security because of AI?",
-    "source": "The Pragmatic Engineer",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/",
-    "summary": "A month\u2019s worth of security breaches in a single day \u2013 will things get worse before they improve?",
-    "ai": false,
-    "added": "2026-10-31T13:45:18+00:00",
-    "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2023/05/Big-Tech---startups---from-the-inside.png"
   }
 ]
