@@ -1,5 +1,50 @@
 [
   {
+    "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
+    "source": "Microsoft Azure Blog",
+    "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+    "summary": "Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications. The post Building the next generation of multimodal AI experiences with fal in Microsoft Foundry appeared first on...",
+    "ai": false,
+    "added": "2026-11-08T14:23:51+00:00",
+    "image": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTcwMDMyLTFaS2szbQ?revision=13"
+  },
+  {
+    "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+    "summary": "Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable...",
+    "ai": false,
+    "added": "2026-11-08T14:23:51+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Cobalt-200-VMs-1.png"
+  },
+  {
+    "title": "Challenge: Restrict Access to a Docker-Published Port with Firewall Rules",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/docker-networking-prevent-unexpected-access-to-published-port",
+    "summary": "Publishing a container port on a specific host IP address is a common way to limit where a containerized service can be reached. For example, -p 10.20.0.10:3000:3000 publishes the container's port 3000 on the host's 10.20.0.10 address instead of all host...",
+    "ai": false,
+    "added": "2026-11-08T14:23:51+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/docker-networking-prevent-unexpected-access-to-published-port/__static__/docker-protect-published-port-problem.png?v=1793903472612"
+  },
+  {
+    "title": "The Hidden Work Behind Every Database Request",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+    "summary": "Read amplification, write amplification, and space amplification show the differences between logical work and physical cost.",
+    "ai": false,
+    "added": "2026-11-08T14:23:51+00:00",
+    "image": ""
+  },
+  {
+    "title": "Detecting signs of hypertension using wearable sensors",
+    "source": "The latest research from Google",
+    "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+    "summary": "Health & Bioscience",
+    "ai": false,
+    "added": "2026-11-08T14:23:51+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
     "title": "The Platform Behind the Next AI Breakthrough",
     "source": "Microsoft Azure Blog",
     "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-01T14:23:36+00:00",
     "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Catching-JiTTests-Hero-3.png"
-  },
-  {
-    "title": "Five years after the fork, OpenSearch is slowly stepping out of AWS\u2019s shadow",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/opensearch-foundation-aws-elasticsearch/",
-    "summary": "OpenSearch has come a long way since Amazon Web Services first announced the project back in January 2021, in response The post Five years after the fork, OpenSearch is slowly stepping out of AWS\u2019s shadow appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-31T19:23:59+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/e88d1014-aws-hero.jpg"
-  },
-  {
-    "title": "Challenge: Reach a Linux Service Through an Interface It Doesn't Listen On",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/networking-reach-endpoint-through-another-interface",
-    "summary": "In 2002, a surprising Linux networking behavior was documented : on a multi-homed machine, a service listening on the IP address assigned to eth1 could still be reached through eth0 , even with IP forwarding disabled. This happens because Linux follows the...",
-    "ai": false,
-    "added": "2026-10-31T19:23:59+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/networking-reach-endpoint-through-another-interface/__static__/networking-reach-endpoint-through-unexpected-interface-problem.png?v=1793466821418"
-  },
-  {
-    "title": "The context problem: How Docusign built agents that understand the business behind contracts",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/docusign-contract-ai-agents/",
-    "summary": "Ask a general-purpose language model to summarize a contract, and it will probably do a reasonable job. Ask it to The post The context problem: How Docusign built agents that understand the business behind contracts appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-10-31T19:23:59+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/10/d397f77f-resource-database-wd6omi7u3tq-unsplash-scaled.jpg"
-  },
-  {
-    "title": "EP231: AI Terms You Need to Know",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
-    "summary": "What else should be on the list?",
-    "ai": false,
-    "added": "2026-10-31T19:23:59+00:00",
-    "image": ""
-  },
-  {
-    "title": "Making it easier for websites to express AI training preferences",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "ai": false,
-    "added": "2026-10-31T19:23:59+00:00",
-    "image": ""
   }
 ]

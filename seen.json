@@ -313,5 +313,10 @@
   "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
   "https://labs.iximiuz.com/challenges/linux-preserve-iptables-rules",
   "https://labs.iximiuz.com/challenges/linux-preserve-nftables-rules",
-  "https://blog.cloudflare.com/trusted-agent-delegation/"
+  "https://blog.cloudflare.com/trusted-agent-delegation/",
+  "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+  "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+  "https://labs.iximiuz.com/challenges/docker-networking-prevent-unexpected-access-to-published-port",
+  "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+  "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
 ]
