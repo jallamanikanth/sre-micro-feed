@@ -1,5 +1,50 @@
 [
   {
+    "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/",
+    "summary": "Learn how Novus Hi-Tech, with the AWS Prototyping and AI Customer Engineering (PACE) team, built FleetGPT, an agentic AI solution on Amazon Bedrock that turns fleet IoT data into real-time safety interventions through natural language querying, automated...",
+    "ai": false,
+    "added": "2026-11-10T15:41:18+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/21/ARCHBLOG-1388-featured-image.png"
+  },
+  {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/control-room",
+    "summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "ai": false,
+    "added": "2026-11-10T15:41:18+00:00",
+    "image": ""
+  },
+  {
+    "title": "BAIR at CoRL 2026",
+    "source": "The Berkeley Artificial Intelligence Research Blog",
+    "link": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+    "summary": "The Conference on Robot Learning (CoRL) takes place November 9\u201312, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full...",
+    "ai": false,
+    "added": "2026-11-10T15:41:18+00:00",
+    "image": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "ai": false,
+    "added": "2026-11-10T15:41:18+00:00",
+    "image": ""
+  },
+  {
+    "title": "Decision Models in Hugging Face",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/decision",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-10T15:41:18+00:00",
+    "image": "https://huggingface.co/blog/assets/decision/thumbnail.png"
+  },
+  {
     "title": "How to design a decision-grade pilot for agentic AI",
     "source": "GitLab",
     "link": "https://about.gitlab.com/blog/how-to-develop-a-decision-grade-ai-pilot/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-03T15:22:37+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6GJ54KK0RNQ5KJ7W37TRBQH.01M6GJ559QCVEGK02P04VDKP19.png"
-  },
-  {
-    "title": "SRE Weekly Issue #541",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-541/",
-    "summary": "View on sreweekly.com A message from our sponsor, incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io\u2019s engineering team for an Extensions showcase. We\u2019ll build a skill live, watch it...",
-    "ai": false,
-    "added": "2026-11-02T17:16:14+00:00",
-    "image": ""
-  },
-  {
-    "title": "SRE Weekly Issue #541",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-541/",
-    "summary": "View on sreweekly.com A message from our sponsor, incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io\u2019s engineering team for an Extensions showcase. We\u2019ll build a skill live, watch it...",
-    "ai": false,
-    "added": "2026-11-02T17:16:14+00:00",
-    "image": ""
-  },
-  {
-    "title": "10 questions to ask any software vendor about sovereignty",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/10-questions-to-ask-any-software-vendor-about-sovereignty/",
-    "summary": "Sovereignty is moving from buzzword to buying criterion. The European Commission\u2019s proposed Cloud and AI Development Act (CADA) would set assurance levels for the cloud and AI services public authorities buy, defining where data should live and who can access...",
-    "ai": false,
-    "added": "2026-11-02T17:16:14+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1785336708/ww4mlighwlvvzgnmbe6w.png"
-  },
-  {
-    "title": "Introducing the Grid Protectors Program",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/grid-protectors-program",
-    "summary": "OpenAI\u2019s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "ai": false,
-    "added": "2026-11-02T17:16:14+00:00",
-    "image": ""
-  },
-  {
-    "title": "Challenge: Edit a File in a Running Kubernetes Pod: a Distroless Container Case",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/edit-file-in-running-distroless-kubernetes-pod",
-    "summary": "The Pod in the default namespace runs the same web server as in the Non-Root Container Case of this challenge, but this time from a distroless image. The image has no shell, no tar , and no other tools, and the server runs as a non-root user that owns the...",
-    "ai": false,
-    "added": "2026-11-02T17:16:14+00:00",
-    "image": "https://labs.iximiuz.com/og/image/challenges/edit-file-in-running-distroless-kubernetes-pod/91b68cad.png"
   }
 ]
