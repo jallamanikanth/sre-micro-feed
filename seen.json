@@ -333,5 +333,10 @@
   "https://openai.com/index/control-room",
   "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
   "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-  "https://huggingface.co/blog/decision"
+  "https://huggingface.co/blog/decision",
+  "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+  "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+  "https://www.hashicorp.com/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c",
+  "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/",
+  "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/"
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+    "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton\u2019s productive programming model. TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new...",
+    "ai": false,
+    "added": "2026-11-11T15:28:30+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-TLX-hero.png"
+  },
+  {
+    "title": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+    "summary": "In this article, we\u2019ll look at how this porting was done and the learnings along the way.",
+    "ai": false,
+    "added": "2026-11-11T15:28:30+00:00",
+    "image": ""
+  },
+  {
+    "title": "From insight to action: improving infrastructure risk posture with Terraform and Concert",
+    "source": "HashiCorp Blog",
+    "link": "https://www.hashicorp.com/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c",
+    "summary": "Learn how Terraform and IBM Concert connect trusted infrastructure context, policy-driven governance, and vulnerability management to improve risk posture across the infrastructure lifecycle.",
+    "ai": false,
+    "added": "2026-11-11T15:28:30+00:00",
+    "image": ""
+  },
+  {
+    "title": "Self-service regional failover with Amazon Application Recovery Controller Region Switch and centralized ingress controls",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/",
+    "summary": "Application teams in regulated enterprises can execute self-service regional failover with Amazon Application Recovery Controller (ARC) Region Switch, even behind centrally managed ingress proxy fleets. Learn how Transit Gateway peering, Route 53 Private...",
+    "ai": false,
+    "added": "2026-11-11T15:28:30+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/03/ARCHBLOG-1600-featured-image.png"
+  },
+  {
+    "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+    "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We\u2019re sharing how Your algorithm turns people\u2019s natural language...",
+    "ai": false,
+    "added": "2026-11-11T15:28:30+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Your-algorithm-hero.jpg"
+  },
+  {
     "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-03T21:08:58+00:00",
     "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/nats-pubsub-job-across-namespaces-682475e4/__static__/cover.png?v=1793692269233"
-  },
-  {
-    "title": "Challenge: Block Unexpected Access to a Service on a Dual-Homed Linux Server",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/networking-block-unexpected-access-on-dual-homed-server",
-    "summary": "Binding a Linux service to a private IP address doesn't necessarily make it accessible only from the network that address belongs to. Because Linux follows the weak end host model, the kernel accepts packets for any of its local IP addresses, regardless of...",
-    "ai": false,
-    "added": "2026-11-03T15:22:37+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/networking-block-unexpected-access-on-dual-homed-server/__static__/block-dual-homed-access-problem.png?v=1793626702012"
-  },
-  {
-    "title": "How to run a DR readiness engagement",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement/",
-    "summary": "This final post turns the DR framework into a repeatable engagement: a five-step sequence from kickoff and gap assessment through progressive validation to an updated recovery commitment, with a real before-and-after example and ways to compress the timeline...",
-    "ai": false,
-    "added": "2026-11-03T15:22:37+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/29/ARCHBLOG-1634-p3-featured-image.png"
-  },
-  {
-    "title": "Three business decisions that define your DR success",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/",
-    "summary": "A disaster recovery strategy is only as strong as the business decisions behind it. Before you choose an architecture pattern, three decisions shape whether recovery succeeds: what you're actually recovering, what the business needs from that recovery, and...",
-    "ai": false,
-    "added": "2026-11-03T15:22:37+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/29/ARCHBLOG-1634-p1-featured-image.png"
-  },
-  {
-    "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/zero-wire/",
-    "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
-    "ai": false,
-    "added": "2026-11-03T15:22:37+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6GJ54KK0RNQ5KJ7W37TRBQH.01M6GJ559QCVEGK02P04VDKP19.png"
-  },
-  {
-    "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/zero-wire/",
-    "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
-    "ai": false,
-    "added": "2026-11-03T15:22:37+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6GJ54KK0RNQ5KJ7W37TRBQH.01M6GJ559QCVEGK02P04VDKP19.png"
   }
 ]
