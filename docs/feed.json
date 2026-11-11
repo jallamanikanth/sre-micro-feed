@@ -1,5 +1,50 @@
 [
   {
+    "title": "How to prevent leaks from Claude Code's 'Don't ask again' file",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/",
+    "summary": "This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We\u2019ve confirmed that GitLab\u2019s own infrastructure secrets are protected. In Claude Code, Anthropic\u2019s coding agent, a developer...",
+    "ai": false,
+    "added": "2026-11-11T22:06:10+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1782237704/cj50chkvprjthczevmog.png"
+  },
+  {
+    "title": "Challenge: Prevent a Service from Starting Without Its Data Disk",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/storage-make-service-refuse-to-start-without-data-volume",
+    "summary": "This challenge continues the story of Recover an Ingestion Service After a VM Upgrade . Solve that one first if you haven't, because the problem below reveals the original cause of the incident. The ingest-01 server runs ingestd , a service that keeps a large...",
+    "ai": false,
+    "added": "2026-11-11T22:06:10+00:00",
+    "image": "https://labs.iximiuz.com/og/image/challenges/storage-make-service-refuse-to-start-without-data-volume/c5c0e7b2.png"
+  },
+  {
+    "title": "LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+    "summary": "Enrollment closes in 24 hours for Build Production Grade AI Systems. We kick off tomorrow, November 12, at 5pm PT.",
+    "ai": false,
+    "added": "2026-11-11T22:06:10+00:00",
+    "image": ""
+  },
+  {
+    "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+    "summary": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others. The challenge is deciding where to allocate it to get the best...",
+    "ai": false,
+    "added": "2026-11-11T22:06:10+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-Intelligent-Delivery-Hero.png"
+  },
+  {
+    "title": "Secure AI credentials from discovery to remediation with Vault Radar and Vault",
+    "source": "HashiCorp Blog",
+    "link": "https://www.hashicorp.com/blog/secure-ai-credentials-from-discovery-to-remediation-with-vault-radar-and-vault",
+    "summary": "AI credentials can easily spread across development workflows. Learn how Vault Radar and Vault help teams find, remediate, and securely manage them.",
+    "ai": false,
+    "added": "2026-11-11T22:06:10+00:00",
+    "image": ""
+  },
+  {
     "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
     "source": "Engineering at Meta",
     "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-04T15:35:07+00:00",
     "image": "https://cdn.thenewstack.io/media/2026/11/4e36bc34-screenshot-2026-11-03-at-17.45.12.png"
-  },
-  {
-    "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
-    "summary": "Facebook Feature Framework (F3) is Meta\u2019s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020. F3...",
-    "ai": false,
-    "added": "2026-11-03T21:08:58+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-F3-Lightning-Hero.png"
-  },
-  {
-    "title": "How Netflix Uses AI Agents for Performance Engineering",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
-    "summary": "The Netflix engineering team has developed an autonomous performance agent system. In this article, we\u2019ll be learning more about it.",
-    "ai": false,
-    "added": "2026-11-03T21:08:58+00:00",
-    "image": ""
-  },
-  {
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/cisco-cyber",
-    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "ai": false,
-    "added": "2026-11-03T21:08:58+00:00",
-    "image": ""
-  },
-  {
-    "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/",
-    "summary": "Keeping a large Amazon EC2 fleet continuously recoverable with AWS Elastic Disaster Recovery is a lifecycle challenge. This post shows how to automate the full DRS agent lifecycle (install, heal, and offboard) using AWS Systems Manager Automation and Amazon...",
-    "ai": false,
-    "added": "2026-11-03T21:08:58+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/29/ARCHBLOG-1628-featured-image.png"
-  },
-  {
-    "title": "Challenge: Use a Kubernetes Job to Test NATS Pub/Sub",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/nats-pubsub-job-across-namespaces-682475e4",
-    "summary": "Scenario NATS is a messaging system. Applications use it to send messages to each other without connecting to each other directly. It works with publish/subscribe : A publisher sends a message to a subject , a name such as payments.requests . A subscriber...",
-    "ai": false,
-    "added": "2026-11-03T21:08:58+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/nats-pubsub-job-across-namespaces-682475e4/__static__/cover.png?v=1793692269233"
   }
 ]

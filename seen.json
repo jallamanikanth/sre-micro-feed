@@ -338,5 +338,10 @@
   "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
   "https://www.hashicorp.com/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c",
   "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/",
-  "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/"
+  "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+  "https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/",
+  "https://labs.iximiuz.com/challenges/storage-make-service-refuse-to-start-without-data-volume",
+  "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+  "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+  "https://www.hashicorp.com/blog/secure-ai-credentials-from-discovery-to-remediation-with-vault-radar-and-vault"
 ]
