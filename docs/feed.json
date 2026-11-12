@@ -1,5 +1,50 @@
 [
   {
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-12T16:04:47+00:00",
+    "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif"
+  },
+  {
+    "title": "Challenge: Add an HAProxy Sidecar to Serve an MQTT Broker over TLS",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/add-haproxy-tls-sidecar-to-mqtt-broker-a8d06607",
+    "summary": "Scenario Temperature sensors in a factory send their readings over MQTT to a broker . A sensor publishes a reading to a topic , such as factory/line1/temperature , and every client subscribed to that topic receives it. The broker is Eclipse Mosquitto ,...",
+    "ai": false,
+    "added": "2026-11-12T16:04:47+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/add-haproxy-tls-sidecar-to-mqtt-broker-a8d06607/__static__/cover.png?v=1794474268604"
+  },
+  {
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "source": "OpenAI News",
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "ai": false,
+    "added": "2026-11-12T16:04:47+00:00",
+    "image": ""
+  },
+  {
+    "title": "Supporting research on AI and children\u2019s safety",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/children-first-declaration",
+    "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "ai": false,
+    "added": "2026-11-12T16:04:47+00:00",
+    "image": ""
+  },
+  {
+    "title": "How Zillow runs 100 million daily notifications on AWS Step Functions",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-zillow-runs-100-million-daily-notifications-on-aws-step-functions/",
+    "summary": "Zillow sends more than 100 million personalized notifications a day, each as a short-lived AWS Step Functions Express workflow. See how the Comms Experience team replaced more than 10 campaign generators with one configuration-driven orchestration platform...",
+    "ai": false,
+    "added": "2026-11-12T16:04:47+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/11/ARCHBLOG-1607-featured-image.png"
+  },
+  {
     "title": "How to prevent leaks from Claude Code's 'Don't ask again' file",
     "source": "GitLab",
     "link": "https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-05T15:39:03+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png"
-  },
-  {
-    "title": "See the agents, set the terms: new visibility and control for personal agents",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-    "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
-    "ai": false,
-    "added": "2026-11-04T15:35:07+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1YEEEWJX3ENFZCG26ZEX.png"
-  },
-  {
-    "title": "See the agents, set the terms: new visibility and control for personal agents",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-    "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
-    "ai": false,
-    "added": "2026-11-04T15:35:07+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1YEEEWJX3ENFZCG26ZEX.png"
-  },
-  {
-    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/openai-to-acquire-pierre",
-    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
-    "ai": false,
-    "added": "2026-11-04T15:35:07+00:00",
-    "image": ""
-  },
-  {
-    "title": "A developer opened Postman. Then two AI coding agents changed without their permission.",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/postman-plugin-coding-agents/",
-    "summary": "A developer says Postman\u2019s desktop app installed plugins into Claude Code and OpenAI Codex without their permission. The app also The post A developer opened Postman. Then two AI coding agents changed without their permission. appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-11-04T15:35:07+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/11/436954c5-gustopo-gqirstz41ky-unsplash-scaled.jpg"
-  },
-  {
-    "title": "Can agent standards keep up with the companies building them?",
-    "source": "The New Stack",
-    "link": "https://thenewstack.io/mazin-gilbert-aaif-interview/",
-    "summary": "Mazin Gilbert, executive director of the Linux Foundation\u2019s Agentic AI Foundation, left Google earlier this year to lead the new AAIF, The post Can agent standards keep up with the companies building them? appeared first on The New Stack .",
-    "ai": false,
-    "added": "2026-11-04T15:35:07+00:00",
-    "image": "https://cdn.thenewstack.io/media/2026/11/4e36bc34-screenshot-2026-11-03-at-17.45.12.png"
   }
 ]

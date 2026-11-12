@@ -343,5 +343,10 @@
   "https://labs.iximiuz.com/challenges/storage-make-service-refuse-to-start-without-data-volume",
   "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
   "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
-  "https://www.hashicorp.com/blog/secure-ai-credentials-from-discovery-to-remediation-with-vault-radar-and-vault"
+  "https://www.hashicorp.com/blog/secure-ai-credentials-from-discovery-to-remediation-with-vault-radar-and-vault",
+  "https://huggingface.co/blog/3d-lora-finetuning",
+  "https://labs.iximiuz.com/challenges/add-haproxy-tls-sidecar-to-mqtt-broker-a8d06607",
+  "https://openai.com/business/customer-stories/holidays-extras-codex",
+  "https://openai.com/index/children-first-declaration",
+  "https://aws.amazon.com/blogs/architecture/how-zillow-runs-100-million-daily-notifications-on-aws-step-functions/"
 ]
