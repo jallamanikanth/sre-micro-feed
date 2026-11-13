@@ -1,5 +1,50 @@
 [
   {
+    "title": "Turn Jira tickets into GitLab merge requests with Duo Agent Platform",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/",
+    "summary": "Many teams plan in Jira and ship in GitLab. Even if you already use GitLab Duo Agent Platform, you still open Jira to read each ticket, copy it into an agent for implementation, and report the merge request back. This tutorial shows you how to remove that...",
+    "ai": false,
+    "added": "2026-11-13T15:31:44+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1774028474/bvfgeoiz0pijij3ow7vd.png"
+  },
+  {
+    "title": "Top Types of Hidden Coupling and How to Deal With Them",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+    "summary": "When you create an architecture diagram, you usually try to show the services, databases, queues, and the connections between these different components.",
+    "ai": false,
+    "added": "2026-11-13T15:31:44+00:00",
+    "image": ""
+  },
+  {
+    "title": "The Pulse: Details of incident.io\u2019s AI spend",
+    "source": "The Pragmatic Engineer",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/",
+    "summary": "The resiliency startup has slashed the amount it spends on AI; down from $4,500 per dev, per month, in August, to $1,600 now.",
+    "ai": false,
+    "added": "2026-11-13T15:31:44+00:00",
+    "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2023/05/Big-Tech---startups---from-the-inside.png"
+  },
+  {
+    "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture/",
+    "summary": "This post lays out a five-layer reference architecture for governed, observable enterprise AI agents on AWS: an API gateway, a five-phase agent runtime, a knowledge and state tier, platform services, and a cross-cutting trust and control framework. Each layer...",
+    "ai": false,
+    "added": "2026-11-13T15:31:44+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/10/ARCHBLOG-1711-featured-image.png"
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-13T15:31:44+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif"
+  },
+  {
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "source": "Hugging Face - Blog",
     "link": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-06T15:13:08+00:00",
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6RNR03ANCVS494WQ0XVY1MF.01M6RNR28D36KNEGJV7FG6HXTG.png"
-  },
-  {
-    "title": "Setting a new standard for responsible AI infrastructure",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "ai": false,
-    "added": "2026-11-05T15:39:03+00:00",
-    "image": ""
-  },
-  {
-    "title": "How Anthropic Redesigned Source Control",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
-    "summary": "In this article, we\u2019ll look at the architecture behind Scion.",
-    "ai": false,
-    "added": "2026-11-05T15:39:03+00:00",
-    "image": ""
-  },
-  {
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/phonon-tts",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-05T15:39:03+00:00",
-    "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png"
-  },
-  {
-    "title": "Agile Deliberation: How AI helps humans define the gray areas",
-    "source": "The latest research from Google",
-    "link": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
-    "summary": "Data Mining & Modeling",
-    "ai": false,
-    "added": "2026-11-05T15:39:03+00:00",
-    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-  },
-  {
-    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-05T15:39:03+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png"
   }
 ]
