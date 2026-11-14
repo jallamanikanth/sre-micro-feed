@@ -1,5 +1,50 @@
 [
   {
+    "title": "How Thermo Fisher Scientific built AI-powered patient matching on AWS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/",
+    "summary": "Learn how Thermo Fisher Scientific built an AI-powered patient-matching platform on AWS, modernizing its clinical trial recruitment data foundation and using AWS Countdown Premium to de-risk the production launch.",
+    "ai": false,
+    "added": "2026-11-14T14:21:25+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/10/ARCHBLOG-1669-featured-image.png"
+  },
+  {
+    "title": "Advancing science & engineering with Antigravity\u2019s /teamwork",
+    "source": "The latest research from Google",
+    "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "summary": "Education Innovation",
+    "ai": false,
+    "added": "2026-11-14T14:21:25+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
+    "title": "Kitesurf is now open source",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+    "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
+    "ai": false,
+    "added": "2026-11-14T14:21:25+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B8M86AWYDHNF9C7R2V0CXH.png"
+  },
+  {
+    "title": "Kitesurf is now open source",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+    "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
+    "ai": false,
+    "added": "2026-11-14T14:21:25+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B8M86AWYDHNF9C7R2V0CXH.png"
+  },
+  {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-14T14:21:25+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif"
+  },
+  {
     "title": "Turn Jira tickets into GitLab merge requests with Duo Agent Platform",
     "source": "GitLab",
     "link": "https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-06T20:57:46+00:00",
     "image": "https://fly.io/blog/well-that-wasnt-fun/assets/robot-bugs-firing-lasers-at-a-disk-eb13.webp"
-  },
-  {
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-06T15:13:08+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg"
-  },
-  {
-    "title": "Inside GitHub\u2019s new Git storage architecture",
-    "source": "The latest from GitHub's engineering team - The GitHub Blog",
-    "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-    "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub\u2019s new Git storage architecture appeared first on The GitHub Blog .",
-    "ai": false,
-    "added": "2026-11-06T15:13:08+00:00",
-    "image": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png"
-  },
-  {
-    "title": "How TUI scales threat modeling for 100+ teams with Amazon Bedrock",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock/",
-    "summary": "Learn how TUI, the world's leading tourism group, built an AI-powered threat modeling system on Amazon Bedrock and Amazon Bedrock AgentCore to scale security assessments across more than 100 product teams, cutting threat modeling time by up to 70% while...",
-    "ai": false,
-    "added": "2026-11-06T15:13:08+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/02/ARCHBLOG-1463-featured-image.png"
-  },
-  {
-    "title": "Australian universities are creating AI-native graduates",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "ai": false,
-    "added": "2026-11-06T15:13:08+00:00",
-    "image": ""
-  },
-  {
-    "title": "The post-quantum future of web privacy",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/vole-mole/",
-    "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
-    "ai": false,
-    "added": "2026-11-06T15:13:08+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6RNR03ANCVS494WQ0XVY1MF.01M6RNR28D36KNEGJV7FG6HXTG.png"
   }
 ]
