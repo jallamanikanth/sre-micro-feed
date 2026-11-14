@@ -1,5 +1,50 @@
 [
   {
+    "title": "EP233: Kubernetes Explained for Busy Engineers",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+    "summary": "Kubernetes is an orchestration platform that manages the deployment and maintenance of containerized applications, particularly on multiple machines.",
+    "ai": false,
+    "added": "2026-11-14T19:59:19+00:00",
+    "image": ""
+  },
+  {
+    "title": "Shell Gym: Kubernetes Gym: NetworkPolicies and Ingress",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/shell-gyms/network-policies-ingress-6748f0da",
+    "summary": "Repeatable kubectl exercises for ingress and egress NetworkPolicies and for Ingress host, path, default backend, and TLS rules.",
+    "ai": false,
+    "added": "2026-11-14T19:59:19+00:00",
+    "image": "https://labs.iximiuz.com/og/image/shell-gyms/network-policies-ingress-6748f0da/3309bbce.png"
+  },
+  {
+    "title": "Shell Gym: Kubernetes Gym: Services",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/shell-gyms/kubernetes-services-2d244393",
+    "summary": "Repeatable kubectl exercises for ClusterIP, NodePort, headless, ExternalName, and LoadBalancer Services, Service and Pod DNS names, and port-forwarding.",
+    "ai": false,
+    "added": "2026-11-14T19:59:19+00:00",
+    "image": "https://labs.iximiuz.com/og/image/shell-gyms/kubernetes-services-2d244393/d7264f30.png"
+  },
+  {
+    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+    "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare\u2019s observations and recommended countermeasures.",
+    "ai": false,
+    "added": "2026-11-14T19:59:19+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YCV0VN7GFCA6VK7EE9RR.png"
+  },
+  {
+    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+    "source": "Cloudflare Blog",
+    "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+    "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare\u2019s observations and recommended countermeasures.",
+    "ai": false,
+    "added": "2026-11-14T19:59:19+00:00",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YCV0VN7GFCA6VK7EE9RR.png"
+  },
+  {
     "title": "How Thermo Fisher Scientific built AI-powered patient matching on AWS",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-07T14:13:18+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/677c471f8b4c4e271e57eaa5/rtmGVvFdD6JqkjBc26vsp.png"
-  },
-  {
-    "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
-    "summary": "Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads. The...",
-    "ai": false,
-    "added": "2026-11-06T20:57:46+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Failure-Prediction-Detection-1.jpg"
-  },
-  {
-    "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
-    "source": "Microsoft Azure Blog",
-    "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
-    "summary": "AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects. The post Stop treating agents as one-off projects and start running them as a continuous discipline appeared first on Microsoft Azure Blog .",
-    "ai": false,
-    "added": "2026-11-06T20:57:46+00:00",
-    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-AI-transformation.jpg"
-  },
-  {
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "ai": false,
-    "added": "2026-11-06T20:57:46+00:00",
-    "image": ""
-  },
-  {
-    "title": "How OrderServ achieved up to 64% cost savings with multi-tenant ECS",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/",
-    "summary": "See how Cognizant and AWS Professional Services transformed the OrderServ food-ordering platform into a multi-tenant SaaS offering on shared Amazon ECS, cutting compute costs up to 64%, reducing scaling time from minutes to seconds, and lowering...",
-    "ai": false,
-    "added": "2026-11-06T20:57:46+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/10/19/ARCHBLOG-1639-featured-image.png"
-  },
-  {
-    "title": "Well, That Wasn't Fun: October 16 '26",
-    "source": "The Fly Blog",
-    "link": "https://fly.io/blog/well-that-wasnt-fun/",
-    "summary": "October 16, 2026 began like any other day at Fly.io (meaning, we were anticipating only a medium amount of chaos). By that evening, we had patched and rebooted our entire fleet in response to a Linux kernel bug . The full rollout took 10 hours, but the...",
-    "ai": false,
-    "added": "2026-11-06T20:57:46+00:00",
-    "image": "https://fly.io/blog/well-that-wasnt-fun/assets/robot-bugs-firing-lasers-at-a-disk-eb13.webp"
   }
 ]
