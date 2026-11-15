@@ -1,5 +1,50 @@
 [
   {
+    "title": "Challenge: Launch a Multi-Container Web Application, Then Upgrade Its Backend",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/docker-101-connect-multi-container-app",
+    "summary": "In this challenge, you'll launch a small web application consisting of two containers: a UI frontend and an API backend. Both components are already packaged as Docker images. You'll run them on an existing Docker host, server-01 , using plain Docker...",
+    "ai": false,
+    "added": "2026-11-15T20:26:51+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/docker-101-connect-multi-container-app/__static__/docker-connect-multi-container-app-problem.png?v=1794759619558"
+  },
+  {
+    "title": "Throwing Out The Phonebook",
+    "source": "The Fly Blog",
+    "link": "https://fly.io/blog/throwing-out-the-phonebook/",
+    "summary": "There\u2019s really only one hard problem in software engineering: synchronization. OK, maybe two: cache invalidation and synchronization. Synchronization is the harder one though, especially when the thing on the other side is eventually consistent. This year we...",
+    "ai": false,
+    "added": "2026-11-15T20:26:51+00:00",
+    "image": "https://fly.io/blog/throwing-out-the-phonebook/assets/frankie-on-the-phone-with-servers-c20b.webp"
+  },
+  {
+    "title": "Modular regression testing framework built on AWS for large-scale systems",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems/",
+    "summary": "Regression testing must catch behavior changes before they reach production, yet synthetic tests miss real-world edge cases. This post walks through a modular framework, built on AWS, that replays a sample of production traffic against new code and...",
+    "ai": false,
+    "added": "2026-11-15T20:26:51+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/11/ARCHBLOG-1397-featured-image.png"
+  },
+  {
+    "title": "Scale distributed AI workloads with Ray and Anyscale on Amazon EC2",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/scale-distributed-ai-workloads-with-ray-and-anyscale-on-amazon-ec2/",
+    "summary": "Building multimodal AI/ML pipelines on Amazon EC2 means scaling distributed compute, controlling costs across stages, and keeping up with new models and hardware. This post shows how the Ray-powered Anyscale application on AWS helps you deploy Ray across...",
+    "ai": false,
+    "added": "2026-11-15T20:26:51+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/12/ARCHBLOG-1581-featured-image.png"
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+    "source": "OpenAI News",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "ai": false,
+    "added": "2026-11-15T20:26:51+00:00",
+    "image": ""
+  },
+  {
     "title": "Free Live Masterclass: Building AI Agents That Work in the Real World",
     "source": "ByteByteGo Newsletter",
     "link": "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-08T14:23:51+00:00",
     "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-  },
-  {
-    "title": "The Platform Behind the Next AI Breakthrough",
-    "source": "Microsoft Azure Blog",
-    "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
-    "summary": "The next frontier of AI is coming into focus as agents take on longer, more strategic work. The post The Platform Behind the Next AI Breakthrough appeared first on Microsoft Azure Blog .",
-    "ai": false,
-    "added": "2026-11-07T19:30:29+00:00",
-    "image": "https://media.wired.com/photos/6ada4152d53570f6403f70da/191:100/w_1280,c_limit/CLO24-Azure-Fintech-012_HERO.jpg"
-  },
-  {
-    "title": "EP232: 6 Frequently Used Orchestration Frameworks in an AI system",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
-    "summary": "Orchestration in an AI system manages tasks across agents, handles failures, shared memory and context.",
-    "ai": false,
-    "added": "2026-11-07T19:30:29+00:00",
-    "image": ""
-  },
-  {
-    "title": "Challenge: Preserve Firewall Rules Across Server Reboots (iptables edition)",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/linux-preserve-iptables-rules",
-    "summary": "Firewall rules added with the iptables command exist only in the kernel's memory. When the server reboots, the rules disappear, and the ports they protect become exposed again. This server runs an HTTP service on port 8080 that should be accessible only from...",
-    "ai": false,
-    "added": "2026-11-07T19:30:29+00:00",
-    "image": "https://labs.iximiuz.com/og/image/challenges/linux-preserve-iptables-rules/de543728.png"
-  },
-  {
-    "title": "Challenge: Preserve Firewall Rules Across Server Reboots (nftables edition)",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/linux-preserve-nftables-rules",
-    "summary": "Firewall rules added with the nft command exist only in the kernel's memory. When the server reboots, the rules disappear, and the ports they protect become exposed again. This server runs an HTTP service on port 8080 that should be accessible only from the...",
-    "ai": false,
-    "added": "2026-11-07T19:30:29+00:00",
-    "image": "https://labs.iximiuz.com/og/image/challenges/linux-preserve-nftables-rules/81678611.png"
-  },
-  {
-    "title": "Agents aren\u2019t humans (but they kinda are)",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
-    "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
-    "ai": false,
-    "added": "2026-11-07T19:30:29+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6PA3MX9W46AFM0RQWHEB5XY.01M6PA3P39WJR11WZXCGGXKK3Y.png"
   }
 ]

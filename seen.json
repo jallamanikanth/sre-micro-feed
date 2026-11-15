@@ -368,5 +368,10 @@
   "https://huggingface.co/blog/allenai/xybench",
   "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
   "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-  "https://openai.com/business/customer-stories/shield"
+  "https://openai.com/business/customer-stories/shield",
+  "https://labs.iximiuz.com/challenges/docker-101-connect-multi-container-app",
+  "https://fly.io/blog/throwing-out-the-phonebook/",
+  "https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems/",
+  "https://aws.amazon.com/blogs/architecture/scale-distributed-ai-workloads-with-ray-and-anyscale-on-amazon-ec2/",
+  "https://openai.com/business/customer-stories/amplitude"
 ]
