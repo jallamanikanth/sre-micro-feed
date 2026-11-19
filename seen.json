@@ -388,5 +388,10 @@
   "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
   "https://www.hashicorp.com/blog/from-exposed-secrets-to-managed-credentials",
   "https://blog.bytebytego.com/p/evals-for-ai-engineers",
-  "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/"
+  "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
+  "https://aws.amazon.com/blogs/architecture/resilience-testing-your-agents-on-amazon-bedrock-agentcore/",
+  "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/",
+  "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
+  "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+  "https://about.gitlab.com/blog/recommended-config-for-agentic-engineering/"
 ]

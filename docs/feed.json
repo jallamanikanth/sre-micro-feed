@@ -1,5 +1,50 @@
 [
   {
+    "title": "Resilience testing your agents on Amazon Bedrock AgentCore",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/resilience-testing-your-agents-on-amazon-bedrock-agentcore/",
+    "summary": "When an AI agent's tools fail or return corrupted data, does it fail safe or confidently fabricate an answer? Learn how to inject tool-level faults (cancelled calls, corrupted responses, stripped fields) into a Strands agent on Amazon Bedrock AgentCore using...",
+    "ai": false,
+    "added": "2026-11-19T16:40:23+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/13/ARCHBLOG-1610-featured-image.png"
+  },
+  {
+    "title": "Aderant modernizes analytics data pipeline with Apache Iceberg and AWS Lambda",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/",
+    "summary": "Learn how Aderant modernized the data pipeline behind its Stridyn legal analytics platform with Apache Iceberg, AWS Lambda, and AWS Glue, moving from 15-minute batch cycles to an event-driven medallion architecture that processes change data capture events in...",
+    "ai": false,
+    "added": "2026-11-19T16:40:23+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/12/ARCHBLOG-1673-featured-image.png"
+  },
+  {
+    "title": "The Invisible Systems: What Happens Between Services",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
+    "summary": "When you draw a system architecture diagram, services are often shown as boxes, and arrows between them show the communication pathways.",
+    "ai": false,
+    "added": "2026-11-19T16:40:23+00:00",
+    "image": ""
+  },
+  {
+    "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+    "source": "Engineering at Meta",
+    "link": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+    "summary": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models. Now, we\u2019re sharing how we propagate...",
+    "ai": false,
+    "added": "2026-11-19T16:40:23+00:00",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-Scaling-Techniques-image-2-2.png"
+  },
+  {
+    "title": "The recommended GitLab configuration for agentic engineering",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/recommended-config-for-agentic-engineering/",
+    "summary": "Agents keep getting better at more than drafting code. Teams already use them to move work through review, repair pipelines, and push changes toward merge. That speed only helps if every change is based on the software lifecycle context that lives in a...",
+    "ai": false,
+    "added": "2026-11-19T16:40:23+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/f_auto,q_auto/Blog/Hero%20Images/c777a16dc08cba72f38ebe3ffd8dc3d7"
+  },
+  {
     "title": "Engineering AI Discover",
     "source": "Netflix TechBlog - Medium",
     "link": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-11T15:28:30+00:00",
     "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Your-algorithm-hero.jpg"
-  },
-  {
-    "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/",
-    "summary": "Learn how Novus Hi-Tech, with the AWS Prototyping and AI Customer Engineering (PACE) team, built FleetGPT, an agentic AI solution on Amazon Bedrock that turns fleet IoT data into real-time safety interventions through natural language querying, automated...",
-    "ai": false,
-    "added": "2026-11-10T15:41:18+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/09/21/ARCHBLOG-1388-featured-image.png"
-  },
-  {
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/control-room",
-    "summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "ai": false,
-    "added": "2026-11-10T15:41:18+00:00",
-    "image": ""
-  },
-  {
-    "title": "BAIR at CoRL 2026",
-    "source": "The Berkeley Artificial Intelligence Research Blog",
-    "link": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
-    "summary": "The Conference on Robot Learning (CoRL) takes place November 9\u201312, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full...",
-    "ai": false,
-    "added": "2026-11-10T15:41:18+00:00",
-    "image": "http://bair.berkeley.edu/blog/assets/BAIR_Logo.png"
-  },
-  {
-    "title": "Helping caregivers use AI in everyday life",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "ai": false,
-    "added": "2026-11-10T15:41:18+00:00",
-    "image": ""
-  },
-  {
-    "title": "Decision Models in Hugging Face",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/decision",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-10T15:41:18+00:00",
-    "image": "https://huggingface.co/blog/assets/decision/thumbnail.png"
   }
 ]
