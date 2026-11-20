@@ -1,5 +1,50 @@
 [
   {
+    "title": "The Pulse: What can we learn from the Railway hack?",
+    "source": "The Pragmatic Engineer",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/",
+    "summary": "Cloud platform Railway published a detailed postmortem about their recent hack in which the attacker likely used no-safeguards AI models. Railway hardened its systems as a result.",
+    "ai": false,
+    "added": "2026-11-20T16:16:34+00:00",
+    "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2023/05/Big-Tech---startups---from-the-inside.png"
+  },
+  {
+    "title": "Block DNS threats with Infoblox rules in Amazon Route 53 Resolver DNS Firewall",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/block-dns-threats-with-infoblox-rules-in-amazon-route-53-resolver-dns-firewall/",
+    "summary": "Infoblox Threat Defense is now available in preview in Amazon Route 53 Resolver DNS Firewall, providing partner-managed DNS threat intelligence. Learn how to add an Infoblox managed rule to a rule group, test it in alert mode, monitor matches, and move to...",
+    "ai": false,
+    "added": "2026-11-20T16:16:34+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/13/ARCHBLOG-1774-featured-image.png"
+  },
+  {
+    "title": "Petsem: Sometimes Dead Is Better",
+    "source": "The Fly Blog",
+    "link": "https://fly.io/blog/petsem/",
+    "summary": "It\u2019s a hard time to be in infosec. Not that it was ever easy, mind you, but nowadays it seems particularly bad, what with the speed at which LLM-powered attackers can explore, iterate, and exploit their victims. The balance of power has tipped in favor of...",
+    "ai": false,
+    "added": "2026-11-20T16:16:34+00:00",
+    "image": "https://fly.io/blog/petsem/assets/figure-carrying-a-cat-through-a-graveyard-f95b.webp"
+  },
+  {
+    "title": "Keep recurring work moving with scheduled automations",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/gitlab-scheduled-automations/",
+    "summary": "Every engineering team has work that needs regular attention, like triaging new issues or investigating incidents. Among DevSecOps professionals using AI tools, 43% say automating repetitive tasks has created the most efficiency, according to GitLab\u2019s Global...",
+    "ai": false,
+    "added": "2026-11-20T16:16:34+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/f_auto,q_auto/Blog/Hero%20Images/d9c56765629d6d942120e0afa16c566a"
+  },
+  {
+    "title": "AI coding agents on Amazon EC2 Mac: How Cognition scales Devin for macOS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/",
+    "summary": "Cognition gave its AI software engineer, Devin, a cloud Mac. Each Devin session gets a fresh macOS VM on Amazon EC2 Mac bare metal hosts, so Devin can build, run, and test iOS and macOS apps. Learn how Cognition built it with disk snapshots, a user-space...",
+    "ai": false,
+    "added": "2026-11-20T16:16:34+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/19/ARCHBLOG-1783-featured-image.png"
+  },
+  {
     "title": "Resilience testing your agents on Amazon Bedrock AgentCore",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/resilience-testing-your-agents-on-amazon-bedrock-agentcore/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-11T22:06:10+00:00",
     "image": ""
-  },
-  {
-    "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
-    "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton\u2019s productive programming model. TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new...",
-    "ai": false,
-    "added": "2026-11-11T15:28:30+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-TLX-hero.png"
-  },
-  {
-    "title": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
-    "summary": "In this article, we\u2019ll look at how this porting was done and the learnings along the way.",
-    "ai": false,
-    "added": "2026-11-11T15:28:30+00:00",
-    "image": ""
-  },
-  {
-    "title": "From insight to action: improving infrastructure risk posture with Terraform and Concert",
-    "source": "HashiCorp Blog",
-    "link": "https://www.hashicorp.com/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c",
-    "summary": "Learn how Terraform and IBM Concert connect trusted infrastructure context, policy-driven governance, and vulnerability management to improve risk posture across the infrastructure lifecycle.",
-    "ai": false,
-    "added": "2026-11-11T15:28:30+00:00",
-    "image": ""
-  },
-  {
-    "title": "Self-service regional failover with Amazon Application Recovery Controller Region Switch and centralized ingress controls",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/",
-    "summary": "Application teams in regulated enterprises can execute self-service regional failover with Amazon Application Recovery Controller (ARC) Region Switch, even behind centrally managed ingress proxy fleets. Learn how Transit Gateway peering, Route 53 Private...",
-    "ai": false,
-    "added": "2026-11-11T15:28:30+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/03/ARCHBLOG-1600-featured-image.png"
-  },
-  {
-    "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
-    "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We\u2019re sharing how Your algorithm turns people\u2019s natural language...",
-    "ai": false,
-    "added": "2026-11-11T15:28:30+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Your-algorithm-hero.jpg"
   }
 ]

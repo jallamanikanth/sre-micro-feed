@@ -393,5 +393,10 @@
   "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/",
   "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
   "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
-  "https://about.gitlab.com/blog/recommended-config-for-agentic-engineering/"
+  "https://about.gitlab.com/blog/recommended-config-for-agentic-engineering/",
+  "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/",
+  "https://aws.amazon.com/blogs/architecture/block-dns-threats-with-infoblox-rules-in-amazon-route-53-resolver-dns-firewall/",
+  "https://fly.io/blog/petsem/",
+  "https://about.gitlab.com/blog/gitlab-scheduled-automations/",
+  "https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/"
 ]
