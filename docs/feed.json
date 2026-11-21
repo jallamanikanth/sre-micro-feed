@@ -1,5 +1,50 @@
 [
   {
+    "title": "Deploying Daybreak Red",
+    "source": "OpenAI News",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "ai": false,
+    "added": "2026-11-21T20:59:08+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&amp;h=900&amp;fit=fill"
+  },
+  {
+    "title": "How United Airlines streams database changes to Apache Iceberg with Amazon Data Firehose",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-united-airlines-streams-database-changes-to-apache-iceberg-with-amazon-data-firehose/",
+    "summary": "United Airlines built a near-real-time change data capture pipeline that replicates reference data from Amazon Aurora MySQL to open Apache Iceberg tables using AWS DMS, Amazon Kinesis Data Streams, and Amazon Data Firehose. This post shows how to reproduce...",
+    "ai": false,
+    "added": "2026-11-21T20:59:08+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/16/ARCHBLOG-1326-featured-image.png"
+  },
+  {
+    "title": "Agentic engineering with GitLab and your local agent: A walkthrough",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/agentic-engineering-walkthrough/",
+    "summary": "You can build an agentic engineering environment to drive greater automation throughout your workflow. How? Start in the harness you already use and connect to GitLab Duo Agent Platform once with a skill. Longer, repository-aware workflows run on GitLab, and...",
+    "ai": false,
+    "added": "2026-11-21T20:59:08+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/f_auto,q_auto/Blog/Hero%20Images/c777a16dc08cba72f38ebe3ffd8dc3d7"
+  },
+  {
+    "title": "When Can You Ship on Offline Evals Alone?",
+    "source": "Spotify Engineering",
+    "link": "https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/",
+    "summary": "TL;DR Teams building AI features want to skip slow A/B tests and decide from offline evals alone. This post... The post When Can You Ship on Offline Evals Alone? appeared first on Spotify Engineering .",
+    "ai": false,
+    "added": "2026-11-21T20:59:08+00:00",
+    "image": "https://images.ctfassets.net/p762jor363g1/4w1jduYhnyiLjUjI8Ar3ZH/e354d444350d376d11dbde38a9213272/2.1__1_.png"
+  },
+  {
+    "title": "Turn Slack conversations into trusted software, faster",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/gitlab-slack-integration-for-software-factory/",
+    "summary": "Most software starts as a conversation: a customer requests a new capability, a product manager weighs it against the roadmap, an engineer checks feasibility, and a security lead asks what it touches. Then someone has to turn it into work. They reread the...",
+    "ai": false,
+    "added": "2026-11-21T20:59:08+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/f_auto,q_auto/Blog/Hero%20Images/cc665174633e8036f70dfc372c6205f7"
+  },
+  {
     "title": "How Bee implemented Zero Operator Access for personal AI on AWS",
     "source": "AWS Architecture Blog",
     "link": "https://aws.amazon.com/blogs/architecture/how-bee-implemented-zero-operator-access-for-personal-ai-on-aws/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-13T15:31:44+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif"
-  },
-  {
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/3d-lora-finetuning",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-12T16:04:47+00:00",
-    "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif"
-  },
-  {
-    "title": "Challenge: Add an HAProxy Sidecar to Serve an MQTT Broker over TLS",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/add-haproxy-tls-sidecar-to-mqtt-broker-a8d06607",
-    "summary": "Scenario Temperature sensors in a factory send their readings over MQTT to a broker . A sensor publishes a reading to a topic , such as factory/line1/temperature , and every client subscribed to that topic receives it. The broker is Eclipse Mosquitto ,...",
-    "ai": false,
-    "added": "2026-11-12T16:04:47+00:00",
-    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/add-haproxy-tls-sidecar-to-mqtt-broker-a8d06607/__static__/cover.png?v=1794474268604"
-  },
-  {
-    "title": "Holiday Extras is rethinking what it can build with Codex",
-    "source": "OpenAI News",
-    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-    "ai": false,
-    "added": "2026-11-12T16:04:47+00:00",
-    "image": ""
-  },
-  {
-    "title": "Supporting research on AI and children\u2019s safety",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/children-first-declaration",
-    "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
-    "ai": false,
-    "added": "2026-11-12T16:04:47+00:00",
-    "image": ""
-  },
-  {
-    "title": "How Zillow runs 100 million daily notifications on AWS Step Functions",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/how-zillow-runs-100-million-daily-notifications-on-aws-step-functions/",
-    "summary": "Zillow sends more than 100 million personalized notifications a day, each as a short-lived AWS Step Functions Express workflow. See how the Comms Experience team replaced more than 10 campaign generators with one configuration-driven orchestration platform...",
-    "ai": false,
-    "added": "2026-11-12T16:04:47+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/11/ARCHBLOG-1607-featured-image.png"
   }
 ]
