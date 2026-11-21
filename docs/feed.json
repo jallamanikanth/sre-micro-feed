@@ -1,5 +1,50 @@
 [
   {
+    "title": "How Bee implemented Zero Operator Access for personal AI on AWS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-bee-implemented-zero-operator-access-for-personal-ai-on-aws/",
+    "summary": "Bee, an Amazon company, built a personal AI wearable with no mechanism for operators (Bee engineers, other Amazon employees, or AWS infrastructure operators) to access customer data. Learn how Bee uses Amazon EC2 instance attestation and the AWS Nitro System...",
+    "ai": false,
+    "added": "2026-11-21T15:28:37+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/19/ARCHBLOG-1627-featured-image.png"
+  },
+  {
+    "title": "How Country Road Group built a pattern-driven integration solution on AWS",
+    "source": "AWS Architecture Blog",
+    "link": "https://aws.amazon.com/blogs/architecture/how-country-road-group-built-a-pattern-driven-integration-solution-on-aws/",
+    "summary": "Country Road Group replaced Microsoft BizTalk with a pattern-driven, serverless integration platform on AWS. Learn how its Strategic Integration Platform works across four processing lanes, and get the open-source Enterprise Integration Patterns CDK library...",
+    "ai": false,
+    "added": "2026-11-21T15:28:37+00:00",
+    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/17/ARCHBLOG-1635-featured-image.png"
+  },
+  {
+    "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "ai": false,
+    "added": "2026-11-21T15:28:37+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1GmNPxrS3qwhYU0t43dsaa/0df53811b9acf8f9699ace630362f112/performance-factory-social.png?w=1600&amp;h=900&amp;fit=fill"
+  },
+  {
+    "title": "The best way to use your coding agents with GitLab",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/coding-agents-with-gitlab/",
+    "summary": "Say you and your team already use Claude Code, Codex, Cursor, Devin, or OpenCode to write code. Maybe even more than one of them. What happens next depends on everyone\u2019s personal setup. Some have their agent review changes, watch CI pipelines and security...",
+    "ai": false,
+    "added": "2026-11-21T15:28:37+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1795111468/Blog/Hero%20Images/500c75b86d693447df458f2ba3a51f20.png"
+  },
+  {
+    "title": "Get started with Daybreak Blue",
+    "source": "OpenAI News",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "ai": false,
+    "added": "2026-11-21T15:28:37+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3oycdkFjJTGZs3kPmqJXJx/e793dee688314652562a63782e000e77/daybreak-blue-social.png?w=1600&amp;h=900&amp;fit=fill"
+  },
+  {
     "title": "The Pulse: What can we learn from the Railway hack?",
     "source": "The Pragmatic Engineer",
     "link": "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-12T16:04:47+00:00",
     "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/11/ARCHBLOG-1607-featured-image.png"
-  },
-  {
-    "title": "How to prevent leaks from Claude Code's 'Don't ask again' file",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/",
-    "summary": "This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We\u2019ve confirmed that GitLab\u2019s own infrastructure secrets are protected. In Claude Code, Anthropic\u2019s coding agent, a developer...",
-    "ai": false,
-    "added": "2026-11-11T22:06:10+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1782237704/cj50chkvprjthczevmog.png"
-  },
-  {
-    "title": "Challenge: Prevent a Service from Starting Without Its Data Disk",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/challenges/storage-make-service-refuse-to-start-without-data-volume",
-    "summary": "This challenge continues the story of Recover an Ingestion Service After a VM Upgrade . Solve that one first if you haven't, because the problem below reveals the original cause of the incident. The ingest-01 server runs ingestd , a service that keeps a large...",
-    "ai": false,
-    "added": "2026-11-11T22:06:10+00:00",
-    "image": "https://labs.iximiuz.com/og/image/challenges/storage-make-service-refuse-to-start-without-data-volume/c5c0e7b2.png"
-  },
-  {
-    "title": "LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
-    "summary": "Enrollment closes in 24 hours for Build Production Grade AI Systems. We kick off tomorrow, November 12, at 5pm PT.",
-    "ai": false,
-    "added": "2026-11-11T22:06:10+00:00",
-    "image": ""
-  },
-  {
-    "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
-    "summary": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others. The challenge is deciding where to allocate it to get the best...",
-    "ai": false,
-    "added": "2026-11-11T22:06:10+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Meta-Intelligent-Delivery-Hero.png"
-  },
-  {
-    "title": "Secure AI credentials from discovery to remediation with Vault Radar and Vault",
-    "source": "HashiCorp Blog",
-    "link": "https://www.hashicorp.com/blog/secure-ai-credentials-from-discovery-to-remediation-with-vault-radar-and-vault",
-    "summary": "AI credentials can easily spread across development workflows. Learn how Vault Radar and Vault help teams find, remediate, and securely manage them.",
-    "ai": false,
-    "added": "2026-11-11T22:06:10+00:00",
-    "image": ""
   }
 ]
