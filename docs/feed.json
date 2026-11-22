@@ -1,5 +1,50 @@
 [
   {
+    "title": "EP234: Docker vs Kubernetes",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+    "summary": "Which one should we use?",
+    "ai": false,
+    "added": "2026-11-22T15:29:16+00:00",
+    "image": ""
+  },
+  {
+    "title": "Microsoft Ignite 2026: What\u2019s new in Azure, the platform purpose-built for AI",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
+    "summary": "At Microsoft Ignite, we're sharing what's new across every layer of the platform. New capabilities spanning compute, storage, and networking let you run AI at scale with the control of your own infrastructure, without having to build, secure, and operate all...",
+    "ai": false,
+    "added": "2026-11-22T15:29:16+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Hero_Social-Preview.jpg"
+  },
+  {
+    "title": "Continuous improvement comes to Microsoft Foundry",
+    "source": "Microsoft Azure Blog",
+    "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
+    "summary": "Discover how continuous improvement in Microsoft Foundry helps organizations evaluate, optimize, and improve agents over time while keeping teams in control. The post Continuous improvement comes to Microsoft Foundry appeared first on Microsoft Azure Blog .",
+    "ai": false,
+    "added": "2026-11-22T15:29:16+00:00",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Continuous-improvement-Azure-blog-hero-no-text-1920x1080-option-B-quieter-ribbon-RECOMMENDED-1.png"
+  },
+  {
+    "title": "Challenge: Fix a Node-Level Config File Without SSH Access",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/fix-node-config-file-without-ssh-access-da928f2e",
+    "summary": "Scenario The platform team runs a small telemetry agent called lumen-agent in the lumen namespace. It runs on node-02 and reads its settings from /etc/lumen/agent.conf . The file exists only on the disk of node-02 . Nothing in the cluster stores a copy of it,...",
+    "ai": false,
+    "added": "2026-11-22T15:29:16+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/fix-node-config-file-without-ssh-access-da928f2e/__static__/coverv3.png?v=1795110819137"
+  },
+  {
+    "title": "Challenge: Create a Custom Resource Definition and Verify It in the Kubernetes API",
+    "source": "iximiuz Labs \u2014 All new posts",
+    "link": "https://labs.iximiuz.com/challenges/create-custom-resource-definition-and-verify-kubernetes-api-5be4e6d7",
+    "summary": "Scenario Your team runs an internal platform that keeps website configurations in Kubernetes. The platform team wants a Website resource type, so that operators can create and list Website objects with the same tools they use for built-in resources such as...",
+    "ai": false,
+    "added": "2026-11-22T15:29:16+00:00",
+    "image": "https://labs.iximiuz.com/cdn-cgi/image/width=1200,quality=80,fit=scale-down,format=auto/content/files/challenges/create-custom-resource-definition-and-verify-kubernetes-api-5be4e6d7/__static__/cover.png?v=1795102460112"
+  },
+  {
     "title": "Deploying Daybreak Red",
     "source": "OpenAI News",
     "link": "https://openai.com/business/learn/deploying-daybreak-red",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-14T14:21:25+00:00",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif"
-  },
-  {
-    "title": "Turn Jira tickets into GitLab merge requests with Duo Agent Platform",
-    "source": "GitLab",
-    "link": "https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/",
-    "summary": "Many teams plan in Jira and ship in GitLab. Even if you already use GitLab Duo Agent Platform, you still open Jira to read each ticket, copy it into an agent for implementation, and report the merge request back. This tutorial shows you how to remove that...",
-    "ai": false,
-    "added": "2026-11-13T15:31:44+00:00",
-    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1774028474/bvfgeoiz0pijij3ow7vd.png"
-  },
-  {
-    "title": "Top Types of Hidden Coupling and How to Deal With Them",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
-    "summary": "When you create an architecture diagram, you usually try to show the services, databases, queues, and the connections between these different components.",
-    "ai": false,
-    "added": "2026-11-13T15:31:44+00:00",
-    "image": ""
-  },
-  {
-    "title": "The Pulse: Details of incident.io\u2019s AI spend",
-    "source": "The Pragmatic Engineer",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/",
-    "summary": "The resiliency startup has slashed the amount it spends on AI; down from $4,500 per dev, per month, in August, to $1,600 now.",
-    "ai": false,
-    "added": "2026-11-13T15:31:44+00:00",
-    "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2023/05/Big-Tech---startups---from-the-inside.png"
-  },
-  {
-    "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
-    "source": "AWS Architecture Blog",
-    "link": "https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture/",
-    "summary": "This post lays out a five-layer reference architecture for governed, observable enterprise AI agents on AWS: an API gateway, a five-phase agent runtime, a knowledge and state tier, platform services, and a cross-cutting trust and control framework. Each layer...",
-    "ai": false,
-    "added": "2026-11-13T15:31:44+00:00",
-    "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/10/ARCHBLOG-1711-featured-image.png"
-  },
-  {
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-13T15:31:44+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif"
   }
 ]

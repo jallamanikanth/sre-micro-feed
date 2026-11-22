@@ -408,5 +408,10 @@
   "https://aws.amazon.com/blogs/architecture/how-united-airlines-streams-database-changes-to-apache-iceberg-with-amazon-data-firehose/",
   "https://about.gitlab.com/blog/agentic-engineering-walkthrough/",
   "https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/",
-  "https://about.gitlab.com/blog/gitlab-slack-integration-for-software-factory/"
+  "https://about.gitlab.com/blog/gitlab-slack-integration-for-software-factory/",
+  "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+  "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
+  "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
+  "https://labs.iximiuz.com/challenges/fix-node-config-file-without-ssh-access-da928f2e",
+  "https://labs.iximiuz.com/challenges/create-custom-resource-definition-and-verify-kubernetes-api-5be4e6d7"
 ]
