@@ -413,5 +413,10 @@
   "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
   "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
   "https://labs.iximiuz.com/challenges/fix-node-config-file-without-ssh-access-da928f2e",
-  "https://labs.iximiuz.com/challenges/create-custom-resource-definition-and-verify-kubernetes-api-5be4e6d7"
+  "https://labs.iximiuz.com/challenges/create-custom-resource-definition-and-verify-kubernetes-api-5be4e6d7",
+  "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
+  "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
+  "https://labs.iximiuz.com/challenges/docker-networking-connect-local-registry-to-kind-cluster",
+  "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
+  "https://openai.com/index/perplexity-and-intelligence"
 ]
