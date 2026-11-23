@@ -1,5 +1,50 @@
 [
   {
+    "title": "Kubernetes v1.38 Sneak Peek",
+    "source": "Kubernetes Blog",
+    "link": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+    "summary": "As we get closer to the release date for Kubernetes v1.38, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog post outlines some of the planned changes for the...",
+    "ai": false,
+    "added": "2026-11-23T19:22:48+00:00",
+    "image": ""
+  },
+  {
+    "title": "SRE Weekly Issue #544",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-544/",
+    "summary": "View on sreweekly.com A message from our sponsor, JAMS Software: Our support team moved its on-call off PagerDuty in under an hour. JAMS Incident Management checks your PagerDuty account read-only, then imports: schedules, rotations, and overrides escalation...",
+    "ai": false,
+    "added": "2026-11-23T19:22:48+00:00",
+    "image": ""
+  },
+  {
+    "title": "SRE Weekly Issue #544",
+    "source": "SRE WEEKLY",
+    "link": "https://sreweekly.com/sre-weekly-issue-544/",
+    "summary": "View on sreweekly.com A message from our sponsor, JAMS Software: Our support team moved its on-call off PagerDuty in under an hour. JAMS Incident Management checks your PagerDuty account read-only, then imports: schedules, rotations, and overrides escalation...",
+    "ai": false,
+    "added": "2026-11-23T19:22:48+00:00",
+    "image": ""
+  },
+  {
+    "title": "How to build and maintain an agentic evaluation",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-23T19:22:48+00:00",
+    "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png"
+  },
+  {
+    "title": "Supercharging transformer residual connections",
+    "source": "The latest research from Google",
+    "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "summary": "Algorithms & Theory",
+    "ai": false,
+    "added": "2026-11-23T19:22:48+00:00",
+    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
     "title": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations",
     "source": "Microsoft Azure Blog",
     "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-15T14:52:47+00:00",
     "image": ""
-  },
-  {
-    "title": "EP233: Kubernetes Explained for Busy Engineers",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
-    "summary": "Kubernetes is an orchestration platform that manages the deployment and maintenance of containerized applications, particularly on multiple machines.",
-    "ai": false,
-    "added": "2026-11-14T19:59:19+00:00",
-    "image": ""
-  },
-  {
-    "title": "Shell Gym: Kubernetes Gym: NetworkPolicies and Ingress",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/shell-gyms/network-policies-ingress-6748f0da",
-    "summary": "Repeatable kubectl exercises for ingress and egress NetworkPolicies and for Ingress host, path, default backend, and TLS rules.",
-    "ai": false,
-    "added": "2026-11-14T19:59:19+00:00",
-    "image": "https://labs.iximiuz.com/og/image/shell-gyms/network-policies-ingress-6748f0da/3309bbce.png"
-  },
-  {
-    "title": "Shell Gym: Kubernetes Gym: Services",
-    "source": "iximiuz Labs \u2014 All new posts",
-    "link": "https://labs.iximiuz.com/shell-gyms/kubernetes-services-2d244393",
-    "summary": "Repeatable kubectl exercises for ClusterIP, NodePort, headless, ExternalName, and LoadBalancer Services, Service and Pod DNS names, and port-forwarding.",
-    "ai": false,
-    "added": "2026-11-14T19:59:19+00:00",
-    "image": "https://labs.iximiuz.com/og/image/shell-gyms/kubernetes-services-2d244393/d7264f30.png"
-  },
-  {
-    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
-    "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare\u2019s observations and recommended countermeasures.",
-    "ai": false,
-    "added": "2026-11-14T19:59:19+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YCV0VN7GFCA6VK7EE9RR.png"
-  },
-  {
-    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
-    "source": "Cloudflare Blog",
-    "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
-    "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare\u2019s observations and recommended countermeasures.",
-    "ai": false,
-    "added": "2026-11-14T19:59:19+00:00",
-    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YCV0VN7GFCA6VK7EE9RR.png"
   }
 ]

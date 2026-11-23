@@ -418,5 +418,10 @@
   "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
   "https://labs.iximiuz.com/challenges/docker-networking-connect-local-registry-to-kind-cluster",
   "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
-  "https://openai.com/index/perplexity-and-intelligence"
+  "https://openai.com/index/perplexity-and-intelligence",
+  "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+  "https://sreweekly.com/sre-weekly-issue-544/",
+  "https://sreweekly.com/sre-weekly-issue-544/",
+  "https://huggingface.co/blog/agentic-evals",
+  "https://research.google/blog/supercharging-transformer-residual-connections/"
 ]
