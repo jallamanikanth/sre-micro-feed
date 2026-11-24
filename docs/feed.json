@@ -1,5 +1,50 @@
 [
   {
+    "title": "GitLab Dedicated: A go-live guide",
+    "source": "GitLab",
+    "link": "https://about.gitlab.com/blog/gitlab-dedicated-a-go-live-guide/",
+    "summary": "GitLab Dedicated is a single-tenant SaaS solution that is fully isolated, deployed in your preferred AWS cloud region, and hosted and maintained by GitLab. GitLab Dedicated and compliance covers why regulated organizations choose a single-tenant instance...",
+    "ai": false,
+    "added": "2026-11-24T18:59:08+00:00",
+    "image": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1795444831/a9m63gtamzaligza1fpp.svg"
+  },
+  {
+    "title": "Building a secure foundation for AI on Kubernetes with HashiCorp Vault",
+    "source": "HashiCorp Blog",
+    "link": "https://www.hashicorp.com/blog/building-a-secure-foundation-for-ai-on-kubernetes-with-hashicorp-vault",
+    "summary": "As AI goes cloud native, learn how HashiCorp Vault helps secure Kubernetes data, workload trust, certificates, and application credentials.",
+    "ai": false,
+    "added": "2026-11-24T18:59:08+00:00",
+    "image": ""
+  },
+  {
+    "title": "Terraform introduces tfpolicy support for Stacks, SCIM support, and more",
+    "source": "HashiCorp Blog",
+    "link": "https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more",
+    "summary": "HCP Terraform and Terraform Enterprise enhance orchestration, AI-ready workflows, and governance to help teams scale infrastructure securely and efficiently.",
+    "ai": false,
+    "added": "2026-11-24T18:59:08+00:00",
+    "image": ""
+  },
+  {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-24T18:59:08+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png"
+  },
+  {
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/ifood",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-24T18:59:08+00:00",
+    "image": ""
+  },
+  {
     "title": "Kubernetes v1.38 Sneak Peek",
     "source": "Kubernetes Blog",
     "link": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
@@ -492,51 +537,6 @@
     "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
     "ai": false,
     "added": "2026-11-15T20:26:51+00:00",
-    "image": ""
-  },
-  {
-    "title": "Free Live Masterclass: Building AI Agents That Work in the Real World",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
-    "summary": "An agent needs context to make decisions, tools to take action, guardrails to stay within bounds, and checks to verify the results.",
-    "ai": false,
-    "added": "2026-11-15T14:52:47+00:00",
-    "image": ""
-  },
-  {
-    "title": "XYBench: Helping with the problem behind the question",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/allenai/xybench",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-15T14:52:47+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png"
-  },
-  {
-    "title": "Cuttlefish on Mac: Running Android\u2019s Virtual Device Framework Natively on Apple Silicon",
-    "source": "Engineering at Meta",
-    "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
-    "summary": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon. [...] Read More... The post Cuttlefish on Mac: Running Android\u2019s Virtual Device Framework Natively on Apple Silicon appeared first on Engineering at Meta .",
-    "ai": false,
-    "added": "2026-11-15T14:52:47+00:00",
-    "image": "https://engineering.fb.com/wp-content/uploads/2026/11/Cuttlefish-on-Mac-lead.png"
-  },
-  {
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "source": "Hugging Face - Blog",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-15T14:52:47+00:00",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png"
-  },
-  {
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "source": "OpenAI News",
-    "link": "https://openai.com/business/customer-stories/shield",
-    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-    "ai": false,
-    "added": "2026-11-15T14:52:47+00:00",
     "image": ""
   }
 ]
