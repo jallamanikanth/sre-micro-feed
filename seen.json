@@ -428,5 +428,10 @@
   "https://www.hashicorp.com/blog/building-a-secure-foundation-for-ai-on-kubernetes-with-hashicorp-vault",
   "https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more",
   "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-  "https://openai.com/index/ifood"
+  "https://openai.com/index/ifood",
+  "https://labs.iximiuz.com/tutorials/15-million-web-servers-on-one-vm-87084d2a",
+  "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+  "https://www.hashicorp.com/blog/nomad-in-2026-a-year-of-scale-security-and-ecosystem-velocity",
+  "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
 ]
