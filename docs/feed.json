@@ -1,5 +1,50 @@
 [
   {
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/training-swarms",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-26T17:49:21+00:00",
+    "image": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png"
+  },
+  {
+    "title": "The Life of a Database Row: What Really Happens Behind the Scenes",
+    "source": "ByteByteGo Newsletter",
+    "link": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+    "summary": "In this article, we\u2019ll look at the life of a row in the database with respect to these operations.",
+    "ai": false,
+    "added": "2026-11-26T17:49:21+00:00",
+    "image": ""
+  },
+  {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "source": "Hugging Face - Blog",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "summary": "(no preview available)",
+    "ai": false,
+    "added": "2026-11-26T17:49:21+00:00",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png"
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "ai": false,
+    "added": "2026-11-26T17:49:21+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&amp;h=900&amp;fit=fill"
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "source": "OpenAI News",
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA\u2019s Kepler and TESS space telescopes.",
+    "ai": false,
+    "added": "2026-11-26T17:49:21+00:00",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&amp;h=900&amp;fit=fill"
+  },
+  {
     "title": "Tutorial: Can One VM Really Host 15 Million Web Servers?",
     "source": "iximiuz Labs \u2014 All new posts",
     "link": "https://labs.iximiuz.com/tutorials/15-million-web-servers-on-one-vm-87084d2a",
@@ -493,50 +538,5 @@
     "ai": false,
     "added": "2026-11-17T16:58:28+00:00",
     "image": "https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2026/11/11/ARCHBLOG-1730-featured-image.png"
-  },
-  {
-    "title": "LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
-    "summary": "decision time",
-    "ai": false,
-    "added": "2026-11-16T17:12:35+00:00",
-    "image": ""
-  },
-  {
-    "title": "SRE Weekly Issue #543",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-543/",
-    "summary": "View on sreweekly.com A message from our sponsor, Incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io\u2019s engineering team for an Extensions showcase. We\u2019ll build a skill live, watch it...",
-    "ai": false,
-    "added": "2026-11-16T17:12:35+00:00",
-    "image": ""
-  },
-  {
-    "title": "SRE Weekly Issue #543",
-    "source": "SRE WEEKLY",
-    "link": "https://sreweekly.com/sre-weekly-issue-543/",
-    "summary": "View on sreweekly.com A message from our sponsor, Incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io\u2019s engineering team for an Extensions showcase. We\u2019ll build a skill live, watch it...",
-    "ai": false,
-    "added": "2026-11-16T17:12:35+00:00",
-    "image": ""
-  },
-  {
-    "title": "How Instacart Uses LLMs to Make People Buy More",
-    "source": "ByteByteGo Newsletter",
-    "link": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
-    "summary": "In this article, we\u2019ll look at how Instacart used LLMs to build a product search that could accurately understand a user\u2019s shopping intention.",
-    "ai": false,
-    "added": "2026-11-16T17:12:35+00:00",
-    "image": ""
-  },
-  {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "source": "OpenAI News",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "summary": "(no preview available)",
-    "ai": false,
-    "added": "2026-11-16T17:12:35+00:00",
-    "image": ""
   }
 ]
